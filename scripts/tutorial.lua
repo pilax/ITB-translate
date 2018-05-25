@@ -3,22 +3,22 @@
 ----------------------------------------------
 
 Tutorial_Tanks = {
-	Text = "The tanks have come on-line and can now be controlled!",
-	Title = "Old Earth Tanks"
+	Text = "Les chars sont à présent en ligne et peuvent être controllés !",
+	Title = "Char de l'Ancienne Terre"
 }
 
 Tutorial_Terraform = {
-	Text = "This Terraformer unit is under your control during this mission. \n\nUse it to turn Grass tiles into Sand tiles.",
-	Title = "Terraformer"
+	Text = "Ce Terraformeur est sous votre contrôle durant cette mission. \n\nUtilisez-le pour transformer les tuiles Herbe en tuiles Sable.",
+	Title = "Terraformeur"
 }
 
 Tutorial_ArchiveArtillery = {
-	Text = "This Old Earth Artillery unit is under your control during this mission.",
-	Title = "Old Earth Artillery"
+	Text = "Cette unité d'Artillerie de l'Ancienne Terre est sous votre contrôle pendant cette mission.",
+	Title = "Artillerie de l'Ancienne Terre"
 }
 
 Tutorial_VolatileVek = {
-	Text = "Votre objectif bonus in this mission is to not let this monster die.",
+	Text = "L'objectif bonus de cette mission et de ne pas laissé mourri ce monstre.",
 	Title = "Vek Explosif"
 }
 
@@ -27,152 +27,152 @@ Tutorial_VolatileVek = {
 ----------------------------------------------
 
 Tutorial_FinalIsland = {
-	Title = "Final Mission",
-	Text = "You may attempt the Final Mission now that you've completed two islands. Or you can continue to secure more islands. \n\nThe Final Mission's Vek Threat will scale to your current island progress."
+	Title = "Mission Finale",
+	Text = "Vous pouvez tenter la Mission Finale maintenant que vous avez terminé deux îles. Ou vous pouvez continuer à sécuriser plus d'îles. \n\nLa menace Vek de la mission finale sera mise à l'échelle de votre progression actuelle sur l'île."
 }
 
 Tutorial_PoweredPilot = {
-	Title = "Powered Pilot",
-	Text = "This Pilot is a Sentient Machine and requires Reactor Power to activate its special ability.",
+	Title = "Pilote Alimenté",
+	Text = "Ce pilote est une machine douée de raison et nécessite une Puissance Réacteur pour activer sa capacité spéciale.",
 }
 
 Tutorial_Acid = {
 	Title = "A.C.I.D.",
-	Text = "This unit is inflicted with A.C.I.D. With its defenses corroded, all incoming damage will be doubled."
+	Text = "Cette unité est infligée par de l'A.C.I.D. Ses défenses étant corrodées, tous les dégâts subits seront doublés."
 }
 
 Tutorial_Frozen = {
-	Text = "This unit is Frozen. It cannot move or attack and will remain frozen until it takes damage.",
-	Title = "Frozen Unit",
+	Text = "Cette unité est Gelée. Elle ne peut pas bouger ou attaquer et restera Gelée jusqu'à ce qu'elle subisse des dégâts.",
+	Title = "Unité Gelée",
 }
 
 Tutorial_Frozen_Mech = {
-	Text = "This Mech can use its Repair Skill to free itself from the ice, but otherwise cannot attack or move.",
-	Title = "Frozen Mech",
+	Text = "Ce Mech peut utiliser sa Compétence Réparation pour se libérer de la glace, mais ne pourra pas attaquer ou se déplacer par la suite.",
+	Title = "Mech Gelé",
 }
 
 Tutorial_Environment = {
-	Text = "This mission has a special effect that will happen every turn. \n\nMouse over the environment icon to get more information.",
-	Title = "Environment Effect"
+	Text = "Lors de cette mission, un évènement spécial se produira à chaque tour. \n\nPassez la souris sur l'icône d'environnement pour obtenir plus d'informations.",
+	Title = "Effet Environnemental"
 }
 
 Tutorial_PowerGrid = {
-	Text = "The Power Grid connects every corporate Island. Any damage you take in missions will persist. \n\nThe Vek caused damage before you arrived, but there will be opportunities to restore it.",
-	Title = "Damaged Power Grid"
+	Text = "Le Réseau d'Énergie relie chaque île corporative. Tout dégât subit lors des missions persisteront. \n\nLes Veks ont causé des dégâts avant votre arrivée, mais il vous sera possible de les réparer.",
+	Title = "Réseau d'Énergie Endommagé"
 }
 
 Tutorial_Overpower = {
-	Text = "If your Power Grid is full when it receives additional power, your Grid Defense will be permanently upgraded.",
-	Title = "Overpowered Grid",
+	Text = "Lorsque vous recevez de l'énergie supplémentaire et que votre Réseau d'Énergie est plein, la Puissance Défensive est augmentée de façon permanente.",
+	Title = "Surcharge du Réseau",
 }
 
 Tutorial_GridDefense = {
-	Text = "This building resisted damage! \n\nThe chance of a building resisting damage is shown to the right of your Power Meter.",
-	Title = "Grid Defense"
+	Text = "Ce bâtiment a résisté aux dégâts ! \n\nLa probabilité qu'un bâtiment résiste aux dégâts est indiquée à droite de votre Jauge de Puissance.",
+	Title = "Puissance Défensive"
 }
 
 Tutorial_RegionLost = {
-	Text = "After every battle, the Vek will destroy a region on the Island. \n\nKeep in this mind when choosing missions.",
-	Title = "Lost Regions"
+	Text = "Après chaque bataille, le Vek détruira une région de l'île. \n\nConservez-vous dans cet esprit en choisissant des missions.",
+	Title = "Régions Perdues"
 }
 
 Tutorial_Jelly = {
-	Text = "This enemy Psion provides a passive bonus to all Vek. Killing it removes the bonus. \n\nSelect the Psion and mouse over its portrait in the bottom left for more information.",
-	Title = "Vek Psion",
+	Text = "Cet ennemi Psion fournit un bonus passif à tous les Veks. En le tuant, cela supprimera le bonus. \n\nSélectionnez le Psion et survoler son portrait en bas à gauche pour plus d'informations.",
+	Title = "Psion Vek",
 }
 
 Tutorial_Webbed = {
-	Text = "This unit has been WEBBED! \n\nMouseover the status icons on the bottom left to investigate what that means.",
-	Title = "Webbed Mech"
+	Text = "Cette unité a été Entravée ! \n\nSurvolez les icônes d'état en bas à gauche pour voir ce que cela signifie.",
+	Title = "Mech Entravé"
 }
 
 Tutorial_IslandNewGame = {
-	Text = "You can attempt the islands you've unlocked in any order. \n\nVek difficulty will scale depending on how many Islands you've completed this game.",
-	Title = "Corporate Islands",
+	Text = "Vous pouvez aller sur les îles que vous avez débloquées dans n'importe quel ordre.  \n\nLa difficulté des Veks variera en fonction du nombre d'îles que vous avez terminées.",
+	Title = "Îles Corporatives",
 	Exclusive = "Tutorial_IslandSecond"
 }
 
 Tutorial_Spawning = {
-	Text = "An enemy unit will emerge here next turn! \n\nYou can temporarily block enemies from spawning, but it will damage the blocking unit.",
-	Title = "Emerging Enemies"
+	Text = "Une unité ennemie apparaîtra à cet endroit au tour suivant !  \n\nVous pouvez bloquer temporairement l'apparition des ennemis mais cela endommagera l'unité placée sur la tuile.",
+	Title = "Apparition des Ennemis"
 }
 
 Tutorial_Forest = {
-	Text = "The FOREST on this tile took damage, turning it into FIRE. \n\nIf a unit stands on FIRE, it will ignite and take damage every turn.",
-	Title = "Burning Forests"
+	Text = "La FORÊT sur cette tuile à subit des dégâts, la transformant en FEU. \n\nSi une unité reste sur la tuile Feu, elle s'enflammera et subira des dégâts à chaque tour.",
+	Title = "Forêts En Feu"
 }
 
 Tutorial_Fire = {
-	Text = "This Mech is on FIRE! It will take one damage every turn. \n\nMechs can REPAIR status effects, but cannot attack the same turn that they repair.",
-	Title = "Burning Mechs"
+	Text = "Ce Mech est en feu ! Il prendra un point de dégât à chaque tour.  \n\nLes Mechs peuvent se RÉPARER, mais ne pourront plus attaquer par la suite.",
+	Title = "Mechs En Feu"
 }
 
 Tutorial_DamagedMech = {
-	Text = "Your Mechs will automatically repair all damage after battle. \n\nIf a Mech is reduced to 0 health, the pilot dies and the Mech is disabled for the rest of that battle.",
-	Title = "Damaged Mechs"
+	Text = "Vos Mechs répareront automatiquement tous les dégâts après la bataille. \n\nSi un Mech est réduit à 0 points de vie, le Pilote meurt et le Mech est désactivé pour le restant de la bataille.",
+	Title = "Mechs Endommagés"
 }
 
 Tutorial_Corroded = {
-	Text = "This Mech is inflicted with A.C.I.D.! It corrodes the unit's armor, causing all incoming damage to be doubled. \n\nMechs can REPAIR status effects, but cannot attack the same turn that they repair.",
-	Title = "Acidic Mechs"
+	Text = "Ce Mech est affecté par de l'A.C.I.D. ! Il corrode l'armure de l'unité, doublant ainsi tous les dégâts. \n\nLes Mechs peuvent RÉPARER les effets d'états, mais ne pourront plus attaquer par la suite.",
+	Title = "Mechs Corrodés"
 }
 
 Tutorial_Pod = {
-	Text = "This Pod contains equipment from the future! \n\nYou can collect it with your Mech, or just defend it until the end of the battle.",
-	Title = "Time Pods"
+	Text = "Ce Module contient des équipements provenant du futur ! \n\nVous pouvez le récupérer avec votre Mech, ou simplement le défendre jusqu'à la fin de la bataille.",
+	Title = "Modules Temporels"
 }
 
 Tutorial_PodDestroyed = {
-	Text = "The Time Pod on this tile has been destroyed by the monster standing on it!",
-	Title = "Destroyed Time Pods"
+	Text = "Le Pod Temporel sur cette tuile a été détruit par le monstre qui s'y trouve !",
+	Title = "Modules Temporels Détruits"
 }
 
 Tutorial_Water = {	
-	Text = "Mechs cannot use their weapons when standing in Water.",
-	Title = "Swimming Robots",
+	Text = "Les Mechs ne peuvent pas utiliser leurs armes lorsqu'ils se trouvent dans l'Eau.",
+	Title = "Robots Nageurs",
 }
 
 Tutorial_WaterUndo = {	
-	Text = "Mechs cannot use their weapons when standing in Water. \n\nYou can use Undo Move if you'd like to reposition it.",
-	Title = "Swimming Robots",
+	Text = "Les Mechs ne peuvent pas utiliser leurs armes lorsqu'ils se trouvent dans l'Eau. \n\nVous pouvez utiliser Annuler Déplacement si vous souhaitez le repositionner.",
+	Title = "Robots Nageurs",
 }
 
 Tutorial_DeadPilot = {
-	Text = "Your Mech was disabled! Its pilot was killed and it will not be able to act for the rest of the mission.",
-	Title = "Disabled Mechs"
+	Text = "Votre Mech a été mis hors service ! Son Pilote a été tué et ne pourra plus agir pour le restant de la mission.",
+	Title = "Mechs HS"
 }
 
 
 Tutorial_Drowning = {
-	Text = "This monster fell into the Water, killing it instantly!",
-	Title = "Drowning Monsters"
+	Text = "Ce monstre est tombé dans l'eau, le tuant instantanément !",
+	Title = "Monstres noyés"
 }
 
 Tutorial_PushDamage = {
-	Text = "Pushing units into things deals 1 additional damage to BOTH!",
-	Title = "Pushing into Objects",
+	Text = "Pousser les unités contre quelque chose inflige respectivement 1 de dégât !",
+	Title = "Pousser contre les Objets",
 	Exclusive = "Tutorial_PushDead"
 }
 
 Tutorial_PushDeath = {
-	Text = "Pushing units into things deals 1 additional damage to both! \n\nIn this case, the extra damage killed the unit!",
-	Title = "Pushing into Objects",
+	Text = "Pousser les unités contre des objets inflige 1 point de dégât supplémentaire à l'unité et à l'objet !  \n\nDans notre cas, les dégâts supplémentaires ont tué l'unité !",
+	Title = "Pousser contre les Objets",
 	Exclusive = "Tutorial_PushDamage"
 }
 
 Tutorial_BuildingDamage = {
-	Text = "This building tile was damaged, so your city Power Grid was reduced. \n\nYour primary goal is to prevent this!",
-	Title = "Building Damage"
+	Text = "Cette tuile de bâtiment a été endommagée, de ce fait, le Réseau d'Énergie de votre ville a diminué. \n\nVotre objectif principal est d'empêcher cela !",
+	Title = "Dégâts aux Bâtiments"
 }
 
 Tutorial_Combat = {
-	Title = "Combat Simulation",
-	Text = "There is a Combat Simulation available to get new Commanders up to speed with mechanized combat. \n\nWould you like to launch the simulation?"
+	Title = "Simulation",
+	Text = "Une Simulation de Combat est disponible pour permettre aux nouveaux commandants de se familiariser avec les mécanismes de combats \n\nSouhaiter-vous lancer la simulation ?"
 }
 
 Tutorial_Research = {
-	Title = "Mech Upgrade Screen",
-	Text = "From this screen you can upgrade your Mech, equip new weapons, and swap out pilots. \n\nTake advantage of the tool-tips if you have any questions!"
+	Title = "Écran d'Améliorations du Mech",
+	Text = "Depuis de cet écran, vous pouvez améliorer votre Mech, équiper de nouvelles armes et échanger des pilotes. \n\nProfitez des astuces si vous avez des questions !"
 }
 
 --[[Tutorial_District = {
@@ -181,31 +181,31 @@ Tutorial_Research = {
 }]]--
 
 Tutorial_Money = {
-	Title = "Corporation Reputation",
-	Text = "As you secure regions and complete secondary objectives, your reputation with the local corporation will increase. \n\n You can spend reputation on supplies at the end of the island."
+	Title = "Réputation Corporative",
+	Text = "Au fur et à mesure que vous sécurisez les régions et complétez les objectifs secondaires, votre réputation auprès de la Corporation locale augmentera. \n\nVous pouvez dépenser la réputation en fournitures à la fin de l'île."
 }
 
 Tutorial_Cores = {
-	Title = "Reactor Cores",
-	Text = "You now have a reactor core! Open a Mech's Upgrade Screen and install it."
+	Title = "Noyaux Réacteur",
+	Text = "Vous avez maintenant un Noyau Réacteur ! Ouvrez l'Écran Amélioration d'un Mech et installez-le."
 }
 
 Tutorial_Cores2 = {
-	Title = "Core Installation",
-	Text = "You can use this button to install Reactor Cores in a Mech. \n\nEach core will increase a Mech's maximum reactor power by one."
+	Title = "Installation Noyau",
+	Text = "Vous pouvez utiliser ce bouton pour installer les Noyaux Réacteur dans un Mech. \n\nChaque Noyau augmentera la puissance maximale du Réacteur d'un Mech."
 }
 
 Tutorial_Cores3 = {
-	Title = "Weapon Modifications",
-	Text = "You can use reactor power to activate weapon modifications. \n\nClick on a mod to power it. You can always click again to remove the power if you want to put it elsewhere."
+	Title = "Modifications Armes",
+	Text = "Vous pouvez utiliser la puissance du Réacteur pour activer les modifications d'armes. \n\nCliquez sur un module pour l'alimenter. Vous pouvez à nouveau cliquer dessus pour le retirer afin de le placer ailleurs."
 }
 
 Tutorial_Weapon = {
-	Title = "New Weapon",
-	Text = "You just got a new weapon! You can equip it in the Upgrade Screen."
+	Title = "Nouvelle Arme",
+	Text = "Vous venez juste d'avoir une nouvelle arme ! Vous pouvez l'équiper dans l'Écran des Améliorations."
 }
 
 Tutorial_Pilot = {
-	Title = "New Pilot",
-	Text = "You just got a new pilot! You can assign it in the Upgrade Screen."
+	Title = "Nouveau Pilote",
+	Text = "Vous venez d'avoir un nouveau pilote ! Vous pouvez l'assigner dans l'écran d'Amélioration."
 }
