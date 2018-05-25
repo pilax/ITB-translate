@@ -168,7 +168,7 @@ Passive_Electric_A_UpgradeDescription = "Augmente les dégâts du Brouillard de 1.
 Passive_Electric_B_UpgradeDescription = "",
 
 Passive_Leech_Name = "Nano-Robots Viscéral",
-Passive_Leech_Description = "Mechs heal 1 damage when they deal a killing blow.", 
+Passive_Leech_Description = "Les Mechs se soignent de 1 lorsqu'ils exécutent un Vek.", 
 Passive_Leech_Upgrade1 = "+1 Soin",
 Passive_Leech_Upgrade2 = "",
 Passive_Leech_A_UpgradeDescription = "Augmente le soin de 2.",
