@@ -1,42 +1,42 @@
 
 Pass_Reactor = {
-	Name = "Overcharged Reactors",
-	Description = "+1 Reactor for all Mechs",
+	Name = "Réacteurs Surpuissants",
+	Description = "+1 Noyau à tous les Mechs",
 	Value = 1
 }
 
 Pass_Move = {
-	Name = "Energized Servos",
-	Description = "+1 Move for all Mechs",
+	Name = "Servos Renforcés",
+	Description = "+1 Déplacement à tous les Mechs",
 	Value = 1
 }
 
 Pass_Health = {
-	Name = "Titanite Reinforcement",
-	Description = "+2 Health for all Mechs",
+	Name = "Renforcement en Titanium",
+	Description = "+2 pt. de vie à tous les Mechs",
 	Value = 2
 }
 
 Pass_Pods = {
-	Name = "Pod Detection",
-	Description = "Mark the location of incoming Time Pods",
+	Name = "Détection de Module",
+	Description = "Indique la localisation des atterrisages des Modules temporels",
 	Value = 1
 }
 
 Pass_Limited = {
-	Name = "Ammo Storage",
-	Description = "All limited weapons gain +1 use",
+	Name = "Stockage de Munitions",
+	Description = "Toutes les armes limitées en utilisation gagne +1 utilisation",
 	Value = 1
 }
 
 Pass_CrossClass = {
-	Name = "Creative Engineering",
-	Description = "No penalties when equipping cross-class weapons"
+	Name = "Ingénierie créative",
+	Description = "Équiper des armes non adaptées à la classe ne cause plus pénalité"
 }
 
 Pass_Death = {
-	Name = "Emergency Medical Team",
-	Description = "Pilots will no longer die when their Mechs are disabled"
+	Name = "Équipe médicale d'urgence",
+	Description = "Les pilotes ne peuvent plus mourir lorsque leurs Mechs sont désactivés"
 }
 
 -------------------------------------
@@ -45,41 +45,41 @@ Pass_Death = {
 
 Air_Force = 
 {
-	Name = "Air Support: Strike",
-	Description = "Deals 1 damage and pushes all adjacent squares",
+	Name = "Frappe Aérienne",
+	Description = "Inflige 1 dommage et pousse les tuiles adjacentes",
 	Skill = "Structure_Force"
 }
 
 Air_Repair = 
 {
-	Name = "Air Support: Repair",
-	Description = "Heal all player units (including disabled Mechs)",
+	Name = "Support Aérien",
+	Description = "Soigne toutes les unités du joueur (Mechs hors combat inclus)",
 	Skill = "Structure_Repair"
 }
 
 CombatPass_Shield = {
-	Name = "Invincibility",
-	Description = "All player units are invulnerable until the first building is damaged in a mission."
+	Name = "Invincibilité",
+	Description = "Toutes les unitées du joueur sont invulnérables tant qu'aucun bâtiment n'est endommagé pendant la mission"
 }
 
 CombatPass_Defense = {	
-	Name = "Emergency Shields",
-	Description = "When a building tile is damaged, but not destroyed, it is Shielded."
+	Name = "Boucliers de Secours",
+	Description = "Lorsqu'un bâtiment est endommagé mais pas détruit, il reçoit un bouclier"
 }
 
 CombatPass_ShieldStart = {
-	Name = "Mech Shielding",
-	Description = "Mechs start every battle with a Shield"
+	Name = "Protection Mech ",
+	Description = "Les Mechs commencent chaque combat avec un bouclier"
 }
 
 CombatPass_Acid = {
-	Name = "Acidic Blast",
-	Description = "Inflict acid on a random enemy at the start of each battle"
+	Name = "Souffle acide",
+	Description = "Inflige de l'acid sur un ennemi au hasard au début de chaque bataille"
 }
 
 CombatPass_Fire = {
-	Name = "Flame Blast",
-	Description = "Inflict fire on a random enemy at the start of each battle"
+	Name = "Explosion de flamme",
+	Description = "Enflamme un ennemi au hasard au début de chaque bataille"
 }
 
 --Code Broke, taken out for now
@@ -89,6 +89,6 @@ CombatPass_Fire = {
 }]]--
 
 CombatPass_Reduce = {
-	Name = "Grid Defenses",
-	Description = "Power Grid Defense +10"
+	Name = "Défenses de Réseau",
+	Description = "Augmente les défenses du Réseau d'énergie de +10"
 }
