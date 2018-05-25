@@ -12,7 +12,7 @@ Str_Robotics = {
 --------------------------------------------
 
 Str_Bar = {
-	Name = "le Bar de l'Ancienne Terre",
+	Name = "Bar de l'Ancienne Terre",
 	Image = "str_bar1",
 	Reward = REWARD_REP
 }
@@ -28,7 +28,7 @@ Str_Supply = {
 --------------------------------------------
 
 Str_Tower = {
-	Name = "la Tour Corporative",
+	Name = "Tour Corporative",
 	Image = "str_tower1",
 	Reward = REWARD_REP
 }
@@ -36,7 +36,7 @@ Str_Tower = {
 --------------------------------------------
 
 Str_Research = {
-	Name = "le Laboratoire de Défense",
+	Name = "Laboratoire de Défense",
 	Image = "str_research1",	
 	Reward = REWARD_TECH
 	--Passives = { "CombatPass_Acid", "CombatPass_Fire" }
@@ -45,7 +45,7 @@ Str_Research = {
 --------------------------------------------
 
 Str_Power = {
-	Name = "la Centrale à Charbon",
+	Name = "Centrale à Charbon",
 	Image = "str_power1",
 	Reward = REWARD_POWER
 }
@@ -53,7 +53,7 @@ Str_Power = {
 -----------------------------------------------
 
 Str_Clinic = {
-	Name = "la Clinique",
+	Name = "Clinique",
 	Image = "str_hospital1",
 	Reward = REWARD_REP
 }
@@ -61,7 +61,7 @@ Str_Clinic = {
 -----------------------------------------------
 
 Str_Shield = {
-	Name = "le Générateur de Bouclier",
+	Name = "Générateur de Bouclier",
 	Image = "str_energy1",	
 	Reward = REWARD_TECH
 	--Passives = { "CombatPass_Shield", "CombatPass_Defense", "CombatPass_ShieldStart" }
@@ -70,7 +70,7 @@ Str_Shield = {
 --------------------------------------------------
 
 Str_Nimbus = {
-	Name = "le Générateur de Puissance",
+	Name = "Générateur de Puissance",
 	Image = "str_recycle1",
 	Reward = REWARD_POWER
 }
@@ -78,7 +78,7 @@ Str_Nimbus = {
 ------------------------------------------------
 
 Str_Battery = {
-	Name = "les Batteries de Secours",
+	Name = "Batteries de Secours",
 	Image = "str_battery1",
 	Reward = REWARD_POWER
 --	Passives = { "CombatPass_Reduce" }
@@ -86,7 +86,7 @@ Str_Battery = {
 -----------------------------------------------
 
 Str_Combat = {
-	Name = "l'Aérodrome",
+	Name = "Aérodrome",
 	Image = "str_airfield1",	
 	Reward = REWARD_TECH
 	--Passives = {"Air_Force", "Air_Repair"}

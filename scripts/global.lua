@@ -253,7 +253,7 @@ Skill =
 		UpgradeList = {},
 		UpgradeCost = {},
 		Name = "Nom Arme",
-		SkillName = "Skill Name",
+		SkillName = "Nom Compétense",
 		Description = "Null",
 		Description2 = "Null",
 		EffectImage = "todo",
@@ -476,9 +476,9 @@ end
 ------------ Useful functions -------------
 
 function GetTurnString(turns)
-	if turns == 1 then return "1 turn" end
+	if turns == 1 then return "1 tour" end
 	
-	return turns.." turns"
+	return turns.." tours"
 end
 
 function CallMethod(obj, func, arg1, arg2)

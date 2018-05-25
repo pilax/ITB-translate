@@ -125,7 +125,7 @@ CreatePilot{
 	Id = "Pilot_Artificial",
 	Personality = "Artificial",
 	Rarity = 0,
-	Name = "A.I. Unit",
+	Name = "Unité I.A",
 	Voice = "/voice/ai",
 }
 
