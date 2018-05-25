@@ -1,6 +1,6 @@
 
 Mission_Freezing = Mission_Infinite:new{ 
-	Name = "Freeze Bursts",
+	Name = "Éclats glacial",
 	UseBonus = true,
 	MapTags = { "water" },
 	Environment = "Env_Freezing"
@@ -9,9 +9,9 @@ Mission_Freezing = Mission_Infinite:new{
 ----- Freezing Environment
 
 Env_Freezing = Env_LandChange:new{
-	Name = "Flash Freezing ",
-	Text = "Water will alternate between frozen and liquid after every turn.",
-	StratText = "FLASH FREEZING",
+	Name = "Congélation Spontanée ",
+	Text = "L'eau changera d'état (solide ou liquide) à chaque tour.",
+	StratText = "Congélation Spontanée",
 }
 
 function Env_Freezing:SetupLocations()

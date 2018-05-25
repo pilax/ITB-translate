@@ -4,7 +4,7 @@ Mission_SlugBoss = Mission_Boss:new{
 --	Name = "Slug Boss",
 	BossPawn = "SlugBoss",
 	GlobalSpawnMod = -1,
-	BossText = "Détruire le Chef de Limace"
+	BossText = "Détruire le Chef Limace"
 }
 
 function Mission_SlugBoss:StartMission()
@@ -52,7 +52,7 @@ AddPawn("SlugBoss")
 
 SlugEgg1 =
 	{
-		Name = "?uf Limace",
+		Name = "oeuf Limace",
 		Health = 1,
 		MoveSpeed = 0,
 		Image = "sluglingb",

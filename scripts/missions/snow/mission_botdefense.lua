@@ -34,7 +34,7 @@ end
 
 function Mission_BotDefense:UpdateObjectives()
 	local status1 = self:CountBots()  == 2 and OBJ_STANDARD or OBJ_FAILED
-	Game:AddObjective("Defend both the Robots" , status1, REWARD_REP, 2)
+	Game:AddObjective("Défendre les deux Robots" , status1, REWARD_REP, 2)
 	
 	if status1 == OBJ_FAILED then
 		local status2 = self:CountBots()  == 1 and OBJ_STANDARD or OBJ_FAILED

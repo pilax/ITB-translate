@@ -14,7 +14,7 @@ Mission_Final = Mission_Infinite:new{
 Env_Final = Env_Attack:new{
 	Image = "env_lightning",
 	Name = "Cavernes",
-	Text = "Watch out for Vek Eggs, falling rocks, and lava!",
+	Text = "Attention aux oeufs Veks, and chutes de pierres et à la lave !",
 	StratText = "",
 	CombatIcon = "combat/tile_icon/tile_lightning.png",
 	CombatName = "CAVERNS",
@@ -219,7 +219,7 @@ for i,pawn in ipairs(egg_list) do
 		local egg = Pawn:new{
 			Health = 2,
 			MoveSpeed = 0,
-			Name = "Vek Egg",
+			Name = "Oeuf Vek",
 			Minor = true,
 			Image = "final_egg",
 			SkillList = {"FinalEggHatch_"..pawn..j},
@@ -250,7 +250,7 @@ end
 
 EggLayer = Pawn:new{
 	Health = 5,
-	Name = "Egg Layer",
+	Name = "Couche d'oeufs",
 	Image = "egglayer",
 	MoveSpeed = 0,
 	DefaultTeam = TEAM_ENEMY,
@@ -267,8 +267,8 @@ ANIMS.egglayere = ANIMS.BaseEmerge:new{ Image = "units/aliens/burrower_1_emerge.
 ANIMS.egglayerd = ANIMS.BaseUnit:new{ Image = "units/aliens/burrower_1_death.png", PosX = -28, PosY = -6, NumFrames = 8, Time = 0.14, Loop = false  }
 
 EggLayer_Atk = SelfTarget:new{
-	Name = "Lay Egg",
-	Description = "Deposit a single Vek Egg.",
+	Name = "Dépose un oeuf",
+	Description = "Dépose un oeuf Vek.",
 	Damage = 1,
 	TipImage = {
 		Unit = Point(2,2),

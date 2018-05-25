@@ -48,7 +48,7 @@ function Mission_Barrels:GetCompletedObjectives()
 	if barrel_count == 0 then
 		return self.Objectives
 	elseif barrel_count == 1 then
-		return Objective("Destroy the Vats ("..barrel_count.." Remain)",1,2)
+		return Objective("Détruire les cuves ("..barrel_count.." il reste)",1,2)
 	else
 		return self.Objectives:Failed()
 	end

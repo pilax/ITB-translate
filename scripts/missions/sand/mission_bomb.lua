@@ -13,7 +13,7 @@ end
 
 function Mission_Bomb:GetCompletedObjectives()
 	if self:CountBombs() == 1 then
-		return Objective("Defend Prototype Renfield Bombs (Un perdu)",1,2)
+		return Objective("Défendre le prototype de Bombe Renfield (Un perdu)",1,2)
 	elseif self:CountBombs() == 2 then
 		return self.Objectives
 	else
@@ -31,11 +31,11 @@ end
 function Mission_Bomb:UpdateObjectives()
 	local status = OBJ_STANDARD
 	if self:CountBombs() == 0 then status = OBJ_FAILED end
-	Game:AddObjective("Défendre les bombes\n("..self:CountBombs().."/2 intacts)", status, REWARD_REP, 2)
+	Game:AddObjective("Défendre les bombes\n("..self:CountBombs().."/2 intactes)", status, REWARD_REP, 2)
 end
 
 ProtoBomb = Pawn:new{
-	Name = "Bombe Prototype",
+	Name = "Prototype de Bombe",
 	Health = 1,
 	Neutral = true,
 	Corpse = false,

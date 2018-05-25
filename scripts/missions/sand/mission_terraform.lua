@@ -51,11 +51,11 @@ end
 --used for briefing messages
 function Mission_Terraform:GetCompletedStatus()
 	if not Board:IsPawnAlive(self.TerraformerId) then 
-		return "Failure"
+		return "Échec"
 	elseif not self.TerraformComplete then
-		return "Incomplete"
+		return "Incomplète"
 	else
-		return "Success"
+		return "Succès"
 	end
 end
 

@@ -1,7 +1,7 @@
 
 Mission_AcidTank = Mission_Infinite:new{
 	SpawnMod = 1,
-	Objectives = Objective("Tuer 4 ennemis touchés avec A.C.I.D.",2),
+	Objectives = Objective("Tuer 4 ennemis touchés avec de l'A.C.I.D.",2),
 	UseBonus = false,
 	AcidKills = 0,
 }
@@ -15,7 +15,7 @@ function Mission_AcidTank:GetCompletedObjectives()
 	if self.AcidKills >= 4 then
 		return self.Objectives
 	elseif self.AcidKills > 0 then
-		return Objective("Tuer 4 ennemis touchés avec A.C.I.D. ("..self.AcidKills.." killed)", 1, 2)
+		return Objective("Tuer 4 ennemis touchés avec l'A.C.I.D. ("..self.AcidKills.." tué(s))", 1, 2)
 	else
 		return self.Objectives:Failed()
 	end
@@ -23,15 +23,15 @@ end
 
 function Mission_AcidTank:GetCompletedStatus()
 	if self.AcidKills >= 4 then
-		return "Success"
+		return "Succès"
 	else
-		return "Failure"
+		return "Échec"
 	end
 end
 
 function Mission_AcidTank:UpdateObjectives()
 	local status = self.AcidKills >= 4 and OBJ_COMPLETE or OBJ_STANDARD
-	local text = "Tuer 4 ennemis touchés\navec A.C.I.D. ("..self.AcidKills.."/4 killed)"	
+	local text = "Tuer 4 ennemis touchés\navec de l'A.C.I.D. ("..self.AcidKills.."/4 tué(s))"	
 	Game:AddObjective(text, status, REWARD_REP, 2)
 end
 

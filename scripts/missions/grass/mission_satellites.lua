@@ -107,7 +107,7 @@ function Mission_Satellite:UpdateObjectives()
 		status1 = OBJ_FAILED
 	end
 	
-	local first_text = IsLargeFont() and "Defend the 1st\nsatellite launch" or "Défendre le premier satellite" 
+	local first_text = IsLargeFont() and "Défendre le premier satellite" or "Défendre le premier satellite" 
 	Game:AddObjective(first_text,status1)
 	
 	local status2 = self:IsGone(2) and OBJ_COMPLETE or OBJ_STANDARD
@@ -116,7 +116,7 @@ function Mission_Satellite:UpdateObjectives()
 		status2 = OBJ_FAILED
 	end
 	
-	local sec_text = IsLargeFont() and "Defend the 2nd\nsatellite launch" or "Défendre le second satellite" 
+	local sec_text = IsLargeFont() and "Défendre le second satellite" or "Défendre le second satellite" 
 	Game:AddObjective(sec_text,status2)
 			
 	local count = 3 - math.max(0,Game:GetTurnCount())

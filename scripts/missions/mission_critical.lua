@@ -14,16 +14,16 @@ Mission_Solar = Mission_Critical:new{
 
 Mission_Wind = Mission_Critical:new{
 	Image = "str_wind1",
-	FlavorName = "Wind Farms",
-	FlavorSingle = "Wind Farm",
+	FlavorName = "Fermes Éoliennes",
+	FlavorSingle = "Ferme Éolienne",
 	Objectives = PowerObjective("Défendre les deux fermes éoliennes", 2)
 }
 
 Mission_Power = Mission_Critical:new
 {
 	Image = "str_power1",
-	FlavorName = "Power Plants",
-	FlavorSingle = "Power Plant",
+	FlavorName = "Centrales Électriques",
+	FlavorSingle = "Centrale Électrique",
 	Objectives = PowerObjective("Défendre les deux Centrales Électriques", 2)
 }
 
@@ -36,7 +36,7 @@ end
 
 function Mission_Critical:UpdateDescriptions()
 	for i = 1, 2 do
-		local tense = Board:IsDamaged(self.Criticals[i]) and "was" or "is"
+		local tense = Board:IsDamaged(self.Criticals[i]) and "était" or "est"
 		local name = self.FlavorSingle
 		TILE_TOOLTIPS[name] = {name,"Votre objectif bonus "..tense.." de défendre cette structure."}
 		Board:MarkSpaceDesc(self.Criticals[i],name)
@@ -65,5 +65,5 @@ function Mission_Critical:UpdateObjectives()
 --	Game:AddObjective("Defeat All Enemies", OBJ_STANDARD)
 	local status = OBJ_STANDARD
 	if self:GetDamagedCount() == 2 then status = OBJ_FAILED end
-	Game:AddObjective("Defend the "..self.FlavorName.." \n("..(2-self:GetDamagedCount()).."/2 intacts)", status, self.Reward, 2)
+	Game:AddObjective("Défendre les "..self.FlavorName.." \n("..(2-self:GetDamagedCount()).."/2 intactes)", status, self.Reward, 2)
 end

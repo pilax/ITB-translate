@@ -11,7 +11,7 @@ Mission_Tides = Mission_Infinite:new{
 
 Env_Tides = Environment:new{
 	Name = "Tsunami",
-	Text = "Water will spread from the coast every turn.",
+	Text = "L'eau va immerger la côte à chaque tour/",
 	StratText = "RAZ DE MARÉE",
 	Index = 1,
 }

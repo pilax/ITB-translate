@@ -64,7 +64,7 @@ Support_Smoke = Brute_Jetmech:new{
 	PowerCost = 0,
 	Upgrades = 2,
 	UpgradeCost = {1,1},
-	UpgradeList = { "+1 Range", "+1 Range" },
+	UpgradeList = { "+1 en portée", "+1 en portée" },
 	LaunchSound = "/weapons/bomb_strafe",
 	BombSound = "/impact/generic/explosion",
 	TipImage = {
@@ -296,7 +296,7 @@ end
 Support_Repair_Tooltip = SelfTarget:new{ 
 	Amount = -1, 
 	Name = "Réparation Mech",
-	Description = "Repair 1 damage and remove Fire, Ice, or Acid",
+	Description = "Répare 1 de dégât et retire l'effet de Feu, de Glace et d'A.C.I.D.",
 	Upgrades = 1,
 	UpgradeCost = {1},
 	TipImage = {
@@ -508,7 +508,7 @@ Support_Blizzard = Science_LocalShield:new{
 	Limited = 1,
 	Upgrades = 2,
 	UpgradeCost = { 1,2 },
-	UpgradeList = { "+1 Size",  "+1 Size"  },
+	UpgradeList = { "Taille +1",  "Taille +1"  },
 	LaunchSound = "/weapons/blizzard",
 }
 

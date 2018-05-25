@@ -26,11 +26,11 @@ end
 
 function Mission_Boss:GetCompletedStatus()
 	if self:GetBonusStatus(BONUS_ASSET, true) == OBJ_FAILED then
-		return "Tower"
+		return "Tour"
 	elseif self:IsBossDead() then
-		return "Success"
+		return "Succès"
 	else
-		return "Boss"
+		return "Chef"
 	end
 end
 

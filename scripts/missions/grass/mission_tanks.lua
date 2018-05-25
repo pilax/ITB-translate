@@ -54,7 +54,7 @@ end
 function Mission_Tanks:UpdateObjectives()
 	local status = OBJ_STANDARD
 	if self:CountTanks() == 0 then status = OBJ_FAILED end
-	Game:AddObjective("Défendre les Chars\n("..self:CountTanks().."/2 intacts)", status, REWARD_REP, 2)
+	Game:AddObjective("Défendre les Chars\n("..self:CountTanks().."/2 intact(s))", status, REWARD_REP, 2)
 end
 
 Archive_Tank = 

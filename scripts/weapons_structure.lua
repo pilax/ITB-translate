@@ -15,7 +15,7 @@ AddPawn("Pawn_Airfield")
 
 Structure_Force = Grenade_Base:new{  
 	Name = "Frappe Chirurgicale", 
-	Description = "Deals 1 damage and pushes all adjacent squares.",
+	Description = "Inflige 1 pt. de dommage and pousse toutes les tuiles adjacentes.",
 	Icon = "weapons/structure_force.png",
 	DamageInner = 1,
 	InnerAnimation = "explo_fire1",
@@ -40,8 +40,8 @@ end
 ----------------------------------------------------------
 
 Structure_Repair = Skill:new{
-	Name = "les Robots de Réparation",
-	Description = "Heal all player units (including disabled Mechs)",
+	Name = "les Robots de Maintenance",
+	Description = "Soigne toutes les unités du joueur (Mechs hors combat compris)",
 	Limited = 1
 }
 

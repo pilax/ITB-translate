@@ -39,7 +39,7 @@ function Mission_Disposal:UpdateObjectives()
 	--end
 	
 	Game:AddObjective("Défendre l'unité d'élimination des déchets", alive)	
-	Game:AddObjective("Dispose of all mountains", mountains)	
+	Game:AddObjective("Détruire toutes les montagnes", mountains)	
 end
 
 --used for briefing messages
@@ -47,13 +47,13 @@ function Mission_Disposal:GetCompletedStatus()
 	local mnt_alive = self:CountMountains() > 0
 	local pawn_alive = Board:IsPawnAlive(self.DisposalId) 
 	if not pawn_alive and mnt_alive then 
-		return "Failure"
+		return "Échec"
 	elseif  mnt_alive then
-		return "Mountains"
+		return "Montagne"
 	elseif not pawn_alive then
 		return "Élimination "
 	else
-		return "Success"
+		return "Succès"
 	end
 end
 

@@ -163,7 +163,7 @@ function Ranged_Rockthrow:GetSkillEffect(p1,p2)
 end
 
 Ranged_Rockthrow_A = Ranged_Rockthrow:new{
-	UpgradeDescription = "Increases damage by 1.",
+	UpgradeDescription = "Augmente les dommages de 1.",
 	Damage = 3,
 	BounceAmount = 3,
 } 

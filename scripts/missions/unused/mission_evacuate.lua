@@ -1,7 +1,7 @@
 
 
 Mission_Evacuate = Mission_Infinite:new{ 
-		Name = "Evacuation",
+		Name = "Évacuation",
 		Evac1 = Point(-1,-1),
 		Evac2 = Point(-1,-1),
 		TotalEvac = 0,
@@ -12,9 +12,9 @@ Mission_Evacuate = Mission_Infinite:new{
 	
 Env_Evacuation = Environment:new{
 	Image = "env_evacuation",
-	Name = "Evacuation",
-	Text = "Two buildings will evacuate at the end of every enemy turn. \n\nEvacuated buildings will not effect the Power Grid when damaged",
-	StratText = "EVACUATION"
+	Name = "Évacuation",
+	Text = "Deux bâtiments seront évacués à la fin de chaque tour ennemi. \n\nLa perte d'un bâtiment évacué n'affectera pas le Réseau d'Énergie",
+	StratText = "ÉVACUATION"
 }
 	
 function Mission_Evacuate:StartMission()

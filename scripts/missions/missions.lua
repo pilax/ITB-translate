@@ -272,9 +272,9 @@ function Mission:GetCompletedStatus()
 	end
 	
 	if total_rep == total_possible then
-		return "Success"
+		return "Succès"
 	elseif total_rep == 0 then
-		return "Failure"
+		return "Échec"
 	else
 		return "Partiel"
 	end

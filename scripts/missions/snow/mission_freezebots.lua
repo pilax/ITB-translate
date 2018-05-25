@@ -30,13 +30,13 @@ end
 
 function Mission_FreezeBots:GetCompletedStatus()
 	if self:CountFrozen() == 2 then
-		return "Success"
+		return "Succès"
 	elseif self:CountDead() == 1 then
-		return "Dead"
+		return "Mort"
 	elseif self:CountDead() == 2 then
-		return "Failure"
+		return "Échec"
 	else
-		return "Freed"
+		return "Libres"
 	end
 end
 

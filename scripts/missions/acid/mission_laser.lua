@@ -40,7 +40,7 @@ function Mission_Laser:StartMission()
 end
 
 Pawn_Laser_U = Pawn:new{
-	Name = "Truc Laser",
+	Name = "Laser Bidule",
 	Image = "piston_u",
 	Health = 1,
 	Neutral = true,

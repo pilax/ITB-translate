@@ -6,8 +6,8 @@ Mission_Sandstorm = Mission_Infinite:new{
 
 Env_Sandstorm = Environment:new{
 	Name = "Tempête de Sable",
-	Text = "Tous les DUNES se transformeront en FUMÉS, tous les FUMÉS seront supprimés.",
-	StratText = "SANDSTORM DETECTED",
+	Text = "Toutes les DUNES se transformeront en FUMÉES, et en même temps toutes les FUMÉES déjà actives seront supprimés.",
+	StratText = "Tempête de Sable détectée",
 	Row = 7
 }
 

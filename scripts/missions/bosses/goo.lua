@@ -51,7 +51,7 @@ function Mission_BlobBoss:IsBossDead()
 end
 
 BlobBoss = {
-	Name = "Goo Large",
+	Name = "Large Goo",
 	Health = 3,
 	MoveSpeed = 3,
 	Image = "slimeb",		
@@ -116,7 +116,7 @@ function BlobBoss:GetDeathEffect(point)
 end
 
 BlobBossMed = BlobBoss:new{
-	Name = "Goo Moyenne",
+	Name = "Moyenne Goo",
 	Health = 2,
 	Image = "slimeb2",		
 	DeathSpawn = "BlobBossSmall",

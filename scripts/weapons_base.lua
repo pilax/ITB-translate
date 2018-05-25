@@ -181,7 +181,7 @@ end
 
 PunchValues = {
 			PathSize = 1,
-			Description = "Melee attack",
+			Description = "Attaque au corps à corps",
 			Damage = 3
 		}
 
@@ -521,7 +521,7 @@ end
 Civilian_Primary = TankDefault:new
 	{
 		Damage= 0, 
-		Description = "PROJECTILE that pushes the target", 
+		Description = "PROJECTILE qui pousse la cible", 
 	}
 	
 
@@ -719,15 +719,15 @@ Grenade_Force = Grenade_Base:new{
 				PowerCost = 1,
 				Upgrades = 2,
 				UpgradeCost = { 1,1 },
-				UpgradeList = { "+1 Use",  "+1 Damage"  },
+				UpgradeList = { "+1 Utilisation",  "+1 Dommage"  },
 			}
 Grenade_Force_A = Grenade_Force:new{ 
 			Limited = 2,
-			UpgradeDescription = "Increases uses by 1."
+			UpgradeDescription = "Augmente l'utilisation de 1."
 			}
 Grenade_Force_B = Grenade_Force:new{
 			DamageInner = 2,
-			UpgradeDescription = "Add fire to the center tile."
+			UpgradeDescription = "Incendie la tuile au centre."
 			}
 Grenade_Force_AB = Grenade_Force:new{
 			Limited = 2,

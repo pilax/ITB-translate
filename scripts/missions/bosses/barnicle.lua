@@ -2,7 +2,7 @@
 ---- MISSION DESCRIPTION
 Mission_Barnicle = Mission:new{
 	--Name = "Goo Boss",
-	Loss = "Die",
+	Loss = "Mort",
 	MapTags = {"goo"},
 	SpawnStart = 0,
 }
@@ -13,7 +13,7 @@ end
 
 Barnicle = 
 	{
-		Name = "Barnicle",
+		Name = "Barnacle",
 		Health = 5,
 		MoveSpeed = 2,
 		Image = "barnicle",		
@@ -68,7 +68,7 @@ end
 
 BarnicleFlower = Barnicle:new
 	{
-		Name = "Flowerd Barnicle",
+		Name = "Bernacle Bourgeonnant",
 		Health = 4,
 		Image = "barniclef",		
 		SkillList = {  },

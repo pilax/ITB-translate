@@ -5,9 +5,9 @@ Mission_Earthquake = Mission_Infinite:new{
 }
 
 Env_Sliding = Environment:new{
-	Name = "Earthquake Fractures",
-	Text = "The land will slide around.",
-	StratText = "EARTHQUAKES",
+	Name = "Failles Sismiques",
+	Text = "Le sol va s'effondrer tout autour.",
+	StratText = "SÉISMES",
 	Direction = 1,
 }
 

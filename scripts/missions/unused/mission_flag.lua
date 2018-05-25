@@ -2,8 +2,8 @@
 ---"InfiniteSpawn" tells the base victory code to not count killing all enemies as a win
 Mission_Flag = Mission_Infinite:new{ 
 
-	Name = "Supply Run", 
-	Objective = "Retrieve the Supplies",
+	Name = "Approvisionnement", 
+	Objective = "Récupérer les fournitures",
 	Loss = "",
 	Asset = "Str_Supply",
 	Carrier = -1, 
@@ -50,12 +50,12 @@ end
 
 function Mission_Flag:UpdateObjectives()
 	local status = self.Carrier == -1 and OBJ_STANDARD or OBJ_COMPLETE
-	Game:AddObjective("Collect the supplies with one of your mechs", status)
+	Game:AddObjective("Récupérer les fournitures à l'aide d'un de vos Mechs", status)
 	
 	if self:IsFlagCarrierDead() then
-		Game:AddObjective("Return to the marked space", OBJ_FAILED)
-		Game:AddObjective("Destroy remaining enemies")
+		Game:AddObjective("Retourner à l'endroit indiqué", OBJ_FAILED)
+		Game:AddObjective("Détruire les ennemis restants")
 	elseif status == OBJ_COMPLETE then
-		Game:AddObjective("Return to the marked space")
+		Game:AddObjective("Retourner à l'endroit indiqué")
 	end
 end

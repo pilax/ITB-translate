@@ -11,7 +11,7 @@ end
 
 Thumper = 
 {
-	Name = "Thumper",
+	Name = "Marteleur",
 	Image = "generator1",
 	Health = 3,
 	MoveSpeed = 0,
@@ -25,7 +25,7 @@ Thumper =
 AddPawn("Thumper") 
 
 Thumper_Attack = Skill:new{
-	Name = "Thumper",
+	Name = "Marteleur",
 	Description = "",
 	Explosion = "",
 	Range = 1,

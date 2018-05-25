@@ -1,6 +1,6 @@
 
 Mission_Floodplain = Mission:new{ 
-	Name = "Severe Rains",
+	Name = "Pluies violentes",
 	MapTags = { "flooding" },
 	Environment = "Env_Flooding"
 }

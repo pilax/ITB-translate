@@ -1,7 +1,7 @@
 
 
 Mission_Destroy = Mission_Infinite:new{
-	Name = "Critical Destruction",
+	Name = "Destruction Critique",
 	Criticals = nil
 }
 
@@ -17,5 +17,5 @@ function Mission_Destroy:StartMission()
 end
 
 function Mission_Destroy:UpdateObjectives()
-	Game:AddObjective("Destroy Critical Buildings: "..(2-self:GetDestroyedCount()).."/2")
+	Game:AddObjective("Détruire les bâtiments critiques: "..(2-self:GetDestroyedCount()).."/2")
 end

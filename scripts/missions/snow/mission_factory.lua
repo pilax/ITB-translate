@@ -77,6 +77,6 @@ function Mission_Factory:UpdateObjectives()
 --	Game:AddObjective("Defeat All Enemies", OBJ_STANDARD)
 	local status = OBJ_STANDARD
 	if self:GetDamagedCount() == 2 then status = OBJ_FAILED end
-	local flavorName = IsLargeFont() and "Factories" or self.FlavorName
-	Game:AddObjective("Defend the "..flavorName.." \n("..(2-self:GetDamagedCount()).."/2 intacts)", status, self.Reward, 2)
+	local flavorName = IsLargeFont() and "Usines" or self.FlavorName
+	Game:AddObjective("Défendre l'"..flavorName.." \n("..(2-self:GetDamagedCount()).."/2 intacts)", status, self.Reward, 2)
 end

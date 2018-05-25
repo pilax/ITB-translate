@@ -1,7 +1,7 @@
 
 Mission_Heli = Mission_Infinite:new
 { 
-	Objectives = Objective("Defend the helicopters",2),
+	Objectives = Objective("Défendre les hélicoptères",2),
 	MapTags = {"heli"},
 	Helicopters = {},
 	Saved = 0,
@@ -16,14 +16,14 @@ end
 
 function Mission_Heli:UpdateObjectives()
 	local status = self.Dead >= 3 and OBJ_FAILED or OBJ_STANDARD
-    Game:AddObjective("Defend the helicopters \n("..self.Dead.." destroyed)",status)
+    Game:AddObjective("Défendre les hélicoptères \n("..self.Dead.." détruit(s))",status)
 end
 
 function Mission_Heli:GetCompletedObjectives()
 	if self.Dead == 0 then
 		return self.Objectives
 	elseif self.Dead < 3 then
-		return Objective("Defend the helicopters ("..self.Dead.." destroyed)",1,2)
+		return Objective("Défendre les hélicoptères ("..self.Dead.." détruit(s))",1,2)
 	else
 		return self.Objectives:Failed()
 	end
@@ -72,7 +72,7 @@ end
 
 Pawn_Mission_Heli = 
 {
-	Name = "Helicopter",
+	Name = "Hélicoptère",
 	Health = 1,
 	Neutral = true,
 	Image = "HeliSupport1",
