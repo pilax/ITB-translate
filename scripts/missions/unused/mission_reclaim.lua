@@ -1,8 +1,8 @@
 
 Mission_Reclaim = Mission_Infinite:new
 {
-	Name = "Reclaim",
-	Objective = "Reclaim this district region"
+	Name = "Récupération",
+	Objective = "Récupérer la région"
 	SpawnsPerTurn = 2,
 	SpawnStart = 0,
 	Retake1 = Point(-1,-1),
@@ -25,8 +25,8 @@ function Mission_Reclaim:StartMission()
 end
 
 function Mission_Reclaim:UpdateObjectives()
-	Game:AddObjective("Ensure "..self.GoalCount.." powered buildings survive undamaged")
-	Game:AddNote("Two buildings will re-power automatically every turn")
+	Game:AddObjective("Assurez-vous à ce que "..self.GoalCount.." de bâtiments survivent sans dommage")
+	Game:AddNote("Deux bâtiments seront réalimentés automatiquement chaque tour")
 end	
 
 function Mission_Reclaim:NextTurn()
