@@ -1,9 +1,9 @@
 
 local PopEvent = {
-	Opening = { "We're saved!", "They're here!", "Mom, look!", "The Travelers!", "Dad, look!", "Help is here!", "They've come!", "The Mechs are here!", "They'll protect us!", },
-	Closing = { "Thank you!", "The Vek are running!", "We're saved!", "Thank you, Travelers!", "That was amazing!", "They did it!", "It's over!", "We won!", "We survived!", "Victory!" },
-	Threatened = { "It's attacking us!", "We're doomed!", "Help us!", "Save us!", Odds = 50 },
-	Killed = {"They killed it!", "It's dead!", "Awesome!", "Excellent!", "Wow!", Odds = 50 }
+	Opening = { "Nous sommes sauvés !", "Ils sont là !", "'Man, regarde !", "Les Voyageurs !", "'Pa, regarde !", "Les secours sont là !", "Ils sont là !", "Les Mechs sont là !", "Ils vont nous protéger !", },
+	Closing = { "Merci !", "Les Veks s'enfuient !", "Nous sommes sauvés !", "Merci, Voyagers !", "C'était impressionnant !", "Ils l'ont fait !", "C'est fini !", "Nous avons gagné !", "Nous avons survécu !", "Victoire !" },
+	Threatened = { "Il nous attaque !", "Nous sommes condamnés !", "Aidez-nous !", "Sauvez-nous !", Odds = 50 },
+	Killed = {"Ils l'ont tué !", "Il est mort !", "Génial !", "Excellent !", "Wouah !", Odds = 50 }
 }
 
 function GetPopulationTexts(event, count)
