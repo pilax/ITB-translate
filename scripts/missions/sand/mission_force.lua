@@ -18,13 +18,13 @@ end
 --used for briefing messages
 function Mission_Force:GetCompletedStatus()
 	if self.Mountains < self.MountainsGoal and self:GetBonusStatus(BONUS_KILL_FIVE, true) ~= OBJ_COMPLETE then 
-		return "Échec"
+		return "Failure"
 	elseif self.Mountains < self.MountainsGoal then
 		return "MountainsAlive"
 	--elseif self.Enemies < self.EnemiesGoal then
 	--	return "VekAlive"
 	else
-		return "Succès"
+		return "Success"
 	end
 end
 

@@ -23,9 +23,9 @@ end
 
 function Mission_AcidTank:GetCompletedStatus()
 	if self.AcidKills >= 4 then
-		return "Succès"
+		return "Success"
 	else
-		return "Échec"
+		return "Failed"
 	end
 end
 

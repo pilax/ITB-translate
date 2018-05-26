@@ -22,7 +22,7 @@ function Mission_FreezeBots:GetCompletedObjectives()
 	if self:CountFrozen() == 2 then
 		return self.Objectives
 	elseif self:CountFrozen() == 1 then
-		return Objective("Geler et défendre les robots (un gelé)", 1, 2)
+		return Objective("Geler et défendre les robots (Gelé : 1)", 1, 2)
 	else
 		return self.Objectives:Failed()
 	end
@@ -30,13 +30,13 @@ end
 
 function Mission_FreezeBots:GetCompletedStatus()
 	if self:CountFrozen() == 2 then
-		return "Succès"
+		return "Success"
 	elseif self:CountDead() == 1 then
-		return "Mort"
+		return "Dead"
 	elseif self:CountDead() == 2 then
-		return "Échec"
+		return "Failure"
 	else
-		return "Libres"
+		return "Freed"
 	end
 end
 

@@ -398,9 +398,9 @@ local Global_Texts = {
 	Order_Actions = "Actions Ennemies",
 	Order_NPC = "Actions PNJ",
 	Order_NPC_Bots = "Actions Robot PNJ",
-	Order_Emerge = "Apparition des Ennemis",
+	Order_Emerge = "Apparitions Vek",
 	Order_Env = "Environnement",
-	Order_Smoke = "Brouillard Spontané",
+	Order_Smoke = "Brouillard Élec.",
 	
 	---Combat Texts
 	Deploying_Mech = "Déploiement des $1",

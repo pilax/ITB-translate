@@ -272,11 +272,11 @@ function Mission:GetCompletedStatus()
 	end
 	
 	if total_rep == total_possible then
-		return "Succès"
+		return "Success"
 	elseif total_rep == 0 then
-		return "Échec"
+		return "Failure"
 	else
-		return "Partiel"
+		return "Partial"
 	end
 end
 
@@ -592,7 +592,7 @@ function Mission:BaseObjectives()
 		elseif obj == BONUS_GRID then
 			Game:AddObjective("Moins de 3 de dégâts de grille \n".."(Dégâts actuels : "..self:GetDamage()..")", status)
 		elseif obj == BONUS_MECHS then
-			Game:AddObjective("Terminer avec moins de 4 de dégâts subit par vos Mech ".."(Actuel : "..Board:GetMechDamage()..")", status)
+			Game:AddObjective("Terminer avec moins de 4 pts de dégâts subis par vos Mech ".."(Actuel : "..Board:GetMechDamage()..")", status)
 		elseif obj == BONUS_BLOCK then
 			local base = "Bloquer l'Apparition de Veks\n3 fois\n"
 			if IsLargeFont() then
