@@ -370,7 +370,7 @@ Archive Inc Missions,Mission_Airstrike_Briefing,,"""Cette région possédait un an
 ,,,,,,
 ,Mission_Tanks_Briefing,,"""Nous avons des ingénieurs qui travaillent sur deux chars de l'Ancienne Terre dans cette région. Ils devraient être opérationnels peu après votre arrivée."",
 ",,,
-,Mission_Tanks_Success,,"""Les Vek ont ??été détruits - et la technologie de l'Ancienne Terre est parfaitement fonctionnelle ! On n'aurait pas pu espérer mieux!"",
+,Mission_Tanks_Success,,"""Les Vek ont été détruits - et la technologie de l'Ancienne Terre est parfaitement fonctionnelle ! On n'aurait pas pu espérer mieux!"",
 ",,,
 ,Mission_Tanks_Failure,,"""Les deux chars ont été détruits ? Mais ... ils étaient la seule autre défense que nous avions dans la région, nous sommes vulnérables sans eux."",
 ",,,
@@ -411,7 +411,7 @@ Archive Inc Missions,Mission_Airstrike_Briefing,,"""Cette région possédait un an
 
 ""Il y a des centaines d'années, beaucoup de mines de proximité de l'ancienne Terre ont été ensevelies dans cette région. Nous les désarmions petit à petit - mais nous nous sommes dit : pourquoi ne pas les utiliser contre les Veks ?"",
 
-""Nous menions des fouilles dans cette région lorsque les Veks ont ??utilisé des mines de proximité de l'Ancienne Terre. Vous pourrez peut-être les utiliser contre les Veks !"",",,,
+""Nous menions des fouilles dans cette région lorsque les Veks ont utilisé des mines de proximité de l'Ancienne Terre. Vous pourrez peut-être les utiliser contre les Veks !"",",,,
 ,Mission_Mines_Success,,"""Regarder ces mines exploser les Veks était un vrai régal ! Et cela a l'autre avantage de déminer les environs pour que nos forces puissent se déplacer sereinement dans la région."",
 
 ""Avec le départ des Veks et le déminage de certaines mines de proximité, nous pouvons maintenant établir une présence militaire permanente dans la région !"",",,,
@@ -435,7 +435,7 @@ RST Missions,Mission_Force_Briefing,"This mission involves ""une démonstration d
 
 ""Nous devons repousser les Veks - tuez tout ce que vous pouvez, puis détruisez les chaînes de montagnes avant qu'elles ne deviennent des ruches."",",,
 ,Mission_Force_Success,Both objectives complete,,"""Bien joué. Normalement, j'aurais été ravi d'avoir une terre enfin stable dans n'importe quelle partie de R.S.T. - mais pas si celle-ci profite aux Veks."",",,
-,Mission_Force_Failure,Both objectives failed,,"""Pas assez de Veks ont ??été tués ... et les rapports indiquent qu'il reste assez de terre stable pour construire une ruche. Cette mission a été un échec complet."",",,
+,Mission_Force_Failure,Both objectives failed,,"""Pas assez de Veks ont été tués ... et les rapports indiquent qu'il reste assez de terre stable pour construire une ruche. Cette mission a été un échec complet."",",,
 ,Mission_Force_MountainsAlive,"Mountains left standing (optional, we could just have generic ""Échec"" messages and not bother with these.",,"""Il y a eu juste assez de Veks tués, mais la terre stable restante peut être pour construire d'autres ruches pour reconstituer leur nombre."",",,
 ,Mission_Force_VekAlive,"Vek left standing (optional, we could just have generic ""Échec"" messages and not bother with these.",,"""Des Veks sont encore présents dans la région. Mais au moins avec les terres stables détruites, nous n'aurons pas de ruches à nettoyer si nous les frappons à nouveau."",",,
 ,,,,,,
@@ -481,7 +481,7 @@ RST Missions,Mission_Force_Briefing,"This mission involves ""une démonstration d
 ,Mission_Filler_Failure,"""Remueur Terrestre"" dies -- ground still might be filled in, so don't address that.",,"""La terre stable est une aubaine sur cette île - nous avions besoin de ce Remueur Terrestre pour créer les fondations pour de nouveaux abris et de nouvelles routes!""",,
 ,,,,,,
 ,Mission_Solar_Briefing,,,"""Nous façonnons les conditions météorologiques sur l'île afin que nos fermes solaires puissent récolter la lumière du soleil douze heures par jour. Mais pour ce faire, les fermes solaires doivent rester intactes.""",,
-,Mission_Solar_Success,,,"""Ces fermes solaires sont essentielles pour maintenir le Réseau d?Énergie. C'est un miracle que vous ayez empêché les Veks de les détruire.""",,
+,Mission_Solar_Success,,,"""Ces fermes solaires sont essentielles pour maintenir le Réseau d'Énergie. C'est un miracle que vous ayez empêché les Veks de les détruire.""",,
 ,Mission_Solar_Partial,,,"""Une seule ferme solaire est insuffisante. Alors que l'île subit des pannes de courant, je suis sûr que vous vous attendez à ce que vos Mechs reçoivent un traitement prioritaire.""",,
 ,Mission_Solar_Failure,,,"""Sans énergie, vos Mechs ne valent rien. Peut-être que la prochaine fois vous devriez considérer cela quand vous verrez l'ennemi détruire nos fermes solaires.""",,
 ,,,,,,
@@ -547,13 +547,13 @@ Detritus Missions,Mission_Barrels_Briefing,Large Vats of A.C.I.D. need to be des
 ,Mission_Disposal_Mountains,Mountains remain,,,,"""Les ruches Vek ont survécu. Les capteurs rapportent qu'elles sont en train de créer de nouveaux Vek. Nous devrons abandonner le secteur avant qu'ils ne nous envahissent."", 
 
 ""Le lanceur est toujours actif, mais les ruches dans les montagnes ont survécu. Les capteurs rapportent que les Vek envahissent la région - nous devons nous retirer."","
-,Mission_Disposal_Disposal,Disposal Unit dead,,,,"""Le lanceur d'A.C.I.D.a été détruit avec son équipage - mais leur sacrifice n'a pas été vain. Les ruches Vek ont ??été éradiquées."""
+,Mission_Disposal_Disposal,Disposal Unit dead,,,,"""Le lanceur d'A.C.I.D.a été détruit avec son équipage - mais leur sacrifice n'a pas été vain. Les ruches Vek ont été éradiquées."""
 ,Mission_Disposal_Success,"L'unité d'élimination a survécu, les montagnes ont été détruites",,,,"""Votre mission a été un succès, commandant - Le lanceur d'A.C.I.D.est intact et les Veks ont été désintégrés."","
 ,,,,,,
 ,Mission_AcidTank_Briefing,Player controls an A.C.I.D. tank (needs name?) for the mission. It applies A.C.I.D. to units. Mission is to destroy Vek that have the A.C.I.D. applied (so the A.C.I.D. has a chance to recycle the corpses?),,,,"""Detritus a déployé un tank A.C.I.D. dans ce secteur pour votre escouade - utilisez-le pour étudier les effets de A.C.I.D. sur les Veks."",
 
 ""Un tank A.C.I.D. a été déployé dans ce secteur. Tuez tous les Veks touchés par ce tank, puis sécuriser le secteur pour pouvoir étudier les cadavres Vek."","
-,Mission_AcidTank_Failure,Not enough units with acid killed,,,,"""Trop de Vek ont ??échappé aux tests à l'A.C.I.D. - nous n'avons pas assez de cadavres Vek pour effectuer une analyse correcte."""
+,Mission_AcidTank_Failure,Not enough units with acid killed,,,,"""Trop de Vek ont échappé aux tests à l'A.C.I.D. - nous n'avons pas assez de cadavres Vek pour effectuer une analyse correcte."""
 ,Mission_AcidTank_Success,4 Vek with Acid killed,,,,"""C'est un succès, Commandant - avec votre aide, nous avons obtenu un nombre suffisant de cadavres Vek infectés par de l'A.C.I.D."","
 ,,,,,,
 ,Mission_Acid_Briefing,"Bataille classique, mais les Veks sautent hors des mares d'ACID pour attaquer. Ils ont ACID pré-appliqué à eux comme un effet de jeu. (Ils s'adaptent? Ils peuvent vivre étonnamment longtemps avec ça?)",,,,"""Ces mares d'A.C.I.D. ont été touchées par les Veks, mais les Vek semblent ... s'adapter aux produits chimiques. Nous devons arrêter les Veks avant qu'ils soient immunisés."",
@@ -564,8 +564,8 @@ Detritus Missions,Mission_Barrels_Briefing,Large Vats of A.C.I.D. need to be des
 ,Mission_Power_Briefing,Power plants need to be defended (two on the map),,,,"""Ce secteur a deux installations d'alimentation en Énergie qui alimentent de nombreuses usines de Detritus. Ces installations sont essentielles aux défenses de Detritus."",
 
 ""Les centrales électriques dans ce secteur sont critiques contre les Veks, Commandant. Si nous les perdons, nous pourrions également perdre Detritus."","
-,Mission_Power_Success,Power plants both alive,,,,"""Les deux centrales ont été mise en fonctionnement, et il n'y a pas eu de perturbation dans la Réseau d?Énergie. Vous et vos pilotes avez notre gratitude, Commandant."","
-,Mission_Power_Partial,One Power Plant destroyed,,,,"""Un des deux centrales a été détruite, et il n'y a pas eu de perturbation dans le Réseau d?Énergie. Vous et vos pilotes avez notre gratitude, commandant."","
+,Mission_Power_Success,Power plants both alive,,,,"""Les deux centrales ont été mise en fonctionnement, et il n'y a pas eu de perturbation dans la Réseau d'Énergie. Vous et vos pilotes avez notre gratitude, Commandant."","
+,Mission_Power_Partial,One Power Plant destroyed,,,,"""Un des deux centrales a été détruite, et il n'y a pas eu de perturbation dans le Réseau d'Énergie. Vous et vos pilotes avez notre gratitude, commandant."","
 ,Mission_Power_Failure,Both Power Plants destroyed,,,,"""La perte des deux centrales a non seulement mis hors courant nos installations mais également des centres de réfugiés. Je dois relocaliser ces gens immédiatement."","
 ,,,,,,
 ,Mission_Belt_Briefing,"Bataille classique, mais la carte possède des tapis roulants massifs qui poussent les unités. (Normalement utilisé pour le transport de déchets et le recyclage? Utilisé pour le transport de civils?)",,,,"""Normalement, nous utilisons ces tapis roulants pour transporter les cuves de rebut - mais vous et #squad pouvez utiliser ces tapis roulants contre le Vek."","
