@@ -390,7 +390,7 @@ function Mission:GetCeoClosing(ceo)
 	end
 	
 	if text == "" then
-		text = "Le PDG vous a envoyé un message concernant la mission. Il est plutôt content de son déroulement malgré le bilan mitigé. On y trouve des éloges glorifiantes, mais également quelques propos condescendants voire insultants vous concernant."
+		text = "Le PDG vous a envoyé un message concernant la mission. Il est plutôt content de son déroulement malgré le bilan mitigé. On y trouve des éloges glorifiantes, mais également quelques propos condescendants et parfois insultants vous concernant."
 	end
 	
 	return text
