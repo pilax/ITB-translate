@@ -602,10 +602,10 @@ local Global_Texts = {
 	-- Pilot News
 	PilotNews_Dead = "DÉCÉDÉ",
 	PilotNews_Revived = "RÉANIMER",
-	PilotNews_ReviveText = "Les Fournitures Médicales d'Urgence ont permis de sauver 1$ de la mort !",
+	PilotNews_ReviveText = "Les Fournitures Médicales d'Urgence ont permis de sauver $1 de la mort !",
 	PilotNews_Vek = "RÉGÉNÉRÉ",
-	PilotNews_VekText = "1$ est revenu d'entre les morts ! L'effort requis pour le ramener a coûté de l'XP.",
-	PilotNews_DeadText = "1$ est mort après avoir subi de graves dégâts dans la bataille contre les créatures.",
+	PilotNews_VekText = "$1 est revenu d'entre les morts ! L'effort requis pour le ramener a coûté de l'XP.",
+	PilotNews_DeadText = "$1 est mort après avoir subi de graves dégâts dans la bataille contre les créatures.",
 	PilotNews_Promoted = "PROMU",
 	PilotNews_Skill = "Nouvelle Compétence :",
 	Button_Pilot_News_Done = "Compris",
@@ -916,7 +916,7 @@ local Global_Texts = {
 	TipText_Secret = "Le dernier espoir de l'humanité. Un savant mélange de Machine et de Vek créé pour défendre la Terre.",
 	
 	---Achievements
-	Achievement_Completed = "Achevé en difficulté 1$",
+	Achievement_Completed = "Achevé en difficulté $1",
 	Achievement_Header = "Succès !",
 	Achievement_Header_Pilot = "Pilote Trouvé !",
 	Achievement_Text_Pilot = "Hangar Déverrouillé",

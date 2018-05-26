@@ -68,7 +68,7 @@ Achievement_Texts = {
 	
 	Ach_Global_Island_Power_Title = "Batteries de Secours",
 	Ach_Global_Island_Power_Text = "Gagner ou acheter 10 point de Puissance Réseau sur une seule Île Corporative",
-	Ach_Global_Island_Power_Progress = "Progression : 1$ Puissance(s) Réseau(x) gagné(s)",
+	Ach_Global_Island_Power_Progress = "Progression : $1 Puissance(s) Réseau(x) gagné(s)",
 	
 	Ach_Global_Island_Rep_Title = "Bon Samaritain",
 	Ach_Global_Island_Rep_Text = "Gagner 9 points de Réputation sur une seule Île Corporative",
@@ -81,7 +81,7 @@ Achievement_Texts = {
 	
 	Ach_Global_Pilot_Three_Title = "La crème de la crème",
 	Ach_Global_Pilot_Three_Text = "Avoir 3 Pilotes simultanément au niveau maximum",
-	Ach_Global_Pilot_Three_Progress = "Progression : 1$ Pilote(s) au niveau maximum",
+	Ach_Global_Pilot_Three_Progress = "Progression : $1 Pilote(s) au niveau maximum",
 	
 	Ach_Global_Pilot_Unlocked_Title = "Venez nombreux",
 	Ach_Global_Pilot_Unlocked_Text = "Déverrouiller 6 Pilotes supplémentaires",
