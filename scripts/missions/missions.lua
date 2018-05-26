@@ -698,7 +698,7 @@ function Mission:BaseUpdate()
 	for index, obj in ipairs(self.BonusObjs) do
 		if obj == BONUS_ASSET then
 			local status = self:GetBonusStatus(obj, false)
-			local tense = status == OBJ_STANDARD and "is" or "was"
+			local tense = status == OBJ_STANDARD and "est" or "était"
 			local name = _G[self.AssetId].Name--status == OBJ_STANDARD and _G[self.AssetId].Name or "Destroyed ".._G[self.AssetId].Name
 			TILE_TOOLTIPS[name] = {name,"Votre objectif bonus "..tense.." de défendre cette structure."}
 			Board:MarkSpaceDesc(self.AssetLoc,name)

@@ -13,7 +13,7 @@ end
 
 function Mission_Bomb:GetCompletedObjectives()
 	if self:CountBombs() == 1 then
-		return Objective("Défendre le prototype de Bombe Renfield (Un perdu)",1,2)
+		return Objective("Défendre le prototype de Bombe Renfield (Perdue : 1)",1,2)
 	elseif self:CountBombs() == 2 then
 		return self.Objectives
 	else

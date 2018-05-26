@@ -20,7 +20,7 @@ function Mission_Satellite:GetCompletedObjectives()
 	local savedcount = self:GetSavedCount()
 	if savedcount == 1 then
 --		self:TriggerMissionEvent("
-		return Objective("Défendre les aires de lancement des satellites (Un perdu)",1,2)
+		return Objective("Défendre les aires de lancement des satellites (Perdu : 1)",1,2)
 	elseif savedcount == 2 then
 		return self.Objectives
 	else

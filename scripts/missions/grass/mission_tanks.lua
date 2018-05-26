@@ -36,7 +36,7 @@ end
 
 function Mission_Tanks:GetCompletedObjectives()
 	if self:CountTanks() == 1 then
-		return Objective("Defend Archive Inc. Tanks (Un perdu)",1,2)
+		return Objective("Défendre les Chars d'Archive (perdu : 1)",1,2)
 	elseif self:CountTanks() == 2 then
 		return self.Objectives
 	else

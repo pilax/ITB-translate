@@ -516,7 +516,7 @@ The factories are 'too valuable' to lose and perhaps contain 'innocent sentient 
 Comments like ""Il est dommage à ce que vous ayez tué ces robots"" would be appropriate.",,,"""Je ne peux pas vous laisser de tuer les machines hostiles de cette région, mais je reconnais que leur menace est trop grande pour être ignorée."",",
 ,Mission_SnowBattle_Success,(Generic success),,,"""Cela ne ressemble pas à une victoire quand la bataille est menée contre des individus malades issus de votre propre population."",",
 ,,,,,,
-,Mission_Stasis_Briefing,"Bataille générique, mais la carte contient 2 robots anormalement dangereux. Le joueur devrait être encouragé à ne pas libérer les robots, bien qu'ils ne soient pas pénalisant, cela ne devrait donc pas sembler un objectif.",,,"""Menace Diagnostic: Je vous recommande de les éviter.""",
+,Mission_Stasis_Briefing,"Bataille générique, mais la carte contient 2 robots anormalement dangereux. Le joueur devrait être encouragé à ne pas libérer les robots, bien qu'ils ne soient pas pénalisant, cela ne devrait donc pas sembler être un objectif.",,,"""Diagnostique de la Menace : Je vous recommande de les éviter.""",
 ,Mission_Stasis_Success,(Generic success),,,"""Les Veks sont déjà assez puissant pour menacer notre survie à tous. Je suis désolé que mes semblables malades vous fournissent des complications supplémentaires."",",
 ,,,,,,
 ,Mission_FreezeMines_Briefing,"Bataille générique, mais la carte est pleine de mines qui gèlent l'ennemi.",,,"""Je calcule qu'il y a encore trois cent soixante-treize cryo-mines dans cette zone destinées à la pacification de machines hostiles. Gardez vos capteurs en alerte maximale."",",
