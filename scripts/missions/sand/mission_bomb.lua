@@ -31,7 +31,7 @@ end
 function Mission_Bomb:UpdateObjectives()
 	local status = OBJ_STANDARD
 	if self:CountBombs() == 0 then status = OBJ_FAILED end
-	Game:AddObjective("Défendre les bombes\n("..self:CountBombs().."/2 intactes)", status, REWARD_REP, 2)
+	Game:AddObjective("Défendre les bombes\n("..self:CountBombs().."/2 intacte(s))", status, REWARD_REP, 2)
 end
 
 ProtoBomb = Pawn:new{

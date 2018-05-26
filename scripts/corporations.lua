@@ -37,10 +37,10 @@ Corp_Grass = Corp_Default:new
 	CEO_Personality = "CEO_Grass",
 	Office = "archive",
 
-	Name = "la corporation d'Archive",
+	Name = "Archive",
 	Bark_Name = "Archive",
 	Tileset = "grass",
-	Environment = "Temperate",
+	Environment = "Temperé",
 	
 	Pilot = "Pilot_Archive",
 		
@@ -60,13 +60,13 @@ Corp_Desert = Corp_Default:new
 	CEO_Personality = "CEO_Sand",
 	Missions_High = {"Mission_Force", "Mission_Terraform", "Mission_Train", "Mission_Volatile"},
 	Missions_Low =  {"Mission_Bomb", "Mission_Survive", "Mission_Lightning", "Mission_Holes", "Mission_Solar", "Mission_Cataclysm", "Mission_Crack", "Mission_Filler" },	
-	Name = "la corporation R.S.T.",
+	Name = "R.S.T.",
 	Bark_Name = "R.S.T.",
 	Tileset = "sand",
 	Color = GL_Color(182,114,76),
 	Office = "rust",
 	Pilot = "Pilot_Rust",
-	Environment = "Desert",
+	Environment = "Désert",
 		
 	Music = { "/music/sand/combat_western", "/music/sand/combat_eastwood", "/music/sand/combat_montage" }, 
 	Map = { "/music/sand/map" }
@@ -82,11 +82,11 @@ Corp_Snow = Corp_Default:new
 	UniqueBosses = { "Mission_BotBoss" },
 	Missions_High = {"Mission_FreezeBots", "Mission_BotDefense", "Mission_Factory"},
 	Missions_Low =  {"Mission_Survive", "Mission_Reactivation", "Mission_SnowBattle", "Mission_Stasis", "Mission_FreezeMines", "Mission_FreezeBldg", "Mission_SnowStorm" },
-	Name = "La corporation Pinnacle Robotics",
+	Name = "Pinnacle Robotics",
 	Bark_Name = "Pinnacle",
 	Color = GL_Color(235,235,235),
 	Tileset = "snow",
-	Environment = "Frozen",
+	Environment = "Glacial",
 	Pilot = "Pilot_Pinnacle",
 		
 	Music = { "/music/snow/combat_ice", "/music/snow/combat_zimmer",  "/music/snow/combat_train"  },
@@ -98,13 +98,13 @@ Corp_Factory = Corp_Default:new
 	CEO_Name = "Vikram Singh",
 	CEO_Personality = "CEO_Acid",
 	CEO_Image = "ceo_detritus.png",
-	Name = " la corporation Detritus",
+	Name = "Detritus",
 	Bark_Name = "Detritus",
 	Tileset = "acid",
 	Color = GL_Color(83,87,98),
 	Office = "detritus",
 	Pilot = "Pilot_Detritus",
-	Environment = "Industrial",
+	Environment = "Industriel",
 	
 	--High Value missions must provide 2 reputation
 	Missions_High = { "Mission_Barrels", "Mission_Disposal", "Mission_Train", "Mission_AcidTank"},

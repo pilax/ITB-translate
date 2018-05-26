@@ -2,8 +2,8 @@
 Mission_Factory = Mission_Critical:new{
 	Criticals = nil,
 	Image = "str_timelab1",
-	FlavorName = "Usines Robot",--for Mission_Critical naming in objective list
-	FlavorSingle = "Usine Robot",
+	FlavorName = "les Usines Robot",--for Mission_Critical naming in objective list
+	FlavorSingle = "l'Usine Robot",
 	Objectives = Objective("Défendre les deux Usines de Robots", 2),
 	SpawnMod = -1,
 	NewPoints = {},
@@ -78,5 +78,5 @@ function Mission_Factory:UpdateObjectives()
 	local status = OBJ_STANDARD
 	if self:GetDamagedCount() == 2 then status = OBJ_FAILED end
 	local flavorName = IsLargeFont() and "Usines" or self.FlavorName
-	Game:AddObjective("Défendre l'"..flavorName.." \n("..(2-self:GetDamagedCount()).."/2 intacts)", status, self.Reward, 2)
+	Game:AddObjective("Défendre "..flavorName.." \n("..(2-self:GetDamagedCount()).."/2 intacte(s))", status, self.Reward, 2)
 end

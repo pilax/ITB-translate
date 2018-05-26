@@ -2,8 +2,8 @@
 Mission_Critical = Mission_Infinite:new{
 	Criticals = nil,
 	Image = "str_solar1",
-	FlavorName = "Fermes Solaire",
-	FlavorSingle = "Ferme Solaire",
+	FlavorName = "les Fermes Solaire",
+	FlavorSingle = "la Ferme Solaire",
 	Objectives = PowerObjective("Défendre les deux Fermes Solaire", 2),
 	Reward = REWARD_POWER,
 }
@@ -14,16 +14,16 @@ Mission_Solar = Mission_Critical:new{
 
 Mission_Wind = Mission_Critical:new{
 	Image = "str_wind1",
-	FlavorName = "Fermes Éoliennes",
-	FlavorSingle = "Ferme Éolienne",
+	FlavorName = "les Fermes Éoliennes",
+	FlavorSingle = "la Ferme Éolienne",
 	Objectives = PowerObjective("Défendre les deux fermes éoliennes", 2)
 }
 
 Mission_Power = Mission_Critical:new
 {
 	Image = "str_power1",
-	FlavorName = "Centrales Électriques",
-	FlavorSingle = "Centrale Électrique",
+	FlavorName = "les Centrales Électriques",
+	FlavorSingle = "la Centrale Électrique",
 	Objectives = PowerObjective("Défendre les deux Centrales Électriques", 2)
 }
 
@@ -65,5 +65,5 @@ function Mission_Critical:UpdateObjectives()
 --	Game:AddObjective("Defeat All Enemies", OBJ_STANDARD)
 	local status = OBJ_STANDARD
 	if self:GetDamagedCount() == 2 then status = OBJ_FAILED end
-	Game:AddObjective("Défendre les "..self.FlavorName.." \n("..(2-self:GetDamagedCount()).."/2 intactes)", status, self.Reward, 2)
+	Game:AddObjective("Défendre "..self.FlavorName.." \n("..(2-self:GetDamagedCount()).."/2 intacte(s))", status, self.Reward, 2)
 end
