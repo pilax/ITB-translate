@@ -8,10 +8,10 @@ Mission_Airstrike = Mission_Auto:new{
 Env_Airstrike = Env_Attack:new{
 	Image = "env_airstrike",
 	Name = "Appui aérien",
-	Text = "Des bombes seront larguées sur les emplacements marqués, tuant toute unité.",
-	StratText = "SUPPORT AéRIEN",
+	Text = "Des bombes seront larguées sur les emplacements marqués, tuant toute unité s'y trouvant.",
+	StratText = "SUPPORT AÉRIEN",
 	CombatIcon = "combat/tile_icon/tile_airstrike.png",
-	CombatName = "SUPPORT AéRIEN",
+	CombatName = "SUPPORT AÉRIEN",
 	Damage = DAMAGE_DEATH
 }
 

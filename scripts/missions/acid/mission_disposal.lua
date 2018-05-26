@@ -47,13 +47,13 @@ function Mission_Disposal:GetCompletedStatus()
 	local mnt_alive = self:CountMountains() > 0
 	local pawn_alive = Board:IsPawnAlive(self.DisposalId) 
 	if not pawn_alive and mnt_alive then 
-		return "Échec"
+		return "Failure"
 	elseif  mnt_alive then
-		return "Montagne"
+		return "Mountains"
 	elseif not pawn_alive then
-		return "Élimination "
+		return "Disposal"
 	else
-		return "Succès"
+		return "Success"
 	end
 end
 

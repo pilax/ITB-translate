@@ -590,9 +590,9 @@ function Mission:BaseObjectives()
 		if obj == BONUS_KILL then
 			Game:AddObjective("Tuer tous les ennemis avant \nqu'ils ne se retirent", status)
 		elseif obj == BONUS_GRID then
-			Game:AddObjective("Moins de 3 de dégâts de grille \n".."(Dégâts actuels : "..self:GetDamage()..")", status)
+			Game:AddObjective("Perdre moins de 3 bâtiments du Réseau d'Énergie\n".."(Dégâts actuels : "..self:GetDamage()..")", status)
 		elseif obj == BONUS_MECHS then
-			Game:AddObjective("Terminer avec moins de 4 pts de dégâts subis par vos Mech ".."(Actuel : "..Board:GetMechDamage()..")", status)
+			Game:AddObjective("Subir moins de 4 pts de dégâts par vos Mechs".."(Actuel : "..Board:GetMechDamage()..")", status)
 		elseif obj == BONUS_BLOCK then
 			local base = "Bloquer l'Apparition de Veks\n3 fois\n"
 			if IsLargeFont() then
@@ -629,9 +629,9 @@ function Mission:GetBonusObjective(objective)
 	if objective == BONUS_KILL then
 		return Objective("Tuer tous les ennemis avant qu'ils ne se retirent",1)
 	elseif objective == BONUS_GRID then
-		return Objective("Prendre moins de 3 points de dégâts lors des combats",1)
+		return Objective("Perdre moins de 3 bâtiments du Réseau d'Énergie",1)
 	elseif objective == BONUS_MECHS then
-		return Objective("Terminer la bataille avec moins de 4 de dégâts subit par vos Mech",1)
+		return Objective("Subir moins de 4 points de dégâts par vos Mech",1)
 	elseif objective == BONUS_BLOCK then
 		return Objective("Bloquer l'Apparition de Veks\n3 fois",1)
 	elseif objective == BONUS_KILL_FIVE then

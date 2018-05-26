@@ -40,7 +40,7 @@ Corp_Grass = Corp_Default:new
 	Name = "Archive",
 	Bark_Name = "Archive",
 	Tileset = "grass",
-	Environment = "Temperé",
+	Environment = "Tempéré",
 	
 	Pilot = "Pilot_Archive",
 		

@@ -15,7 +15,7 @@ Env_Tides = Environment:new{
 	Text = "Les tuiles marquées se transformeront en Eau au début du tour ennemi.",
 	StratText = "RAZ DE MARÉE",
 	CombatIcon = "combat/tile_icon/tile_hightide.png",
-	CombatName = "TIDES",
+	CombatName = "MARÉES",
 	Index = 1,
 	Planned = true,
 }
