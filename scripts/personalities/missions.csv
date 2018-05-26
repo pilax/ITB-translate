@@ -243,7 +243,7 @@ Generic Objectives,,"Some missions use generic objectives, so the CEO can pull f
 ""J'avais besoin d'un nettoyage complet de Veks, pas d'une tentative à moitié ratée"",
 
 ""Je pensais que j'avais été clair - tous les Veks doivent mourir. Tous."",
-","""Votre échec ici a mis en danger d'autres régions de l'île. Je dois réaffecter mes ressources pour les protéger."",","""Les capteurs rapportent que les Veks se sont échappés, et sont en ce moment même en train de se reproduise. Je sais que vous avez fait de votre mieux, Commandant, mais ce n'était pas une victoire."",
+","""Votre échec ici a mis en danger d'autres régions de l'île. Je dois réaffecter mes ressources pour les protéger."",","""Les capteurs indiquent que les Veks se sont échappés, et sont en ce moment même, en train de se rassembler. Je sais que vous avez fait de votre mieux, Commandant, mais ce n'était clairement pas une victoire."",
 
 ""Vous avez chassé les Veks, mais assez ont survécu pour rétablir leur nombre dans le prochain cycle de reproduction - alors nous devrons les combattre à nouveau."","
 ,,,,,,
@@ -544,9 +544,9 @@ Detritus Missions,Mission_Barrels_Briefing,Large Vats of A.C.I.D. need to be des
 ,Mission_Disposal_Failure,Disposal unit destroyed + Mountains remain,,,,"""Décevant - le lanceur et son équipage sont morts, tandis que les ruches Veks ont survécu. Nous devrons abandonner le secteur."",
 
 ""Le lanceur d'A.C.I.D. a été détruit, avec son équipage. Je vais informer les familles personnellement, et mettre le secteur en quarantaine."","
-,Mission_Disposal_Mountains,Mountains remain,,,,"""Les ruches Vek ont survécu. Les capteurs rapportent qu'elles sont en train de créer de nouveaux Vek. Nous devrons abandonner le secteur avant qu'ils ne nous envahissent."", 
+,Mission_Disposal_Mountains,Mountains remain,,,,"""Les ruches Vek ont survécu. Les capteurs indiquent qu'elles sont en train de procréer de nouveaux Vek. Nous devrons abandonner le secteur avant qu'ils ne nous envahissent."", 
 
-""Le lanceur est toujours actif, mais les ruches dans les montagnes ont survécu. Les capteurs rapportent que les Vek envahissent la région - nous devons nous retirer."","
+""Le lanceur est toujours actif, mais les ruches dans les montagnes ont survécu. Les capteurs indiquent que les Vek envahissent la région - nous devons nous retirer."","
 ,Mission_Disposal_Disposal,Disposal Unit dead,,,,"""Le lanceur d'A.C.I.D.a été détruit avec son équipage - mais leur sacrifice n'a pas été vain. Les ruches Vek ont été éradiquées."""
 ,Mission_Disposal_Success,"Disposal Unit Survives, Mountains destroyed",,,,"""Votre mission a été un succès, commandant - Le lanceur d'A.C.I.D.est intact et les Veks ont été désintégrés."","
 ,,,,,,

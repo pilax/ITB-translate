@@ -11,7 +11,7 @@ Env_Airstrike = Env_Attack:new{
 	Text = "Des bombes seront larguées sur les emplacements marqués, tuant toute unité s'y trouvant.",
 	StratText = "SUPPORT AÉRIEN",
 	CombatIcon = "combat/tile_icon/tile_airstrike.png",
-	CombatName = "SUPPORT AÉRIEN",
+	CombatName = "SUPPORT\n\nAÉRIEN",
 	Damage = DAMAGE_DEATH
 }
 

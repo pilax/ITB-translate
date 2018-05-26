@@ -15,7 +15,7 @@ Env_Belt = Environment:new{
 	Text = "Les Tapis Roulants poussent n'importe quelle unité dans la direction indiquée au début du tour ennemi.",
 	StratText = "TAPIS ROULANTS",
 	CombatIcon = "combat/tile_icon/tile_conveyor.png",
-	CombatName = "\n\nTAPIS \nROULANTS",
+	CombatName = "TAPIS\n\nROULANTS",
 	Belts = nil,
 	BeltsDir = nil,
 }

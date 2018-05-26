@@ -11,9 +11,9 @@ end
 Env_SnowStorm = Env_Attack:new{
 	Name = "Tempête de Glace",
 	Text = "Les tuiles marquées seront Gelées au début du tour ennemi.",
-	StratText = "TEMPÊTE GLACÉE",
+	StratText = "TEMPÊTE DE GLACE",
 	CombatIcon = "combat/tile_icon/tile_snowstorm.png",
-	CombatName = "TEMPÊTE GLACÉE",
+	CombatName = "TEMPÊTE\nDE\nGLACE",
 	LastLoc = nil,
 	Options = nil,
 	Instant = true

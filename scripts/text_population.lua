@@ -8,7 +8,7 @@ local PopEvent = {
 	
 	Closing_Perfect = { "Merci !", "Nous allons tous bien !", "Tout le monde va bien ?", "#squad nous a sauvé !", "Trois hourras pour #squad !", "#corp est sauvée !", "Rien n'a été endommagé !", "#squad sont des héros !", "Victoire parfaite !", "Victoire !" , "As-tu vu ça ?", "Je ne peux pas le croire !" },
 	
-	Closing_Bad = { "Merci... Je suppose.", "Ils ont fait plus de mal que de bien...", "Ma famille ... partie...", "Tellement de pertes...", "Sont-ils enfin partis ?", "Est-ce fini ?", "Il est temps de reconstruire..."},
+	Closing_Bad = { "Merci... Je suppose.", "Ils ont fait plus de mal que de bien...", "Ma famille... partie...", "Tellement de pertes...", "Sont-ils enfin partis ?", "Est-ce fini ?", "Il est temps de reconstruire..."},
 	
 	Threatened = { "Il nous attaque !", "Uh-oh.", "Oh non !", "Accrochez-vous tout le monde !", "Éloignez-vous des fenêtres !", "Quelle est cette ombre ?", "Ca ne présage rien de bon...", "À l'aide !", "Nous sommes condamnés !", "Notre chance s'est fait la malle...", "Il nous prend pour cible !", "Aidez-moi ! Quelqu'un, aidez-moi !", "Aidez-nous, #squad !", "#squad, à l'aide !", "Nous sommes faits pour ca.", "Sauvez-nous !", "Ça vient vers nous !", "Le bâtiment tiendra-t-il ?", "Aidez-nous !", "Sauvez-nous !", Odds = 50 },
 	
