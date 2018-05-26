@@ -6,7 +6,7 @@ local PopEvent = {
 	
 	Closing_Dead = { "Merci !", "Je ne peux pas le croire !", "Mort ? Tous ?", "Ils les ont tous tués ?", "Ils sont tous morts !", "Nous sommes sauvés !", "Vous les avez éliminés !", "#squad les a battus !", "Les Mechs les ont anéantis !", "Ils sont partis !", "Plus de Vek !", "Incroyable !", "Vous avez gagné !", "Nous avons survécu !",},
 	
-	Closing_Perfect = { "Merci !", "Nous allons tous bien !", "Tout le monde va bien ?", "#squad nous a sauvé !", "Trois hourras pour #squad !", "#corp est sauvé !", "Rien n'a été endommagé !", "#squad sont des héros !", "Victoire parfaite !", "Victoire !" , "As-tu vu ça ?", "Je ne peux pas le croire !" },
+	Closing_Perfect = { "Merci !", "Nous allons tous bien !", "Tout le monde va bien ?", "#squad nous a sauvé !", "Trois hourras pour #squad !", "#corp est sauvée !", "Rien n'a été endommagé !", "#squad sont des héros !", "Victoire parfaite !", "Victoire !" , "As-tu vu ça ?", "Je ne peux pas le croire !" },
 	
 	Closing_Bad = { "Merci... Je suppose.", "Ils ont fait plus de mal que de bien...", "Ma famille ... partie...", "Tellement de pertes...", "Sont-ils enfin partis ?", "Est-ce fini ?", "Il est temps de reconstruire..."},
 	
