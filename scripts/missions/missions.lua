@@ -590,7 +590,7 @@ function Mission:BaseObjectives()
 		if obj == BONUS_KILL then
 			Game:AddObjective("Tuer tous les ennemis avant \nqu'ils ne se retirent", status)
 		elseif obj == BONUS_GRID then
-			Game:AddObjective("Perdre moins de 3 bâtiments du Réseau d'Énergie\n".."(Dégâts actuels : "..self:GetDamage()..")", status)
+			Game:AddObjective("Perdre moins de 3 bâtiments du Réseau d'Énergie\n".."(Bâtiment(s) Perdu(s) : "..self:GetDamage()..")", status)
 		elseif obj == BONUS_MECHS then
 			Game:AddObjective("Encaisser moins de 4 pts de dégâts".."\n(Actuel : "..Board:GetMechDamage()..")", status)
 		elseif obj == BONUS_BLOCK then
