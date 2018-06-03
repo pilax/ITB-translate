@@ -27,7 +27,6 @@ Notez qu'une discrimination anti-robots existe à Archive suite à la révolte des 
 
 Alors que Bethany et lui sont techniquement frère et s?ur, il n'y a pas eu de ligne temporelle où les deux étaient vivants au même moment (soit Bethany meurt à un jeune âge, soit Isaac meurt - seul l'un d'entre eux pouvait être sauvé d'une maladie chronique que leurs parents avaient). Il a été élevé sur Pinnacle et donc respecte les machines et les voit comme égaux (il a foi en Zenith, peut-être parce qu'il sent qu'elle est trop intelligente pour faire quoi que ce soit de mal).
 
-
 Isaac est aussi intelligent que sa soeur, bien que ses propres doutes l'affaiblissent. Il possède une connaissance impressionnante de l'aéronautique, de la physique, de la théorie de la gravitation, ainsi que de nombreux autres domaines. Il est probable qu'Isaac pourrait maîtriser n'importe quelle science qu'il choisit, ses seules limites sont les siennes propre.","Silica [R.S.T.] Silica est un hybride technologique de Pinnacle et de R.S.T. Elle est considérée comme l'une des premières intelligences artificielles consacrées à l'architecture du terrain. 
 
 Dans 'sa' ligne temporelle originelle, Silica était responsable de la première détection et de l'étude des Veks, et fut finalement modifiée pour enquêter sur leurs ruches... cela faillit se terminer de façon catastrophique, et Silica fut récupéré et sa programmation changea de terraformage en combat-basé-sur-le-terraformage... le concept était d'utiliser le terrain existant, de le façonner, de l'exploiter et d'utiliser la région environnante comme une arme contre les Veks.
@@ -46,12 +45,9 @@ Contexte général: Les Zoltans sont une espèce sage, intelligent et faite d'énerg
 
 Contexte spécifique: Mafan était en pèlerinage quand une balise de détresse l'appela. Il trouve que les notions de lignes temporelles et de brèches sont proches de celle de l'illumination sur le modèle du Jour sans Fin, bien qu'il les trouve surprenante... il considère les deux semaines du 'recyclage de soi' comme une opportunité de réfléchir sur ses actions pour toujours dans une boucle temporelle fermée. Il considère que les Veks s'oppose au concept d'illumination, mais aussi une partie nécessaire du phénomène qui continue d'éveiller les violations. (Plus de détails sur le ton et l'intention de chacune des lignes peuvent être trouvés dans le Guide de style d'écriture ci-dessous, ventilé ligne par ligne, pour les curieux - il donne plus d'informations sur la façon dont Mafan et les Zoltans peuvent percevoir certains événements.)","Les Rocks ou Peuple Rochers sont une race extraterrestre du jeu FTL. Le texte générique est utilisé pour rationaliser ces pilotes pour une utilisation dans le jeu. Ariane est un pilote bonus qui peut être gagné au cours du jeu.
 
-
 Contexte général: Les Rocks (il existe les deux genres au sein de l'espèce: les hommes et les femmes) sont de grands bipèdes herbivores. Les hommes Rocks sont des misanthropes par natures et aiment être seuls. Ils sont dogmatiques et déterminés. Dans leurs mondes natals, ils sont en grande partie des zélotes religieux et ont une interprétation assez particulière de la transgression culturelle (ex: les offres commerciales peuvent être interprétées comme hostiles). Les hommes Rocks sont élevées de manière à ce que les membres radicaux de leur espèce soient séparés de la population et gérés avec soin afin qu'ils puissent s'intégrer au reste de leur culture. Les interactions avec des espèces aliens sont illégales. Leur culture d'origine implique des mariages arrangés. Ils étaient l'un des fondateurs de la Fédération (avec les humains et Engi).
 
-
 Les hommes Rocks qui ne se conforment pas au stéréotype de leur espèce (par exemple, se rebeller contre la religion ou en étant simplement... différents) peuvent être trouvés parmi les stars, et plusieurs exemples de pirates et de guerriers Rock existent dans le Big Black (ils sont connus pour couvrir leurs navires avec 'décorations bannies').
-
 
 Contexte spécifique: Ariane (femelle de l'espèce) fuyait un mariage arrangé à l'avance avec un chef de basilisk (voir FTL) quand une balise de détresse a détourné son vaisseau. Son crime l'empêche de vouloir retourner dans l'espace Rock même si elle le pouvait... mais elle est mal à l'aise parmi les nombreuses cultures sur la nouvelle planète qu'elle a trouvée. Elle est vaguement curieuse de savoir comment effacer son crime grâce aux technologies de voyages dans le temps et les événements qui l'ont précédé, lui permettant un nouveau départ.",,See CEO biography in narrative documentation.,See CEO biography in narrative documentation.,See CEO biography in narrative documentation.,See CEO biography in narrative documentation.
 ,Personality,Character guidelines for chatter,"
@@ -206,8 +202,7 @@ Game States,Gamestart,This happens at the start of a new game,,"""Je suis de ret
 ""Pas maintenant ! N-non n-!""","""Deactivating systems."",
 ""Défaillance Capteurs."".","""Perte... de puissance. Les systèmes sont défaill...""","""Kc'ch'TA ?! VK ?! K'TCH-hk-hck? !""","""\\ *:..:: //""",""":: ?Nn-h-H-hrrrr? ::""",,--,--,,
 ,Death_Response,"If another unit dies.
-Use #main to say the dying unit's name.","""Statut du pilote #main_second : Décédé
-Efficacité tactique : Compromise""","""Mech abattu !"",
+Use #main to say the dying unit's name.","""Statut du pilote #main_second : Décédé\nEfficacité tactique : Compromise""","""Mech abattu !"",
 ""#main_second's abattu!""","""Nous vous oublierons pas."",
 ""Nous vous vengerons.""","""[ Le pilote #main_second a subi une défaillance du système ]""","""Detritus verra que notre sacrifice ne sera pas vain.""",,"""Enfer ! Nous ne pouvons pas abandonner maintenant !"",
 ""Ils paieront pour ça !"",
@@ -245,8 +240,7 @@ Efficacité tactique : Compromise""","""Mech abattu !"",
 ""Encore une vie que les Veks paieront.""","""Nous pleurons la perte de votre pilote, Commandant."", 
 ""Aucun sacrifice ne sera vain."", 
 ""Pilot #main_second restera dans nos mémoires."""
-,Death_Response_AI,If another Mech dies but it doesn't have a pilot to die.,"""#main_mech : Détruit
-Efficacité Tactique : Compromise""","""Voir de la bonne techno mourir m'horripile..."",
+,Death_Response_AI,If another Mech dies but it doesn't have a pilot to die.,"""#main_mech : Détruit\nEfficacité Tactique : Compromise""","""Voir de la bonne techno mourir m'horripile..."",
 ""Je commençais juste à aimer l' I.A. sur ce Mech, aussi.""","""Ce mech et son pilote ont été réduits en miettes - Continuez à vous battre !""","""[ Att : Zénith. #main_reverse, transmission numéro de désignation et Ligne Temporelle Mortelle vers les archives Pinnacle ]""","""It's beyond repair; Detritus will see that it's disposed of safely."",
 ""Ce n'est pas une perte vaine - Detritus peut encore recycler l'épave"",",,"""Nous avions besoin de ce Mech, mais heureusement qu'il était piloté par une intelligence artificielle - Continuez à vous battre !"",
 ""Nous ne pouvons plus nous permettre de perdre un seul Mech !""","""#main_mech a été détruit !"",","""Ne vous laissez pas distraire.""","""Quel gâchis..."",
@@ -273,12 +267,11 @@ Efficacité Tactique : Compromise""","""Voir de la bonne techno mourir m'horripil
 *,TimeTravel_Win,Last thing pilot says before time traveling after a victory.,"""Mise à Jour : Les disques de données sont prêts pour un saut temporel""","""Bon #squad... On se voit sur l'autre côté!"",
 ""On dirait que c'est là que nos chemins se séparent. Prenez soin de vous.""","""Il est temps de partir dans d'autres lignes temporelles"",
 ""Les vieux soldats ne meurent jamais... Ils voyagent juste dans d'autres lignes temporelles."",
-""C'était un honneur de servir the #squad, Commandant.""","""[ Initialisation du protocole de la faille de départ définitif ]
-[ Tout Pinnacle vous remercie, #squad ]"",","""Maintenant, il est temps de nettoyer d'autres lignes temporelles..."",
+""C'était un honneur de servir the #squad, Commandant.""","""[ Initialisation du protocole de création d'une faille de départ ]\n[ Tout Pinnacle vous remercie, #squad ]"",","""Maintenant, il est temps de nettoyer d'autres lignes temporelles..."",
 ""C'est ici que nos chemins se séparent, #squad. Et où que vous alliez, dîtes bonjour au moi que vous recontrerez.""",,"""Je... Nous... avons gagné. Maintenant, peut-être, nous pouvons changer le cours de la guerre partout."",
 ""Allons-y #squad... Nous avons d'autres lignes temporelles à sauver."",","""Adieu, #squad... Je ne vous oublierai pas."",","""Notre guerre n'est pas encore gagnée. Continuez à voyager dans le temps et continuez à vous battre.""","""On dirait que je dois repartir... Nouvelles lignes temporelles, nouvelles découvertes !""","""Les Veks ont été délogés de cette ligne temporelle. Maintenant les îles pourront prospérer sereinement."",
 ""Vekticide accompli. Il est temps pour nous de continuer ce cycle ailleurs."",
-""Vekticide complete. The islands are preserved, and balance restored.""","""C'est tout ? Mais... nous nous reverrons encore ? Peut-être ?"",
+""Vekticide accompli. Les îles sont saines et sauves, et la balance a été restaurée.""","""C'est tout ? Mais... nous nous reverrons encore ? Peut-être ?"",
 ""Il n'y a pas à être triste... Sniff... Il vaut mieux que je parte sur une note joyeuse, non ?"",
 ""Nous avons battu les Vek ! Et cela signifie que nous pouvons le faire encore et sauver une autre ligne temporelle !"",","""C'était un honneur, #squad. Dans cette ligne temporelle, et partout ailleurs."",
 ""C'était un honneur. Si je vois vos doubles, je leur passerai vos salutations."",
@@ -294,11 +287,10 @@ Efficacité Tactique : Compromise""","""Voir de la bonne techno mourir m'horripil
 ""Mon bégaiement semble avoir disparu. Mais pourqu-""","""Excavation temporelle initiée. Ré-engager le combat avec les Veks dans une ligne temporelle alternative à l'aide de nouvelles données.""","""Mon travail ici est enfin terminé mais voyage continue."",
 ""Je pars à la recherche d'une autre ligne temporelle aussi avancée que la mienne.""","""Jjk? ?Ckt'ch'kht?!""","""// ..--::--:: \\""",""":: Rhnnn-kk-n. Nnnh. ?NnH? ::""",,"""Merci, #squad... Vous nous avez sauvé. Vous avez toute notre gratitude."",
 ""Je veillerai à ce que Archive n'oublie jamais ce jour historique. Merci, #squad.""","""Ma confiance en vous était justifiée. Vous avez été testés et vous avez réussi.""",,"""Adieu, #squad. Vous nous avez sauvé. Maintenant, essayez de sauver les autres."",
-""Farewell, #squad. We owe you a debt we may never be able to repay. I wish you safe journeys."""
-,Gameover_Start,Right when you lose,"""Statut : Effondrement du Réseau d'Énergie
-Invasion Vek : Instoppable""","""Le Réseau d'Énergie s'est effondré ! L'île est perdue !""","""Le Réseau d'Énergie est défaillant."",
+""Adieu, #squad. Nous avons une grande dette que nous ne pourrons jamais vous rendre. Je vous souhaite un bon voyage."""
+,Gameover_Start,Right when you lose,"""Statut : Effondrement du Réseau d'Énergie\nInvasion Vek : Instoppable""","""Le Réseau d'Énergie s'est effondré ! L'île est perdue !""","""Le Réseau d'Énergie est défaillant."",
 ""La bataille est terminée. Cette guerre est perdue.""","""[ Att : Commandant. La ligne temporelle actuel a subi une défaillance catastrophique du système ]"",","""Les ingénieurs du réseau électrique indique une défaillance complète du système."",
-""Power levels are at zero.""",,"""J'ai espéré que nous aurions pu réussir cette fois."", 
+""Les niveaux de puissance sont à 0.""",,"""J'ai espéré que nous aurions pu réussir cette fois."", 
 ""Effondrement du Réseau d'Énergie ! Bon sang !"",
 ""Le Réseau d'Énergie s'effondre !"",
 ""Le système indique des défaillances énergétiques - Le Réseau d'Énergie est en train de s'effondrer !"",
@@ -324,14 +316,13 @@ Invasion Vek : Instoppable""","""Le Réseau d'Énergie s'est effondré ! L'île est 
 ""Le Réseau n'a pas réparable. Can't m@inta3... <shutting down>""","""Le Réseau est en train de lâcher !"",
 ""Le Réseau est tombé ! C'est... C'est terminé pour Detritus. C'est terminé pour tout le monde."",
 ""Nous nous sommes battu si dur... si seulement... enfin nous avons fait ce que nous avons pu."""
-,Gameover_Response,Response to above,"""Humanité : Détruite
-Lancement : Protocole voyage temporel""","""C'est fini... saut dans une autre ligne temporelle""","""Ceci n'est pas la fin. Lancement des protocoles de voyage temporel.""","""[ Att : Commandant: Lancement des protocoles de voyage temporel ]"",","""Nous devons suivre les protocoles d'échec de la mission - lancement du voyage temporel""",,"""Nous devons ouvrir une faille temporelle maintenant !"",
+,Gameover_Response,Response to above,"""Humanité : Détruite\nLancement : Protocole voyage temporel""","""C'est fini... saut dans une autre ligne temporelle""","""Ceci n'est pas la fin. Lancement des protocoles de voyage temporel.""","""[ Att : Commandant: Lancement des protocoles de voyage temporel ]"",","""Nous devons suivre les protocoles d'échec de la mission - lancement du voyage temporel""",,"""Nous devons ouvrir une faille temporelle maintenant !"",
 ""Activer la faille temporelle !"",
 ""Nous avons échoué - mais seulement dans cette ligne temporelle. Ouvrez une faille temporelle maintenant !"",
 ""Pas encore ! Prération d'un saut dans une autre ligne temporelle !""","""Nous... nous pouvons essayer de nouveau. La prochaine fois - nous réussirons.""","""Il est temps pour nous de partir."",
 ""Ce monde est mort."",
 ""Nous n'avons plus rien à faire ici.""","""Ce monde est mort. Il est temps de partir."",
-""Au moins nous sommes paré à ce qui nous attend dans la prochaine ligne temporelle. Activation d'un faille temporelle.""","""Lancement d'une faille temporelle. Laissons le cycle de la vie continuer."",
+""Au moins nous sommes paré à ce qui nous attend dans la prochaine ligne temporelle. Activation d'un faille temporelle.""","""Ouverture d'une faille temporelle. Laissons le cycle de la vie continuer."",
 ""Faille en cours d'initialisation... Adieu, mon Archive originelle."",
 ""Une autre ligne temporelle a besoin du protocol Vekticide. Initialisation d'une faille temporelle."",","""Nous devons réessayer encore une fois ! Activation de la faille temporelle... Maintenant !"",
 ""Initialisation d'une faille temporelle... Ligne temporelle,  nous arrivons, prête ou pas !""","""Activation de la faille temporelle. La prochaine ligne temporelle nous attend.""","""Il n'y a plus rien à faire à part partir. Il n'est pas question à ce que j'échoue encore une fois !"", 
@@ -578,19 +569,19 @@ Mid- Battle,MissionStart,Generic mission start,"""Armes : Fonctionnelles"",
 ""Des centaines de vies sont entre vos mains. Faites attention."",","""Nous vous surveillons d'ici. Bonne chance #squad."",
 
 ""Detritus vous suivra du mieux possible, Commandant - #squad, Bonne chance."","
-*,Mission_ResetTurn,Triggers after a turn reset,"""Mise à Jour : Localisation de la faille terminée""","""Nnnnh... Prendre des failles temporelles me fait tourner la tête."",
+*,Mission_ResetTurn,Triggers after a turn reset,"""Mise à Jour : Création d'une faille terminée""","""Nnnnh... Prendre des failles temporelles me fait tourner la tête."",
 ""On est de retour ? Où devrions-nous être?"",
 ""Sommes-nous arrivés où et quand nous devrions être ?"",
-""Localisation de la faille avec succès... Tous les systèmes sont fonctionnels."",
+""Création d'une faille réussie... Tous les systèmes sont fonctionnels."",
 ""Et maintenant le Deuxième Round !""","""Donc, voici à quoi ressemble l'époque de la terraformation..."",
 ""Était-ce vraiment prudent ?"",
-""Localisation de la faille temporelle avec succès, Commandant.""","""[ Localisation de la faille temporelle avec succès ]"",
-""[ Loc-Localisation de la fa-faille ré-réussie ]\n[ Recalibration du système echo ]""","""Nnnh... Prendre des failles temporelles me donne l'impression d'être à deux endroits à la fois."",
+""Création d'une faille temporelle avec succès, Commandant.""","""[ Création réussie d'une faille temporelle ]"",
+""[ Cré-création d'une fa-faille temporelle ré-réussie ]\n[ Recalibration du système echo ]""","""Nnnh... Prendre des failles temporelles me donne l'impression d'être à deux endroits à la fois."",
 ""Prêt à refaire cela ?"",
 ""Sommes-nous à nouveau prêt ?"",
 ""Faisons mieux cette fois-ci."",
-""Est-ce que tout le monde a tiré un enseignement de notre dernière défaite ?""",,"""Localisation de la faille réussie. Utilisons cela à notre avantage."",
-""#squad, au rapport. Faille localisée avec succès."",
+""Est-ce que tout le monde a tiré un enseignement de notre dernière défaite ?""",,"""Création d'une faille réussie. Utilisons cela à notre avantage."",
+""#squad, au rapport. Création réussie d'une faille temporelle."",
 ""Nous avons gagné un peu de temps, profitons en !"",
 ""Content que cela ait fonctionné. Dommage pour les Veks.""","""Les couleurs ne vous semblent-elles pas plus... colorées ?"",
 ""Est-ce que nous avons créé une nouvelle ligne temporelle ou bien..."",
@@ -599,27 +590,27 @@ Mid- Battle,MissionStart,Generic mission start,"""Armes : Fonctionnelles"",
 ""Nous connaissons les mouvements de nos ennemis, utilisons cela contre eux maintenant."",
 ""Plus de secondes chandes - utilisons le temps que nous avons maintenant.""","""Fascinant ! Tout est là, à la même place !"",
 ""Oh, je suis là où j'étais quand... ou à la même place où j'étais... lorsque... laissez tomber."",
-""Je suis relativement certain que les failles courtes n'étaient pas l'utilisation première de cette technologie..."",
-""These localized breaches merit further study.""","""Le temps a été recyclé."",
+""Je suis relativement certain que la création de failles temporelles n'étaient pas l'utilisation première de cette technologie..."",
+""Ces failles temporelles mériteraient des études plus poussées.""","""Le temps a été recyclé."",
 ""#squad ont été recyclés."",
 ""Commençons à nouveau nos efforts Vekticides."",
-""Localized breach may cause long-term environmental damage.""","""Çà a marché ! Nous n'avons pas déchiré l'espace-temps ou quoi que ce soit !"",
+""La création de failles temporelles peuvent causer des dommages environnementaux sur le long terme.""","""Ça a marché ! Nous n'avons pas déchiré l'espace-temps ou quoi que ce soit !"",
 ""Ça. C'était. Trop. COOL."",
 ""Tous mes sens semblent... plus affinés. Les couleurs semblent... plus intenses."",
 ""Eeeeet nous sommes de retour !"",
-""Okay, #self_first, remember - don't do the thing you did before, do a different thing.""","""Localisation de la faille avec succès."",
-""Everyone okay? Now focus this time, we don't get another chance.""","""On dirait que nous sommes en train de dépouiller les engrenages du temps quand nous faisons cela..."",
-""Felt like there was two of me for a sec... how awesome would that be!""","""Nnnh... Les failles localisées me donnent des maux de tête."",
+""Ok, #self_first, rappelle toi - ne fais pas la même chose qu'avant, essaie autre chose.""","""Création d'une faille avec succès."",
+""Est-ce que tout le monde va bien ? Oui ? Bien, concentrez-vous cette fois-ci, nous n'aurons pas une autre chance.""","""On dirait que nous sommes en train de dépouiller les engrenages du temps quand nous faisons cela..."",
+""J'ai l'impression que nous étions deux 'moi' il y a une seconde... ça aurait pu être génial !""","""Nnnh... Les failles temporelles me donnent des maux de tête."",
 ""Je ne pourrais pas faire ça pendant un long moment."",
 ""Nous avons une deuxième chance, faisons en sorte que cela compte."",
-""Localisation de la faille avec succès, Commandant... Euh, cela pourrait être la première fois que vous entendez cela."",
-""Localized breach successful, commander.""","""Réinitialisation des chronomètres. Objectifs inchangés."",
-""Localisation de la faille avec succès. Je suggère que nous évitions l'utilisation prolongée de cette technologie sur cette les lignes temporelles."",","""Réinitialisation du temps... a-a-avec s-s-succès."",
+""Création de la faille avec succès, Commandant... Euh, cela pourrait être la première fois que vous entendez cela."",
+""Création de la faille avec succès, Commandant.""","""Réinitialisation des chronomètres. Objectifs inchangés."",
+""Création de la faille avec succès. Je suggère que nous évitions l'utilisation prolongée de cette technologie sur cette les lignes temporelles."",","""Réinitialisation du temps... a-a-avec s-s-succès."",
 ""Recalibration de l'ancre tachyon... ef-ef-effectuée."",
 ""Réinitialisation com-complète. Nous devons faire plus attention, s'il vous plaît !"",
 ""Ce n'est pas ce à quoi mes travaux de recherche étaient destinés..."",
-""We... we need to be c-c-careful with these localized breaches.""","""Réinitialisation des systèmes."",
-""Updating chronometer.""","""Avons-nous simplement remonté le temps ? Ou avons-nous créé une divergence temporelle ?""","""K-k-k'ccht? ?""","""| *:.:-- |""",""":: Rhnnn-kk-k-n? ::""",,"""...Il n'y a pas eu quelque chose d'étrange dans vos capteurs ?""","""Qu-est ce que c'était ? Je viens d'avoir un moment de déjà vu... Comme lorsque vous arrivez la première fois à un endroit.""","""Mes capteurs viennent d'enregistrer une faille temporelle. Était-ce un dysfonctionnement?""","""#squad, êtes-vous là ? On obtient des signaux étranges sur les capteurs... Est-ce que vous allez bien ?"""
+""Nous... nous devons être prudents avec ces failles temporelles.""","""Réinitialisation des systèmes."",
+""Mise à jour du chrono.""","""Avons-nous simplement remonté le temps ? Ou avons-nous créé une divergence temporelle ?""","""K-k-k'ccht? ?""","""| *:.:-- |""",""":: Rhnnn-kk-k-n? ::""",,"""...Il n'y a pas eu quelque chose d'étrange dans vos capteurs ?""","""Qu-est ce que c'était ? Je viens d'avoir un moment de déjà vu... Comme lorsque vous arrivez la première fois à un endroit.""","""Mes capteurs viennent d'enregistrer une faille temporelle. Était-ce un dysfonctionnement?""","""#squad, êtes-vous là ? On obtient des signaux étranges sur les capteurs... Est-ce que vous allez bien ?"""
 ,MissionEnd_Dead,Generic mission end where enemies are all killed,"""Mise à Jour : Mission accomplie
 Objectifs : Accomplis"",
 ""Mise à Jour : Mission complète\nAmres : Hors Ligne""","""Nous les avons tous tués ! Les Veks sont morts !"",
@@ -627,7 +618,7 @@ Objectifs : Accomplis"",
 ""J'espère que ma famille sur Archive regardait.""","""On les a tous tués. #corp sera heureuse de l'apprendre."",
 ""Même Kern a souri."",
 ""La région est libérée des Veks, Commandant."",
-""Clean sweep. Good job, #squad.""","""[ Aucun signe de vie Vek détecté sur les capteurs ]"",
+""Nettoyage accompli. Bon travail, #squad.""","""[ Aucun signe de vie Vek détecté sur les capteurs ]"",
 ""[ La menace Vek dans la région a été éradiquée ]"",
 ""[ Population Vek dans la région à 0% ]"",","""100% de succès. Le PDG Singh aime ce nombre."",
 ""Aucune trace des Veks sur nos scanners."",
@@ -639,20 +630,20 @@ Objectifs : Accomplis"",
 ""Plus un seul Vek sur nos capteurs - bien."",
 ""Un bon Vek est un Vek mort."",
 ""Bon travail, #squad. Mais la guerre n'est pas encore terminée."",
-""We won this battle, but the war continues.""","""On l'a fait ! Bon travail à tous !"",
+""Nous avons gagné cette bataille, mais la guerre continue.""","""On l'a fait ! Bon travail à tous !"",
 ""Bon travail, #squad ! Nous avons éradiqué les Veks !"",
 ""Est-ce que nous les avons tous eu ? Vraiment ?"",
 ""Région sécurisée. Plus un seul Vek sur nos capteurs."",","""Ces Veks n'étaient pas à la hauteur. Quelle honte."",
 ""Approfondi."",
 ""Les Veks sont morts. La région est sécurisée."",
-""This battle is ours. The Vek have been slain to the last.""","""Je n'ai pas collecté assez de données sur les Veks pour mener une analyse complète.""","""Vekticide de la région complète."",
+""Cette bataille est la nôtre. Les Veks ont été massacrés jusqu'au dernier.""","""Je n'ai pas collecté assez de données sur les Veks pour mener une analyse complète.""","""Vekticide de la région complète."",
 ""La terre a été assainie pour de nouvelles plantations."",
 ""La nature a été préservée."",
 ""Les parasites Veks ont été éradiqués."",
-""All available Vek nutrients have been distributed into the soil.""","""Nous l'avons fait ! C'était bien marrant !"", 
+""Tous les nutriments Veks ont été rendus à la terre.""","""Nous l'avons fait ! C'était bien marrant !"", 
 ""Le dernier arrivé à la Carrière est une poule mouillée !"",
 ""Voilà comment ça doit être fait ! #squad, nos sauveurs !"",
-""Got every last Vek! Let's hear it for the #squad!""","""Nettoyons et balayons ce qui reste et allons nous en."",
+""Nous avons eu tous les Veks ! Let's hear it for the #squad!""","""Nettoyons et balayons ce qui reste et allons nous en."",
 ""Aucun Vek sur nos capteurs. Bon travail, #squad."",
 ""Propre, net et sans bavure, #squad. Bien joué."",","""C'est tout ce que vous avez ? Je peux faire ça pendant des jours entiers !"", 
 ""C'étaient tous les Veks ? Vraiment ?"", 
