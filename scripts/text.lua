@@ -560,11 +560,11 @@ local Global_Texts = {
 	Reward_Subheading = "Choisir une récompense",
 	
 	--- Misc
-	Pod_Objective = "Protéger le Module Temporel",
-	Secret_Objective = "Protéger le Module Étrange",
-	Secret_Objective_Failed = "Protéger le Module Étrange (Échec)",
+	Pod_Objective = "Sauver le Module Temporel",
+	Secret_Objective = "Sauver le Module Étrange",
+	Secret_Objective_Failed = "Sauver le Module Étrange (Échec)",
 	Pod_Detected = "Module Temporel Détecté",
-	Pod_Failed = "Protéger le Module Temporel (Échec)",
+	Pod_Failed = "Sauver le Module Temporel (Échec)",
 	Toggle_NeverAgain = "Ne Plus Demander",
 	Mission_Map_Deploy = "Commencer Mission",
 	Pawn_Box_Water = "Eau \nBloquante",
