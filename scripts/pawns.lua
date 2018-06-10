@@ -7,7 +7,7 @@ package.path = ';scripts/?.lua' .. ';./?.lua'
 ------------------------------------------------------------------------------------------------
 
 PunchMech = {
-	Name = "Mechs de Combat",
+	Name = "Mech de Combat",
 	Class = "Prime",
 	Health = 3,
 	MoveSpeed = 3,
