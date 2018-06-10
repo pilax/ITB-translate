@@ -15,7 +15,7 @@ local Global_Texts = {
 	Tutorial_CombatMonster_Title = "Attaques Ennemies",
 
 	Tutorial_CombatMech_Text = "Ceci est votre Mech de Combat. Il peut frapper n'importe quelle tuile adjacente. \n\nCliquez sur votre Mech, rapprocher-le de l'ennemi et frapper-le.", 
-	Tutorial_CombatMech_Title = "Mechs de Combat",
+	Tutorial_CombatMech_Title = "Mech de Combat",
 	
 	Tutorial_DeadTutorial_Title = "Escouade HS",
 	Tutorial_DeadTutorial_Text = "Tous vos Mechs ont été mis HS. Dans des batailles classiques, les Veks poursuivraient leurs attaques et la mission se terminerait. \n\nPour les besoins de ce didacticiel, vos Mechs ont été entièrement réparés.",
