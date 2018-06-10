@@ -83,7 +83,7 @@ Generic Missions,Mission_Generic_Briefing,Missions without anything unique happe
 
 ""Les civils dans ces bâtiments sont forts, mais pas invincibles. Assurez-vous à ce qu'ils survivent à ce combat."",
 
-""Broyer les Veks dans la saleté dans laquelle ils se reproduisent. Si votre histoire sur votre voyage dans le futur est vraie, ils doivent être arrêtés ici et maintenant."",","""Je surveille simultanément 84 micro-incursions souterraines par les Veks. Vous devrez gérer celle-ci par vous-même."",
+""Broyer les Veks dans la saleté dans laquelle ils se reproduisent. Si votre histoire sur votre voyage dans le futur est vraie, ils doivent être arrêtés ici et maintenant."",","""Je surveille simultanément 84 micro-incursions souterraines Veks. Vous devrez gérer celle-ci par vous-même."",
 
 ""Trois sous-routines sur cinq vous donnent une faible chance de succès dans cette mission. S'il vous plait faites attention."",
 
@@ -480,7 +480,7 @@ RST Missions,Mission_Force_Briefing,"This mission involves ""a display of force"
 ,Mission_Filler_Success,"""Earth Mover"" survives and the ground is filled in",,"""Nous commencerons à construire des défenses souterraines sur cette nouvelle terre avant que le Vek puisse s'y enfouir.""",,
 ,Mission_Filler_Failure,"""Earth Mover"" dies -- ground still might be filled in, so don't address that.",,"""La terre stable est une aubaine sur cette île - nous avions besoin de ce Remueur Terrestre pour créer les fondations pour de nouveaux abris et de nouvelles routes !""",,
 ,,,,,,
-,Mission_Solar_Briefing,,,"""Nous façonnons les conditions météorologiques sur l'île afin que nos fermes solaires puissent récolter la lumière du soleil douze heures par jour. Mais pour ce faire, les fermes solaires doivent rester intactes.""",,
+,Mission_Solar_Briefing,,,"""Nous façonnons les conditions météorologiques sur l'île de afin que nos fermes solaires puissent capter la lumière du soleil douze heures par jour. Mais pour ce faire, les fermes solaires doivent rester intactes.""",,
 ,Mission_Solar_Success,,,"""Ces fermes solaires sont essentielles pour maintenir le Réseau d'Énergie. C'est un miracle que vous ayez empêché les Veks de les détruire.""",,
 ,Mission_Solar_Partial,,,"""Une seule ferme solaire est insuffisante. Alors que l'île subit des pannes de courant, je suis sûr que vous vous attendez à ce que vos Mechs reçoivent un traitement prioritaire.""",,
 ,Mission_Solar_Failure,,,"""Sans énergie, vos Mechs ne valent rien. Peut-être que la prochaine fois vous devriez considérer cela quand vous verrez l'ennemi détruire nos fermes solaires.""",,
@@ -509,7 +509,7 @@ The factories are 'too valuable' to lose and perhaps contain 'innocent sentient 
 ,Mission_Factory_Failure,Both factories destroyed,,,"""Cette usine ne contenait pas seulement des vies, mais pouvait en créer. Peu d'installations de ce type demeurent sur notre île. Maintenant il y en a deux de moins qu'avant."",",
 ,,,,,,
 ,Mission_Reactivation_Briefing,"""Reactivation"" is a misnomer at this point. Field of battle is full of enemy units incased in ice, every turn more units come out of the ice. No special objective, just a straight battle.",,,"""Quand j'ai perdu le contrôle de mes processus environnementaux, des centaines de Vek et de machines ont été gelés. Dès que les conditions météorologiques redeviendront à la normale, ces dangers sont libérés."",",
-,Mission_Reactivation_Success,(Generic success),,,"""Ces machines étaient irréparables après avoir subi de telles températures extrêmes; les tuer était une nécessité pour sauver plus de vie. J'espère."",",
+,Mission_Reactivation_Success,(Generic success),,,"""Après avoir subi de telles températures extrêmes, ces machines n'étaient plus elles-mêmes ; les tuer est devenue une nécessité pour sauver plus de vie. Enfin, j'espère."",",
 ,,,,,,
 ,Mission_SnowBattle_Briefing,"Generic battle, but the map has 2 hostile robots on it to start. No special objectives.
 

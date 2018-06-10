@@ -397,7 +397,7 @@ Brute_Mirrorshot_A_UpgradeDescription = "Augmente les dégâts de 1.",
 Brute_Mirrorshot_B_UpgradeDescription = "Augmente les dégâts de 1.",
 
 Brute_PhaseShot_Name = "Canon Phase",
-Brute_PhaseShot_Description = "Tir un projectile qui travers les objets.", 
+Brute_PhaseShot_Description = "Tir un projectile qui traverse les objets.", 
 Brute_PhaseShot_Upgrade1 = "Bouclier Phase",
 Brute_PhaseShot_Upgrade2 = "+1 Dégât",
 Brute_PhaseShot_A_UpgradeDescription = "Applique un Bouclier aux bâtiments qu'il traverse.",

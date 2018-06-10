@@ -592,7 +592,7 @@ function Mission:BaseObjectives()
 		elseif obj == BONUS_GRID then
 			Game:AddObjective("Perdre moins de 3 bâtiments du Réseau d'Énergie\n".."(Bâtiment(s) Perdu(s) : "..self:GetDamage()..")", status)
 		elseif obj == BONUS_MECHS then
-			Game:AddObjective("Encaisser moins de 4 pts de dégâts".."\n(Actuel : "..Board:GetMechDamage()..")", status)
+			Game:AddObjective("Subir moins de 4 pts de dégâts".."\n(Actuel : "..Board:GetMechDamage()..")", status)
 		elseif obj == BONUS_BLOCK then
 			local base = "Bloquer l'Apparition de Veks\n3 fois\n"
 			if IsLargeFont() then
@@ -631,7 +631,7 @@ function Mission:GetBonusObjective(objective)
 	elseif objective == BONUS_GRID then
 		return Objective("Perdre moins de 3 bâtiments du Réseau d'Énergie",1)
 	elseif objective == BONUS_MECHS then
-		return Objective("Encaisser moins de 4 points de dégâts",1)
+		return Objective("Subir moins de 4 points de dégâts",1)
 	elseif objective == BONUS_BLOCK then
 		return Objective("Bloquer l'Apparition de Veks\n3 fois",1)
 	elseif objective == BONUS_KILL_FIVE then

@@ -387,7 +387,7 @@ local Global_Texts = {
 	
 		
 	Corp_Grass_Description = "Cette Île Musée a recréé l'Ancienne Terre telle qu'elle était avant la montée du niveau de la mer et l'anéantissement de presque toute l'humanité.",
-	Corp_Desert_Description = "Spécialistes de la Terraformation, la corporation R.S.T. utilise l'environnement contre les Vek mais ont presque détruit leur Île dans le processus.",
+	Corp_Desert_Description = "Spécialistes de la Terraformation, R.S.T. utilise l'environnement comme arme contre les Vek mais a presque détruit toute l'île dans le processus.",
 	Corp_Snow_Description = "La corporation Pinnacle Robotics mène une guerre sur deux fronts, l'un contre les Veks, l'autre contre leurs propres Armes Intelligentes.",
 	Corp_Factory_Description = "La technologie Détritus peut décomposer n'importe quelle matière en éléments de base. Leurs Villes-Usines sont consacrées à l'enlèvement et au recyclage des déchets.",
 	
@@ -435,15 +435,15 @@ local Global_Texts = {
 	
 	-- Skill Info
 	Skill_Passive = "PASSIF",
-	Skill_ClassAny = "Tout",
+	Skill_ClassAny = "Universelle",
 	Skill_ClassTechnoVek = "Cyborg",
 	Skill_ClassPassive = "Passif",
 	Skill_ClassPrime = "Principal",
-	Skill_ClassDeath = "Mourrant",
+	Skill_ClassDeath = "Destructice",
 	Skill_ClassBrute = "Brute",
-	Skill_ClassRanged = "à distance",
+	Skill_ClassRanged = "À distance",
 	Skill_ClassScience = "Science",
-	Skill_ClassEnemy = "Ennemi",
+	Skill_ClassEnemy = "Ennemie",
 	Skill_ClassString = "Classe d'Arme $1",
 	Skill_ClassPassString = "Effet Passif",
 	Skill_Damage = "Dégâts : ",
@@ -560,7 +560,7 @@ local Global_Texts = {
 	Reward_Subheading = "Choisir une récompense",
 	
 	--- Misc
-	Pod_Objective = "Protéger le Module \nTemporel",
+	Pod_Objective = "Protéger le Module Temporel",
 	Secret_Objective = "Protéger le Module Étrange",
 	Secret_Objective_Failed = "Protéger le Module Étrange (Échec)",
 	Pod_Detected = "Module Temporel Détecté",
@@ -589,7 +589,7 @@ local Global_Texts = {
 	Mission_Normal = "Menace Vek Détectée !",
 	Mission_Easy = "Boucliers Défensifs Activés !",
 	Mission_Hard = "Menace Élevée Détectée !",
-	Mission_Final = "The Last Stand",
+	Mission_Final = "L'Affrontement Final",
 	Mission_Failed = "Région Détruite par les Veks",
 	Mission_None = "Pas de Vek Détecté",
 	
@@ -605,8 +605,8 @@ local Global_Texts = {
 	PilotNews_ReviveText = "Les Fournitures Médicales d'Urgence ont permis de sauver $1 de la mort !",
 	PilotNews_Vek = "RÉGÉNÉRÉ",
 	PilotNews_VekText = "$1 est revenu d'entre les morts ! L'effort requis pour le ramener a coûté de l'XP.",
-	PilotNews_DeadText = "$1 est mort après avoir subi de graves dégâts dans sa combat contre les Veks.",
-	PilotNews_Promoted = "PROMU",
+	PilotNews_DeadText = "$1 est mort(e) après avoir subi de graves dégâts dans son combat contre les Veks.",
+	PilotNews_Promoted = "PROMU(E)",
 	PilotNews_Skill = "Nouvelle Compétence :",
 	Button_Pilot_News_Done = "Compris",
 	

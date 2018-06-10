@@ -1,6 +1,6 @@
 
 Mission_BotBoss = Mission_Boss:new{
-	BossText = "Détruire le Chef de Robot",
+	BossText = "Détruire le Chef Robot",
 	SpawnStartMod = -1,
 	BossPawn = "BotBoss",
 	BossGeneric = false,--don't use generic boss briefing text
