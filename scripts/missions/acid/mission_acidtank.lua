@@ -41,7 +41,7 @@ end
 
 Acid_Tank = 
 {
-	Name = "Char A.C.I.D.",
+	Name = "Tank A.C.I.D.",
 	Health = 1,
 	MoveSpeed = 4,
 	Image = "TankAcid1",

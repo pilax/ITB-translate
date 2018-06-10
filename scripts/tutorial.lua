@@ -3,8 +3,8 @@
 ----------------------------------------------
 
 Tutorial_Tanks = {
-	Text = "Les chars sont à présent en ligne et peuvent être controllés !",
-	Title = "Char de l'Ancienne Terre"
+	Text = "Les Tanks sont à présent en ligne et peuvent être controllés !",
+	Title = "Tank de l'Ancienne Terre"
 }
 
 Tutorial_Terraform = {

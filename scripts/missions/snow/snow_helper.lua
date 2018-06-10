@@ -1,7 +1,7 @@
 
 Freeze_Tank = 
 {
-	Name = "Char Glaçant",
+	Name = "Tank Glaçant",
 	Health = 1,
 	MoveSpeed = 4,
 	Image = "TankIce1",

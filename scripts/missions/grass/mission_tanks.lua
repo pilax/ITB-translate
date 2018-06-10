@@ -2,7 +2,7 @@
 Mission_Tanks = Mission_Infinite:new{
 	Count = 2,
 	MapTags = {"satellite"},
-	Objectives = Objective("Défendre les Chars",2),
+	Objectives = Objective("Défendre les Tanks",2),
 	Tanks = nil,
 	UseBonus = false,
 }
@@ -36,7 +36,7 @@ end
 
 function Mission_Tanks:GetCompletedObjectives()
 	if self:CountTanks() == 1 then
-		return Objective("Défendre les Chars d'Archive (perdu : 1)",1,2)
+		return Objective("Défendre les Tanks d'Archive (perdu : 1)",1,2)
 	elseif self:CountTanks() == 2 then
 		return self.Objectives
 	else
@@ -54,12 +54,12 @@ end
 function Mission_Tanks:UpdateObjectives()
 	local status = OBJ_STANDARD
 	if self:CountTanks() == 0 then status = OBJ_FAILED end
-	Game:AddObjective("Défendre les Chars\n("..self:CountTanks().."/2 intact(s))", status, REWARD_REP, 2)
+	Game:AddObjective("Défendre les Tanks\n("..self:CountTanks().."/2 intact(s))", status, REWARD_REP, 2)
 end
 
 Archive_Tank = 
 {
-	Name = "Char d'Archive Corp",
+	Name = "Tank d'Archive Corp",
 	Health = 1,
 	MoveSpeed = 4,
 	Neutral = true,
@@ -70,6 +70,6 @@ Archive_Tank =
 	ImpactMaterial = IMPACT_METAL,
 	Corpse = false,
 	Corporate = false,
-	PilotDesc = "Archive Corp \nChar de l'Ancienne Terre",
+	PilotDesc = "Archive Corp \nTank de l'Ancienne Terre",
 }
 AddPawn("Archive_Tank")

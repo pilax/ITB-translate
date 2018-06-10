@@ -32,8 +32,8 @@ local Global_Texts = {
 	Tutorial_CombatPush_Text = "La frappe de votre Mech a POUSSÉ cette unité. Elle va maintenant attaquer un nouvel emplacement ! \n\nPoussez des ennemis peut sauver des bâtiments lorsqu'ils sont attaqués, voire même de faire en sorte à que les Veks s'attaquent entre eux.", 
 	Tutorial_CombatPush_Title = "Pousser les Ennemis",
 
-	Tutorial_CombatTank_Text = "Ceci est votre Mech Char. \n\nIl tire un projectile qui se déplace en ligne droite jusqu'à ce qu'il touche un autre objet.",
-	Tutorial_CombatTank_Title = "Mech Char",
+	Tutorial_CombatTank_Text = "Ceci est votre Tank Mech. \n\nIl tire un projectile qui se déplace en ligne droite jusqu'à ce qu'il touche un autre objet.",
+	Tutorial_CombatTank_Title = "Tank Mech",
 
 	Tutorial_CombatComplete_Text = "Pour chacune des missions, vous gagnez soit en battant les Veks soit en les combattant jusqu'à ce qu'ils se retirent.",
 	Tutorial_CombatComplete_Title = "Accomplir les Missions",
@@ -49,8 +49,8 @@ local Global_Texts = {
 
 --- MISSION TUTORIALS 
 
-	Tutorial_Tanks_Text = "Les chars sont opérationnels et peuvent maintenant être contrôlés !",
-	Tutorial_Tanks_Title = "Char de l'Ancienne Terre",
+	Tutorial_Tanks_Text = "Les Tanks sont opérationnels et peuvent maintenant être contrôlés !",
+	Tutorial_Tanks_Title = "Tank de l'Ancienne Terre",
 
 	Tutorial_Terraform_Text = "Ce Terraformeur est sous votre contrôle durant cette mission. \n\nUtilisez-le pour transformer les tuiles Herbe en tuiles Sable.",
 	Tutorial_Terraform_Title = "Terraformeur",

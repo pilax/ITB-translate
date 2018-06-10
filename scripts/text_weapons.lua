@@ -767,12 +767,12 @@ Deploy_TankShot2_Upgrade2 = "",
 Deploy_TankShot2_A_UpgradeDescription = "",
 Deploy_TankShot2_B_UpgradeDescription = "",
 
-DeploySkill_Tank_Name = "Char Léger",
-DeploySkill_Tank_Description = "Déploie un petit char vous aidant au combat.", 
+DeploySkill_Tank_Name = "Tank Léger",
+DeploySkill_Tank_Description = "Déploie un petit Tank vous aidant au combat.", 
 DeploySkill_Tank_Upgrade1 = "+2 Santé",
 DeploySkill_Tank_Upgrade2 = "+2 de Dégâts",
-DeploySkill_Tank_A_UpgradeDescription = "Augmente la santé max du Char à 3.",
-DeploySkill_Tank_B_UpgradeDescription = "Augmente les dégâts d'attaque du Char à 2.",
+DeploySkill_Tank_A_UpgradeDescription = "Augmente la santé max du Tank à 3.",
+DeploySkill_Tank_B_UpgradeDescription = "Augmente les dégâts d'attaque du Tank à 2.",
 
 --------------------
 Deploy_ShieldTankShot_Name = "Lanceur de Bouclier",
@@ -789,12 +789,12 @@ Deploy_ShieldTankShot2_Upgrade2 = "",
 Deploy_ShieldTankShot2_A_UpgradeDescription = "",
 Deploy_ShieldTankShot2_B_UpgradeDescription = "",
 
-DeploySkill_ShieldTank_Name = "Char-Bouclier",
-DeploySkill_ShieldTank_Description = "Déploie un Char-Bouclier qui peut donner des boucliers aux alliés.", 
+DeploySkill_ShieldTank_Name = "Tank-Bouclier",
+DeploySkill_ShieldTank_Description = "Déploie un Tank-Bouclier qui peut donner des boucliers aux alliés.", 
 DeploySkill_ShieldTank_Upgrade1 = "+2 Santé",
 DeploySkill_ShieldTank_Upgrade2 = "Projectile",
-DeploySkill_ShieldTank_A_UpgradeDescription = "Augmente la santé max du Char-Bouclier à 3.",
-DeploySkill_ShieldTank_B_UpgradeDescription = "Le Char-Bouclier tire à la place un projectile vous permettant de protéger des cibles distantes.",
+DeploySkill_ShieldTank_A_UpgradeDescription = "Augmente la santé max du Tank-Bouclier à 3.",
+DeploySkill_ShieldTank_B_UpgradeDescription = "Le Tank-Bouclier tire à la place un projectile vous permettant de protéger des cibles distantes.",
 
 
 ------------------
@@ -813,12 +813,12 @@ Deploy_AcidTankShot2_Upgrade2 = "",
 Deploy_AcidTankShot2_A_UpgradeDescription = "",
 Deploy_AcidTankShot2_B_UpgradeDescription = "",
 
-DeploySkill_AcidTank_Name = "Char A.C.I.D.",
-DeploySkill_AcidTank_Description = "Déploie un Char qui peut projeter de l'A.C.I.D sur des cibles.", 
+DeploySkill_AcidTank_Name = "Tank A.C.I.D.",
+DeploySkill_AcidTank_Description = "Déploie un Tank qui peut projeter de l'A.C.I.D sur des cibles.", 
 DeploySkill_AcidTank_Upgrade1 = "+2 Santé",
 DeploySkill_AcidTank_Upgrade2 = "+Push",
-DeploySkill_AcidTank_A_UpgradeDescription = "Augmente la santé max du Char à 3.",
-DeploySkill_AcidTank_B_UpgradeDescription = "L'attaque du char Pousse également ses cibles.",
+DeploySkill_AcidTank_A_UpgradeDescription = "Augmente la santé max du Tank à 3.",
+DeploySkill_AcidTank_B_UpgradeDescription = "L'attaque du Tank Pousse également ses cibles.",
 
 --------------------
 Deploy_PullTankShot_Name = "Tir Gravitationnel",
@@ -828,24 +828,24 @@ Deploy_PullTankShot_Upgrade2 = "",
 Deploy_PullTankShot_A_UpgradeDescription = "",
 Deploy_PullTankShot_B_UpgradeDescription = "",
 
-DeploySkill_PullTank_Name = "Char Gravitationnel",
-DeploySkill_PullTank_Description = "Déploie un Char qui peut attirer vers lui des cibles avec un projectile.", 
+DeploySkill_PullTank_Name = "Tank Gravitationnel",
+DeploySkill_PullTank_Description = "Déploie un Tank qui peut attirer vers lui des cibles avec un projectile.", 
 DeploySkill_PullTank_Upgrade1 = "+2 Santé",
 DeploySkill_PullTank_Upgrade2 = "Volant",
-DeploySkill_PullTank_A_UpgradeDescription = "Augmente la santé max du Char Gravitationnel à 3.",
-DeploySkill_PullTank_B_UpgradeDescription = "Donne au Char Gravitationnel la capacité de voler.",
+DeploySkill_PullTank_A_UpgradeDescription = "Augmente la santé max du Tank Gravitationnel à 3.",
+DeploySkill_PullTank_B_UpgradeDescription = "Donne au Tank Gravitationnel la capacité de voler.",
 
 
 ------------------
 
 ------ FOR OBSOLETE VERSIONS -------
 
-DeploySkill_SGenerator_Name = "Char-Bouclier",
-DeploySkill_SGenerator_Description = "Déploie un Char-Bouclier qui peut donner des boucliers aux alliés.", 
+DeploySkill_SGenerator_Name = "Tank-Bouclier",
+DeploySkill_SGenerator_Description = "Déploie un Tank-Bouclier qui peut donner des boucliers aux alliés.", 
 DeploySkill_SGenerator_Upgrade1 = "+2 Santé",
 DeploySkill_SGenerator_Upgrade2 = "Projectile",
-DeploySkill_SGenerator_A_UpgradeDescription = "Augmente les HP du Char-Bouclier à 3.",
-DeploySkill_ShieldTank_B_UpgradeDescription = "Le Char-Bouclier tire à la place un projectile vous permettant de protéger des cibles distantes.",
+DeploySkill_SGenerator_A_UpgradeDescription = "Augmente les HP du Tank-Bouclier à 3.",
+DeploySkill_ShieldTank_B_UpgradeDescription = "Le Tank-Bouclier tire à la place un projectile vous permettant de protéger des cibles distantes.",
 --[[
 Deploy_IceTankShot_Name = "Ice Shot",
 Deploy_IceTankShot_Description = "Fire a projectile that freezes a single enemy.", 

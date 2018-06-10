@@ -14,7 +14,7 @@
 
 
 Deploy_Tank = Pawn:new{
-	Name = "le char",
+	Name = "le Tank",
 	Health = 1,
 	MoveSpeed = 3,
 	Image = "SmallTank1",
@@ -89,7 +89,7 @@ DeploySkill_Tank_AB = DeploySkill_Tank:new{
 
 
 Deploy_ShieldTank = Pawn:new{
-	Name = "le char Bouclier",
+	Name = "le Tank Bouclier",
 	Health = 1,
 	MoveSpeed = 3,
 	Image = "ShieldTank1",
@@ -226,7 +226,7 @@ DeploySkill_SGenerator_AB = DeploySkill_ShieldTank_AB
 
 
 Deploy_AcidTank = Pawn:new{
-	Name = "Char A.C.I.D.",
+	Name = "Tank A.C.I.D.",
 	Health = 1,
 	MoveSpeed = 3,
 	Image = "TankAcid2",
@@ -318,7 +318,7 @@ DeploySkill_AcidTank_AB = DeploySkill_AcidTank:new{
 --------------------------------------------------------------------------
 
 Deploy_IceTank = Pawn:new{
-	Name = "le char Glaçant",
+	Name = "le Tank Glaçant",
 	Health = 1,
 	MoveSpeed = 3,
 	Image = "TankIce1",
@@ -385,7 +385,7 @@ DeploySkill_IceTank_AB = DeploySkill_IceTank:new{
 
 
 Deploy_PullTank = Pawn:new{
-	Name = "le char Gravitationnel",
+	Name = "le Tank Gravitationnel",
 	Health = 1,
 	MoveSpeed = 3,
 	Image = "PullTank1",
