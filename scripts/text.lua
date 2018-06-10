@@ -895,7 +895,7 @@ local Global_Texts = {
 	TipTitle_Rust_B = "Les Géants de la Flamme",
 	TipText_Rust_B = "Ne craignant pas les flammes, ces Mechs brûleront tout sur leur passage.",
 	
-	TipTitle_Pinnacle_A = "La Garde du Zénith",
+	TipTitle_Pinnacle_A = "La Garde de Zenith",
 	TipText_Pinnacle_A = "Ces Mechs sont le fruit de la combinaison des technologies offensives Detritus et des technologies défensives Pinnacle. Le meilleur des deux mondes !",
 	
 	TipTitle_Pinnacle_B = "Les Titans de Glace",

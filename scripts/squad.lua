@@ -12,7 +12,7 @@ function getStartingSquad(choice)
 		name = "Les Vieilles Epaves"
 	elseif choice == SQUAD_PINNACLE_A then
 		pawns = {"LaserMech", "ChargeMech", "ScienceMech"}
-		name = "La Garde du Zénith"
+		name = "La Garde de Zenith"
 	elseif choice == SQUAD_DETRITUS_A then
 		pawns = {"ElectricMech", "WallMech", "RockartMech"}
 		name = "Blitzkrieg"

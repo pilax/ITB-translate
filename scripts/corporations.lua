@@ -40,7 +40,7 @@ Corp_Grass = Corp_Default:new
 	Name = "Archive",
 	Bark_Name = "Archive",
 	Tileset = "grass",
-	Environment = "Tempéré",
+	Environment = "Verdoyant",
 	
 	Pilot = "Pilot_Archive",
 		
@@ -66,7 +66,7 @@ Corp_Desert = Corp_Default:new
 	Color = GL_Color(182,114,76),
 	Office = "rust",
 	Pilot = "Pilot_Rust",
-	Environment = "Désert",
+	Environment = "Aride",
 		
 	Music = { "/music/sand/combat_western", "/music/sand/combat_eastwood", "/music/sand/combat_montage" }, 
 	Map = { "/music/sand/map" }
@@ -86,7 +86,7 @@ Corp_Snow = Corp_Default:new
 	Bark_Name = "Pinnacle",
 	Color = GL_Color(235,235,235),
 	Tileset = "snow",
-	Environment = "Glacial",
+	Environment = "Polaire",
 	Pilot = "Pilot_Pinnacle",
 		
 	Music = { "/music/snow/combat_ice", "/music/snow/combat_zimmer",  "/music/snow/combat_train"  },
