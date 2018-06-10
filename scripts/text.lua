@@ -450,7 +450,7 @@ local Global_Texts = {
 	Skill_SelfDamage = "Dégâts Auto-Infligés : ",
 	Skill_Limited = "Utilisation(s) par bataille : ",
 	
-	Skill_WrongClass = " Aucune classe Mech ne correspond.\n1 point de pénalité s'applique.",
+	Skill_WrongClass = "       1 point de pénalité\n  en cas de mauvaise classe",
 	Skill_CyborgOnly = "Arme Non-Cyborg",
 	
 	--- Pilot Info

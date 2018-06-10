@@ -552,7 +552,7 @@ Detritus Missions,Mission_Barrels_Briefing,Large Vats of A.C.I.D. need to be des
 ,,,,,,
 ,Mission_AcidTank_Briefing,Player controls an A.C.I.D. tank (needs name?) for the mission. It applies A.C.I.D. to units. Mission is to destroy Vek that have the A.C.I.D. applied (so the A.C.I.D. has a chance to recycle the corpses?),,,,"""Detritus a déployé un tank A.C.I.D. dans ce secteur pour #squad - utilisez-le pour étudier les effets de A.C.I.D. sur les Veks."",
 
-""Un tank A.C.I.D. a été déployé dans ce secteur. Tuez tous les Veks touchés par ce tank, puis sécuriser le secteur pour pouvoir étudier les cadavres Vek."","
+""Un tank A.C.I.D. a été déployé dans ce secteur. Tuez tous les Veks touchés par ce tank, puis sécurisez le secteur pour pouvoir étudier les cadavres Vek."","
 ,Mission_AcidTank_Failure,Not enough units with acid killed,,,,"""Trop de Vek ont échappé aux tests à l'A.C.I.D. - nous n'avons pas assez de cadavres Vek pour effectuer une analyse correcte."""
 ,Mission_AcidTank_Success,4 Vek with Acid killed,,,,"""C'est un succès, Commandant - avec votre aide, nous avons obtenu un nombre suffisant de cadavres Vek infectés par de l'A.C.I.D."","
 ,,,,,,
