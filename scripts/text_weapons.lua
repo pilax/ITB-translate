@@ -349,7 +349,7 @@ Prime_Leap_A_UpgradeDescription = "Augmente les dégâts auto-infligés et aux cibl
 Prime_Leap_B_UpgradeDescription = "Augmente les dégâts infligés aux cibles de 1.",
 
 Prime_SpinFist_Name = "Poing Vortex",
-Prime_SpinFist_Description = "Inflige des dégâts et Pousse toutes les tuiles adjacents vers la gauche.", 
+Prime_SpinFist_Description = "Inflige des dégâts et Pousse toutes les tuiles adjacentes vers la gauche.", 
 Prime_SpinFist_Upgrade1 = "-1 Dégât Auto-Infligé",
 Prime_SpinFist_Upgrade2 = "+1 Dégât",
 Prime_SpinFist_A_UpgradeDescription = "Réduit les dégâts que le Mech subit en utilisant cette arme de 1.",
@@ -674,7 +674,7 @@ Skill_Repair_Name = "Réparation Mech",
 Skill_Repair_Description = "Répare 1 de dégât et retire l'effet de Feu, de Glace et d'A.C.I.D.",
 
 Skill_Repair_Power_Name = "Réparation Puissante",
-Skill_Repair_Power_Description = "Répare le Mech et Pousse les tuiles adjacents.",
+Skill_Repair_Power_Description = "Répare le Mech et Pousse les tuiles adjacentes.",
 
 Skill_Repair_Punch_Name = "Mantis Entailleur",
 Skill_Repair_Punch_Description = "Afflige des Dégâts et Pousse une tuile adjacente.\nSe libère de la glace.",
