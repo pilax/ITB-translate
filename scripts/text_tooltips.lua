@@ -110,7 +110,7 @@ local STATUS_TOOLTIPS = {
 
 local PilotSkills = {
 	Disable_Immunity = PilotSkill("Évasion","Ne peut pas être entravée ni affectée par le brouillard."),
-	Extra_XP = PilotSkill("Expérimenté","Gagne +2 XP\npar tué."),
+	Extra_XP = PilotSkill("Expérimenté","Gagne +2 XP\npar Vek tué."),
 	Self_Shield = PilotSkill("Bouclier de départ","Commence chaque mission avec un bouclier."),
 	Road_Runner = PilotSkill("Maniable","Peut se déplacer à travers les unités ennemies."),
 	Shifty = PilotSkill("Agile","Après avoir attaqué, gagne 1 mouvement d'une tuile gratuit."),
