@@ -24,7 +24,7 @@ local Global_Texts = {
 	Tutorial_CombatGameover_Title = "Game Over",
 
 	Tutorial_CombatUndo_Text = "Vous ne pouvez pas toucher l'ennemi depuis cette position. Utiliser 'Annuler Déplacement' pour repositionner le Mech !",
-	Tutorial_CombatUndo_Title = "Annuler Déplacmnt",
+	Tutorial_CombatUndo_Title = "Annuler Mouvement",
 
 	Tutorial_CombatPunch_Text = "Frapper l'ennemi !",
 	Tutorial_CombatPunch_Title = "",
@@ -418,7 +418,7 @@ local Global_Texts = {
 	Reset_TurnExtra = "Revenir au début de votre tour ?\n\nLa 'Réinitialisation Temporelle' du Pilote signifie que vous pouvez le faire deux fois durant cette bataille.",
 	Reset_TurnFinal = "Revenir au début de votre tour ?\n\nIl ne vous reste plus qu'une Réinitialisation.",
 	Button_EndTurn = "Fin du Tour",
-	Button_Undo = "ANNULER \nDÉPLACMNT",
+	Button_Undo = "ANNULER \nMOUVEMENT",
 	Button_UndoTurn = "RÉINITIALISATION",
 	Button_UndoTurnUsed = "INDISPONIBLE",
 	
@@ -926,7 +926,7 @@ local Global_Texts = {
 	Mute_Title = "Couper Volume",
 	Mute_Description = "Couper tout les sons",
 	
-	Undo_Title = "Annuler Déplacmnt",
+	Undo_Title = "Annuler Mouvement",
 	Undo_Description = "Annuler le dernier déplacement d'un Mech",
 	
 	Reset_Title = "Réinitialiser Tour",
