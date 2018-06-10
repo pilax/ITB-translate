@@ -40,7 +40,7 @@ end
 function Mission_BlobBoss:UpdateObjectives()
 	local status = self:CountDeadBlobs() >= self.BlobDeaths and OBJ_COMPLETE or OBJ_STANDARD
 	if status ~= OBJ_COMPLETE then
-		Game:AddObjective("Détruit "..self.BlobDeaths.." Goos \n("..self:CountDeadBlobs().." tué jusqu'ici)",status)
+		Game:AddObjective("Détruit "..self.BlobDeaths.." Goos \n("..self:CountDeadBlobs().." tué(s) jusqu'ici)",status)
 	else
 		Game:AddObjective("Détruit "..self.BlobDeaths.." Goos",status)
 	end

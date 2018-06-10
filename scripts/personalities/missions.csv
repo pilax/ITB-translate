@@ -91,7 +91,7 @@ Generic Missions,Mission_Generic_Briefing,Missions without anything unique happe
 
 ""Nos bâtiments résidentiels sont pleins des deux formes de vie biologique et artificielle. La survie de deux espèces dépend de vous."",","""Vous devez faire pression, Commandant. Détritus fera tout son possible pour vous aider ici."",
 
-""Faites comme vous pouvez, Commandant - les Veks doivent être repoussé et notre peuple protégé."",
+""Faites comme vous pouvez, Commandant - les Veks doivent être repoussés et notre peuple protégé."",
 
 ""Sachez que vous et #squad êtes notre dernier rempart contre les Veks, Commandant. Nous avons foi en vous"",
 
@@ -189,7 +189,7 @@ Generic Objectives,,"Some missions use generic objectives, so the CEO can pull f
 
 ""Ma puissance de sortie dans cette région est... <Connection Perdue>... <Puissance Réseau Faible>"",","""Le Réseau ici ne peut fournir qu'une puissance limitée. S'il subit des dégâts, vous et #squad n'auront peut-être pas assez de puissance pour combattre."",
 
-""Le Réseau ici n'a jamais été destiné à alimenter quelque chose comme votre Mechs. Nous l'avons fait fonctionner, mais à peine - minimisez les dégâts sur le Réseau si vous le pouvez."","
+""Le Réseau ici n'a jamais été destiné à alimenter du matériels comme vos Mechs. Nous avons, néanmoins, réussi à le faire fonctionner, mais à peine - minimisez les dégâts sur le Réseau tant que vous le pouvez."","
 ,Mission_GridHealth_Success,< 3 grid damage,,"""On dirait que le Réseau a tenu - grâce à votre gestion habile du combat. Nous avons besoin de tout le pouvoir dont nous disposons pour la guerre."",","""Tout fonctionne à un rendement optimal. Je vous remercie."",","""Le Réseau maintenu, Commandant. Le secteur a toujours le pouvoir. Détritus vous remercie vous et #squad."",
 
 ""L'alimentation du Réseau a été ininterrompue. Vous avez combattu de façon conservatrice et efficace, louable."","
@@ -564,7 +564,7 @@ Detritus Missions,Mission_Barrels_Briefing,Large Vats of A.C.I.D. need to be des
 ,Mission_Power_Briefing,Power plants need to be defended (two on the map),,,,"""Ce secteur a deux installations d'alimentation en Énergie qui alimentent de nombreuses usines de Detritus. Ces installations sont essentielles aux défenses de Detritus."",
 
 ""Les centrales électriques dans ce secteur sont critiques contre les Veks, Commandant. Si nous les perdons, nous pourrions également perdre Detritus."","
-,Mission_Power_Success,Power plants both alive,,,,"""Les deux centrales ont été mise en fonctionnement, et il n'y a pas eu de perturbation dans la Réseau d'Énergie. Vous et vos pilotes avez notre gratitude, Commandant."","
+,Mission_Power_Success,Power plants both alive,,,,"""Les deux centrales ont été mise en fonctionnement, et il n'y a pas eu de perturbation dans le Réseau d'Énergie. Vous et vos pilotes avez notre gratitude, Commandant."","
 ,Mission_Power_Partial,One Power Plant destroyed,,,,"""Un des deux centrales a été détruite, et il n'y a pas eu de perturbation dans le Réseau d'Énergie. Vous et vos pilotes avez notre gratitude, commandant."","
 ,Mission_Power_Failure,Both Power Plants destroyed,,,,"""La perte des deux centrales a non seulement mis hors courant nos installations mais également des centres de réfugiés. Je dois relocaliser ces gens immédiatement."","
 ,,,,,,
