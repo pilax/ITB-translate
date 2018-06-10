@@ -11,11 +11,11 @@ Mission_BeltRandom = Mission_Auto:new{
 }
 
 Env_Belt = Environment:new{
-	Name = "Tapis Roulants",
-	Text = "Les Tapis Roulants poussent n'importe quelle unité dans la direction indiquée au début du tour ennemi.",
-	StratText = "TAPIS ROULANTS",
+	Name = "Convoyeurs",
+	Text = "Les Convoyeurs à bande poussent n'importe quelle unité dans la direction indiquée au début du tour ennemi.",
+	StratText = "CONVOYEURS",
 	CombatIcon = "combat/tile_icon/tile_conveyor.png",
-	CombatName = "TAPIS\n\nROULANTS",
+	CombatName = "CONVOYEURS",
 	Belts = nil,
 	BeltsDir = nil,
 }

@@ -366,10 +366,10 @@ local Global_Texts = {
 	
 	------ ENVIRONMENTS ---------
 	
-	TipTitle_Env_BeltLine = "Tapis Roulant",
-	TipText_Env_BeltLine = "Les tapis roulants pousseront les unités situées sur eux",
-	TipTitle_Env_BeltRandom = "Tapis Roulant",
-	TipText_Env_BeltRandom = "Les tapis roulants pousseront les unités situées sur eux",
+	TipTitle_Env_BeltLine = "Convoyeurs à bande",
+	TipText_Env_BeltLine = "Les convoyeurs pousseront les unités situées sur eux",
+	TipTitle_Env_BeltRandom = "Convoyeurs à bande",
+	TipText_Env_BeltRandom = "Les convoyeurs pousseront les unités situées sur eux",
 	TipTitle_Env_Airstrike = "Frappes Aériennes",
 	TipText_Env_Airstrike = "Un bombardier ciblera périodiquement des zones de la carte",
 	TipTitle_Env_Tides = "Tsunami",

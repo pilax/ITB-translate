@@ -42,7 +42,7 @@ TILE_TOOLTIPS = {
 	grassland = {"Prairie", "Votre objectif bonus est de Terraformer les tuiles Prairie en Sable."},
 	stasis = {"Robot Stase", "Si son Bouclier est endommagé, ce robot prendra part au combat."},
 	
-	belt = {"Tapis Roulant", "Cette tuile va pousser l'unité s'y trouvant dans la direction indiquée."},
+	belt = {"Convoyeur à bande", "Cette tuile va pousser l'unité s'y trouvant dans la direction indiquée."},
 	
 	tele = {"Dalle de Téléportation", "En s'arrêtant sur cette dalle, vous serez Téléporté à la dalle correspondante de même couleur."},
 	
@@ -60,10 +60,10 @@ local STATUS_TOOLTIPS = {
 	regen = {"Psion Régénérant", "Le Vek Psion apporte la capacité de Régénération, soignant les unités ennemies de 1 point par tour."},
 	explode_leader = {"Psion Explosif", "Le Vek Psion apporte la capacité aux enemies d'exploser à leur mort, infligeant 1 de dégât aux tuiles adjacentes."},
 	explode = {"Explosions Innées", "Cette unité explosera à la mort, infligeant 1 de dégât aux tuiles adjacentes."},
-	arrow_0 = {"Tapis Roulant", "Cette unité sera poussée par le tapis roulant dans la direction indiquée."},
-	arrow_1 = {"Tapis Roulant", "Cette unité sera poussée par le tapis roulant dans la direction indiquée."},
-	arrow_2 = {"Tapis Roulant", "Cette unité sera poussée par le tapis roulant dans la direction indiquée."},
-	arrow_3 = {"Tapis Roulant", "Cette unité sera poussée par le tapis roulant dans la direction indiquée."},
+	arrow_0 = {"Convoyeur", "Cette unité sera poussée par le convoyeur à bande dans la direction indiquée."},
+	arrow_1 = {"Convoyeur", "Cette unité sera poussée par le convoyeur à bande dans la direction indiquée."},
+	arrow_2 = {"Convoyeur", "Cette unité sera poussée par le convoyeur à bande dans la direction indiquée."},
+	arrow_3 = {"Convoyeur", "Cette unité sera poussée par le convoyeur à bande dans la direction indiquée."},
 	tele_A = {"Dalle de Téléportation", "Si une autre unité utilise la dalle de téléportation ROUGE, celle-ci échangeront leur position."},
 	tele_B = {"Dalle de Téléportation", "Si une autre unité utilise la dalle de téléportation BLEU, celle-ci échangeront leur position."},
 	moving = {"Bonus Déplacement", "+2 de Déplacement pour UN tour."},

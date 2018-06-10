@@ -568,8 +568,8 @@ Detritus Missions,Mission_Barrels_Briefing,Large Vats of A.C.I.D. need to be des
 ,Mission_Power_Partial,One Power Plant destroyed,,,,"""Un des deux centrales a été détruite, et il n'y a pas eu de perturbation dans le Réseau d'Énergie. Vous et vos pilotes avez notre gratitude, commandant."","
 ,Mission_Power_Failure,Both Power Plants destroyed,,,,"""La perte des deux centrales a non seulement mis hors courant nos installations mais également des centres de réfugiés. Je dois relocaliser ces gens immédiatement."","
 ,,,,,,
-,Mission_Belt_Briefing,"Normal battle, but the map has massive conveyor belts that push the units around. (Normally used for transporting waste and recycling? Used for transportation of civilians?)",,,,"""Normalement, nous utilisons ces tapis roulants pour transporter les cuves de rebut - mais vous et #squad pouvez utiliser ces tapis roulants contre le Vek."","
-,Mission_Belt_Success,(Generic success),,,,"La chaine de transport est sécurisée. Merci, commandant - nous n'avions pas pensé à utiliser les tapis roulants à titre militaire."","
+,Mission_Belt_Briefing,"Normal battle, but the map has massive conveyor belts that push the units around. (Normally used for transporting waste and recycling? Used for transportation of civilians?)",,,,"""Normalement, nous utilisons ces convoyeurs à bande pour transporter les cuves de rebut - mais vous et #squad pouvez les utiliser contre le Veks."","
+,Mission_Belt_Success,(Generic success),,,,"La chaine de transport est sécurisée. Merci, commandant - nous n'avions pas pensé à utiliser les convoyeurs à bande à titre militaire."","
 ,,,,,,
 ,Mission_Teleporter_Briefing,"Normal battle, but the map has teleporter spaces that can warp units between different spaces on the map. (Again, why? Transport of waste/people/tech/etc?)",,,,"""C'est l'un de nos sites téléporteurs - il transporte les déchets en démontant et en réassemblant la matière. Vous pourriez être en mesure d'utiliser ces téléporteurs contre les Veks."", 
 

@@ -49,7 +49,7 @@ TILE_TOOLTIPS = {
 	terraformed = {"Terraformé", "Cette tuile a été terraformée dans le cadre de votre objectif bonus."},
 	stasis = {"Robot Stase", "Si son Bouclier est endommagé, ce robot prendra part au combat."},
 	
-	belt = {"Tapis Roulant", "Cette tuile va pousser l'unité s'y trouvant dans la direction indiquée."},
+	belt = {"Convoyeur", "Cette tuile va pousser l'unité s'y trouvant dans la direction indiquée."},
 	
 	tele = {"Dalle de Téléportation", "En s'arrêtant sur cette dalle, vous serez Téléporté à la dalle correspondante de même couleur."},
 	
@@ -68,10 +68,10 @@ local STATUS_TOOLTIPS = {
 	regen = {"Régénération", "Le Sang Psion guérit tous les Veks de 1 point à chaque tour."},
 	explode_leader = {"Explosion Désintégrante", "Le Psion Explosif fera exploser chaque Vek qui infligeront de 1 dégât aux tuiles adjacentes."},
 	explode = {"Explosion Désintégrante", "Explose en mourant, infligeant 1 de dégât aux tuiles adjacentes."}, --was Innate Explosions
-	arrow_0 = {"Tapis Roulant", "Cette unité sera poussée par le tapis roulant dans la direction indiquée."},
-	arrow_1 = {"Tapis Roulant", "Cette unité sera poussée par le tapis roulant dans la direction indiquée."},
-	arrow_2 = {"Tapis Roulant", "Cette unité sera poussée par le tapis roulant dans la direction indiquée."},
-	arrow_3 = {"Tapis Roulant", "Cette unité sera poussée par le tapis roulant dans la direction indiquée."},
+	arrow_0 = {"Convoyeur", "Cette unité sera poussée par le convoyeur à bande dans la direction indiquée."},
+	arrow_1 = {"Convoyeurs", "Cette unité sera poussée par le convoyeur à bande dans la direction indiquée."},
+	arrow_2 = {"Convoyeurs", "Cette unité sera poussée par le convoyeur à bande dans la direction indiquée."},
+	arrow_3 = {"Convoyeurs", "Cette unité sera poussée par le convoyeur à bande dans la direction indiquée."},
 	tele_A = {"Dalle de Téléportation", "Si une autre unité utilise la dalle de téléportation ROUGE, celle-ci échangeront leur position."},
 	tele_B = {"Dalle de Téléportation", "Si une autre unité utilise la dalle de téléportation BLEU, celle-ci échangeront leur position."},
 	moving = {"Bonus Déplacement", "+2 de Déplacement pour UN tour."},
