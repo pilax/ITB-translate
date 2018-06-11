@@ -2,7 +2,7 @@
 ,Script ID,,CEO_Grass,CEO_Sand,CEO_Snow,CEO_Acid
 ,Region_Names,,"""Apparts d'Archive"", ""Comté Historique"", ""Vallée Protégée"", ""Collines Oubliées"", ""Musées du Centre"", ""District Martial"", ""Vieille Ville"", ""Chambres Fortes"", ""Archives Secondaires"", ""Point du Souvenir"", ""Parc Colonial"", ""OhmVille"", ""Parc de l'Ancienne Terre"", ""Bibliothèque"", ""Expositions d'Archive"", ""Entrepôt d'Accord"", ""Hall de l'Histoire"", ""Parc de la Retrospection"", ""Reliques Préservées"", ""Pâturage"", ""Fermes Préservées"", ""Centre de Restoration"", ""Centre de Recherches"", ""Stockages des Artéfacts"", ""Complexe de Renovation"", ""Hall de l'Archiviste"", ""Antiquité"", ""Site d'Excavation""","""Roche Noire"", ""Parc du Phoénix"", ""Lone Mesa"", ""District Rouillé"", ""Schiste Argileux"", ""Comté Purifiée"", ""Plateau du Renard"",""Crête Mercury"", ""Sables Rouges"", ""Crête du Jugement Dernier"", ""Point de l'Apocalypse"", ""Champs du Tonerre"", ""Parc des Detonations"", ""Terrains Découverts"",""Apparts d'Érosion"", ""Site Tectonique 3.1"", ""Sierra Quadrant"", ""Site d'Essai Delta"",""Site d'Essai Echo"", ""Division QA"", ""Attrape-Lumière"", ""Terre Brûlée"", ""Côte du Rasoir"", ""Baie du Rasoir"", ""Baie du Cratère"", ""Bunker Soufflant"", ""Zone Beta"",""Baie des Detonations"",""Terre Nouvelle"",""Vallée Poussiéreuse"",""Dunes Rouillées"", ""Site d'Essai D-CM"",""Point Rustique"",""Folie de Kern"",""Cicatrice"", ""Tranchée Gamma"",""Station Géothermale"",""Zone Restreinte"",""Cluster de Turbines"",""Bunkers Maglev"",""Point Lumineux"",""Champs Tesla"",""Apparts de Désintegration"",""Coin de Paradis"",""Jardin Soufflant"",""Zone d'Entrainement R.S.T."", ""Périmètre R.S.T."", ""Clôture Sismique R.S.T."", ""Puits de Turbines"", ""Moulin à Vent"",""La Brume"",""Plage Rouillée"",""Station de Mesure Météo"",""Sommet des Tempêtes"", ""Fendu"", ""La Faille"", ""Champ Dead Bird"", ""Parc à Ferrailles"",","""Plaines Glacées"", ""Forêt Glacée"", ""Processeur Central"", ""Stockage Glacé"", ""Réparations Robotiques"", ""Refroidissement Secondaire"", ""Bassin Sans Vie"", ""Zone d'Entrainement des I.A."", ""Laboratoires Cryogéniques"", ""Plaines de Silicates"", ""La Toundra"", ""Rayon Sub-Zero"", ""Central Cryogénique"", ""Caveau Blindé"", ""District Z-1001"", ""District Z-1101"", ""Jardin de Pinnacle"", ""Falaise Glacière"", ""Champ Venteux"", ""Amortisseurs Thermiques"",","""Les Terres Désolées"", ""Centre Ville"", ""Zone de Récupération"", ""Retraitement"", ""Tas de Ferrailles"", ""Centre Venteux"", ""Centre de Teleportation"", ""Champs Venteux"", ""Chambres de Déchets"", ""Chambres d'Évacuation"", ""Champs Chimiques A"", ""Site d'Évacuation C"", ""La Décharge"", ""Le Tas"", ""Nano-Silos"", ""Fermes de Nanites"", ""Zone de Confinement D"", ""Zone de Confinement J"", ""Station de Pompage"","
 ,Island_Perfect,"Used when the player does not fail a single objective on the island. They get a free reward
-","""Vous avez accompli toutes les missions pour Archive Inc., un accomplissement impressionnant ! S'il vous plaît, vous et #squad acceptez cela comme des remerciements."",","""Vous avez terminé chaque mission pour R.S.T. malgré nos maigres chances. Vous avez gagné mon respect, #squad - et voici tout ce que nous pouvons offrir."",","""Vous avez sauvé Pinnacle, accomplissant chaque objectif sans faute. Permettez-moi de vous fournir une aide supplémentaire."",","""#squad, j'ai le plaisir de vous informer que votre taux de réussite est de 100%. Le règlement intérieur Détritus dicte que vous avez gagné un bonus."", 
+","""Vous avez accompli toutes les missions pour Archive, un accomplissement impressionnant ! Acceptez vous et #squad tous nos remerciements."",","""Vous avez terminé chaque mission pour R.S.T. malgré nos maigres chances. Vous avez gagné mon respect, #squad - et voici tout ce que nous pouvons offrir."",","""Vous avez sauvé Pinnacle, accomplissant chaque objectif sans faute. Permettez-moi de vous fournir une aide supplémentaire."",","""#squad, j'ai le plaisir de vous informer que votre taux de réussite est de 100%. Le règlement intérieur Détritus dicte que vous avez gagné un bonus."", 
 
 ""Détritus a un plan bonus agressif pour l'excellence dans la performance, Commandant. Vous et #squad le méritent."", 
 
@@ -76,7 +76,7 @@ Generic Missions,Mission_Generic_Briefing,Missions without anything unique happe
 
 ""Les réfugiés qui vivaient dans les villes préservées du XXIème siècle n'étaient pas ce que les fondateurs de l'Île Archives, mais nous devons abriter tout le monde du mieux que nous pouvons."", 
 
-""Il y a des Vestiges Technologique enterrés sous cette région, nous devons chasser les Veks avant qu'ils ne les endommagent !"", 
+""Il y a des coffres contenant des reliques de l'Ancienne Terre enterrés sous cette région, nous devons chasser les Veks avant qu'ils ne les endommagent !"", 
 
 ""Avec la majeure partie de l'Ancienne Terre sous l'eau, nous devons défendre le peu qu'il reste. L'Île Archives a protégé ces bâtiments pendant des décennies, mais nous comptons sur vous maintenant."",
 ","""Notre Île a beaucoup souffert lorsque nous avons utilisé notre technologie de Terraformation contre les Veks. Pourtant, nous devons défendre ce qu'il en reste."",
@@ -102,7 +102,7 @@ Generic Missions,Mission_Generic_Briefing,Missions without anything unique happe
 
 ""Les troupes de l'Ancienne Terre auraient été fières ! Si seulement elles avaient été là pour voir ça..."", 
 
-""Avec cette région sécurisée, nous pouvons ouvrir nos Vestiges Technologiques. Voyons quelle autre technologie de l'Ancienne Terre nous pouvons utiliser contre les Veks !"",
+""La région étant sécurisée, nous pouvons ouvrir tranquillement les coffres. Voyons quelle autre relique de l'Ancienne Terre nous pourrons utiliser contre les Veks !"",
 ","""C'est l'esprit qu'il faut si nous voulons gagner ce combat. Bon travail, à la fois vous et l'escoude... #squad."",
 
 ""Excellent, vous avez gagné du terrain - nous le conserverons à présent, vous et votre escouade, continuez d'avancer."",
@@ -150,14 +150,14 @@ Generic Missions,Mission_Generic_Briefing,Missions without anything unique happe
 ""Les Mechs de #squad sont puissants, mais je crains qu'ils ne soient pas assez nombreux pour les piloter."","
 ,,,,,,
 Generic Objectives,,"Some missions use generic objectives, so the CEO can pull from these lists to address those objectives ",,,,
-,Mission_MechHealth_Briefing,This bonus objective is for limiting damage to the Mechs themselves.,"""Notre équipement et les ressources pour réparer votre Mechs sont limités - s'il vous plaît essayez d'encaisser un minimum de dégâts."",
+,Mission_MechHealth_Briefing,This bonus objective is for limiting damage to the Mechs themselves.,"""Notre équipement et les ressources pour réparer votre Mechs sont limités - essayez d'encaisser un minimum de dégâts."",
 ","""Nous pouvons à peine faire fonctionner nos villes, et encore moins réparer vos Mechs s'ils sont endommagés. Choisissez vos tirs avec soin."",
 
 ""Ce n'est pas Pinnacle ici - nous n'avons pas assez d'équipes d'ingénieurs pour réparer vos Mechs s'ils subissent des dégâts importants."",","""Il y aura peu de temps entre les escarmouches et nous avons besoin de vous et vos Mechs pleinement opérationnels. Faites preuve de prudence."",
 
-""Nos équipes de réparation robotisées sont hors ligne. Il sera difficile de vous assister pour la réparation de Mech avant la prochaine opération de combat. S'il vous plaît gardez ça en tête."",","""Malheureusement, la majeure partie de notre division d'ingénierie est occupée. Si #squad subissent trop de dégâts, nous ne pourrons peut-être pas les réparer."",
+""Nos équipes de réparation robotisées sont hors service. Il sera difficile de vous assister pour la réparation de vos Mechs avant le prochain combat. Essayez de gardez ça en tête."",","""Malheureusement, la majeure partie de notre division d'ingénierie est occupée. Si #squad subissent trop de dégâts, nous ne pourrons peut-être pas les réparer."",
 
-""Nous n'avons aucun personnel pour réparer votre Mechs s'il est endommagé. C'est malheureux, mais s'il vous plaît, faites ce que vous pouvez pour les garder hors de danger."","
+""Nous n'avons aucun personnel pour réparer vos Mechs s'ils sont endommagés. S'il vous plaît, faites ce que vous pouvez pour encaisser un minimum de dégâts."","
 ,Mission_MechHealth_Success,< 4 damage to mechs,"""Vos Mechs semblent presque intacts ! C'est un soulagement... cela nous permettra d'affecter nos équipes de réparation pour renforcer les abris des réfugiés."",
 
 ""Vos Mechs sont à peine égratignés ! Cela nous permettra d'affecter nos équipes de réparation aux urgences dans d'autres régions."",","""Je vois que vous et #squad ont survécu au pire et réussi à subsister. Excellent."",
@@ -168,7 +168,7 @@ Generic Objectives,,"Some missions use generic objectives, so the CEO can pull f
 ","""Votre capacité à vaincre les Veks avec un minimum de dégâts sur les Mechs est admirable. Si seulement tous les humains pouvaient montrer une telle préoccupation pour leurs homologues artificiels."",","""Un Succès - et seulement des dégâts mineurs sur vos Mechs, Commandant, enfin... des dégâts réparables par Détritus."",
 
 ""Vos Mechs n'ont subi que des dégâts mineurs, mes ingénieurs sont certains qu'ils peuvent remettre #squad rapidement sur le terrain."","
-,Mission_MechHealth_Failure,>= 4 damage to mechs,"""On me dit que nous devrons réassignées trois équipes d'ingénieurs pour réparer vos Mechs. Les équipes d'ingénieurs en ont déjà plus qu'assez..."",","""Vos Mechs sont lourdement endommagés, plusieurs équipes d'ingénieurs ont été réassignées pour les réparer en ce moment même, même les équipes dédiées à la sécurité civile."",
+,Mission_MechHealth_Failure,>= 4 damage to mechs,"""On me dit que nous devrons réassigner trois équipes d'ingénieurs pour réparer vos Mechs. Je vous avais déjà dit que nos équipes d'ingénieurs avaient déjà assez de travail comme ça..."",","""Vos Mechs sont lourdement endommagés, plusieurs équipes d'ingénieurs ont été réassignées pour les réparer en ce moment même, même les équipes dédiées à la sécurité civile."",
 
 ""Les dégâts causés à vos Mechs sont importants - nous devrons appeler les équipes de réparation des centres villes si nous voulons rester affutés. Et nous le devons impérativement."",
 
@@ -184,7 +184,7 @@ Generic Objectives,,"Some missions use generic objectives, so the CEO can pull f
 
 ""Nos pilotes rapportent que #squad sont tellement endommagés qu'ils ne rentrent quasiment pas dans les baies d'amarrage. Nous devrons affecter du personnel supplémentaire pour les réparations."","
 ,,,,,,
-,Mission_GridHealth_Briefing,Bonus objective for keeping power grid damage to a minimum,"""Les anciennes centrales électriques de cette île peuvent à peine répondre aux besoins de votre Mech. S'il vous plaît essayez d'éviter tout dommage sur le Réseau !"",","""Le Réseau ici peut à peine alimenter vos Mechs. Combattez efficacement, ou vous serez dans le rouge plus vite que vous ne le pensez."",","""Nos noyaux de réacteurs sont gelés comme tout le reste. Nous ne pouvons pas économiser de l'énergie supplémentaire. Faites de la protection du Réseau une priorité."",
+,Mission_GridHealth_Briefing,Bonus objective for keeping power grid damage to a minimum,"""Les anciennes centrales électriques de cette île peuvent à peine répondre aux besoins de vos Mechs. S'il vous plaît essayez d'éviter tout dommage sur le Réseau !"",","""Le Réseau ici peut à peine alimenter vos Mechs. Combattez efficacement, ou vous serez dans le rouge plus vite que vous ne le pensez."",","""Nos noyaux de réacteurs sont gelés comme tout le reste. Nous ne pouvons pas économiser de l'énergie supplémentaire. Faites de la protection du Réseau une priorité."",
 
 
 ""Ma puissance de sortie dans cette région est... <Connection Perdue>... <Puissance Réseau Faible>"",","""Le Réseau ici ne peut fournir qu'une puissance limitée. S'il subit des dégâts, vous et #squad n'auront peut-être pas assez de puissance pour combattre."",
@@ -403,7 +403,7 @@ Archive Inc Missions,Mission_Airstrike_Briefing,,"""Cette région possédait un an
 
 ",,,
 ,,,,,,
-,Mission_Artillery_Briefing,,"""Nos techniciens ont récemment mis en service une batterie d'artillerie de l'Ancienne Terre ! S'il vous plaît, assurez-vous à ce qu'elle survive au combat."",",,,
+,Mission_Artillery_Briefing,,"""Nos techniciens ont récemment mis en service une batterie d'artillerie de l'Ancienne Terre ! Assurez-vous à ce qu'elle survive au combat, s'il vous plaît."",",,,
 ,Mission_Artillery_Success,,"""Excellent travail, nous laisserons la batterie d'artillerie opérationnelle et prête au cas où les Veks décideraient de revenir !""",,,
 ,Mission_Artillery_Failure,,"""Nous espérions étudier cette batterie d'artillerie pour étendre notre force de frappe militaire. Maintenant, c'est juste un autre tas de ferrailles sans valeur."",",,,
 ,,,,,,
@@ -503,7 +503,7 @@ Pinnacle Inc Missions,Mission_FreezeBots_Briefing,"Player is given a tank capabl
 ,,,,,,
 ,Mission_Factory_Briefing,"Two Robotic Factories are spawning hostile robots throughout the mission, but the player must defend the factories -- Robots are fair game, though for lore reasons probably still discouraged
 
-The factories are 'too valuable' to lose and perhaps contain 'innocent sentient lives'?",,,"""Ces usines fabriquent des machines hostiles, mais il y a des centaines de vies innocentes à l'intérieur. S'il vous plaît, défendez-les pendant que nous essayons de les fermer en toute sécurité."",",
+The factories are 'too valuable' to lose and perhaps contain 'innocent sentient lives'?",,,"""Ces usines fabriquent des machines hostiles, mais il y a des centaines de vies innocentes à l'intérieur. S'il vous plaît, défendez-les pendant que nous essayons de les neutraliser en toute sécurité."",",
 ,Mission_Factory_Success,,,,"""J'ai traversé leur pare-feu et j'ai coupé l'alimentation électrique de ces usines. Elles ne constitueront plus une menace.""",
 ,Mission_Factory_Partial,1 factory was destroyed,,,"""Cette usine ne contenait pas seulement des vies, mais pouvait en créer. Peu d'installations de ce type demeurent sur notre île. Maintenant il y en a une de moins qu'avant."",",
 ,Mission_Factory_Failure,Both factories destroyed,,,"""Cette usine ne contenait pas seulement des vies, mais pouvait en créer. Peu d'installations de ce type demeurent sur notre île. Maintenant il y en a deux de moins qu'avant."",",

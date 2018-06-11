@@ -77,7 +77,7 @@ Tutorial_RegionLost = {
 }
 
 Tutorial_Jelly = {
-	Text = "Cet ennemi Psion fournit un bonus passif à tous les Veks. En le tuant, cela supprimera le bonus. \n\nSélectionnez le Psion et survoler son portrait en bas à gauche pour plus d'informations.",
+	Text = "Cette unité fournit un bonus passif à tous les Veks. En la tuant, cela supprimera le bonus. \n\nSélectionnez le Psion et survolez son portrait en bas à gauche pour plus d'informations.",
 	Title = "Psion Vek",
 }
 
@@ -93,7 +93,7 @@ Tutorial_IslandNewGame = {
 }
 
 Tutorial_Spawning = {
-	Text = "Une unité ennemie apparaîtra à cet endroit au tour suivant !  \n\nVous pouvez bloquer temporairement l'apparition des ennemis mais cela endommagera l'unité placée sur la tuile.",
+	Text = "Une unité ennemie apparaîtra à cet endroit au tour suivant !  \n\nVous pouvez bloquer temporairement l'apparition d'un ennemi mais cela endommagera l'unité placée sur cette tuile.",
 	Title = "Apparition des Ennemis"
 }
 
@@ -104,7 +104,7 @@ Tutorial_Forest = {
 
 Tutorial_Fire = {
 	Text = "Ce Mech est en feu ! Il prendra un point de dégât à chaque tour.  \n\nLes Mechs peuvent se RÉPARER, mais ne pourront plus attaquer par la suite.",
-	Title = "Mechs En Feu"
+	Title = "Mech en Feu"
 }
 
 Tutorial_DamagedMech = {
@@ -167,7 +167,7 @@ Tutorial_BuildingDamage = {
 
 Tutorial_Combat = {
 	Title = "Simulation",
-	Text = "Une Simulation de Combat est disponible pour permettre aux nouveaux commandants de se familiariser avec les mécanismes de combats \n\nSouhaiter-vous lancer la simulation ?"
+	Text = "Une Simulation de Combat est disponible pour permettre aux nouveaux commandants de se familiariser avec les mécanismes de combats \n\nSouhaitez-vous lancer la simulation ?"
 }
 
 Tutorial_Research = {

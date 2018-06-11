@@ -26,7 +26,7 @@ local Global_Texts = {
 	Tutorial_CombatUndo_Text = "Vous ne pouvez pas toucher l'ennemi depuis cette position. Utiliser 'Annuler Déplacement' pour repositionner le Mech !",
 	Tutorial_CombatUndo_Title = "Annuler Mouvement",
 
-	Tutorial_CombatPunch_Text = "Frapper l'ennemi !",
+	Tutorial_CombatPunch_Text = "Frappez l'ennemi !",
 	Tutorial_CombatPunch_Title = "",
 
 	Tutorial_CombatPush_Text = "La frappe de votre Mech a POUSSÉ cette unité. Elle va maintenant attaquer un nouvel emplacement ! \n\nPoussez des ennemis peut sauver des bâtiments lorsqu'ils sont attaqués, voire même de faire en sorte à que les Veks s'attaquent entre eux.", 
@@ -44,7 +44,7 @@ local Global_Texts = {
 	Tutorial_CombatWeapon_Text = "Cliquez sur une arme pour l'utiliser. Les touches numériques fonctionnent également comme raccourcis. \n\nVous ne pouvez plus vous déplacer après avoir utilisé une arme.", 
 	Tutorial_CombatWeapon_Title = "Utiliser Arme",
 
-	Tutorial_CombatEnd_Text = "Lorsque tous vos Mechs ont utilisé une action ou qu'il n'y a plus rien à faire avec vos unités, appuyer sur ce bouton pour terminer votre tour.",
+	Tutorial_CombatEnd_Text = "Lorsque tous vos Mechs ont utilisé une action ou qu'il n'y a plus rien à faire avec vos unités, appuyez sur ce bouton pour terminer votre tour.",
 	Tutorial_CombatEnd_Title = "Fin du Tour",
 
 --- MISSION TUTORIALS 
@@ -100,7 +100,7 @@ local Global_Texts = {
 	Tutorial_GridDefense_Text = "Ce bâtiment a résisté aux dégâts ! \n\nLa probabilité qu'un bâtiment résiste aux dégâts est indiquée à droite de votre Jauge de Puissance.",
 	Tutorial_GridDefense_Title = "Puissance Défensive",
 
-	Tutorial_Jelly_Text = "Cet ennemi Psion fournit un bonus passif à tous les Veks. En le tuant, cela supprimera le bonus. \n\nSélectionnez le Psion et survoler son portrait en bas à gauche pour plus d'informations.",
+	Tutorial_Jelly_Text = "Cette unité fournit un bonus passif à tous les Veks. En la tuant, cela supprimera le bonus. \n\nSélectionnez le Psion et survolez son portrait en bas à gauche pour plus d'informations.",
 	Tutorial_Jelly_Title = "Psion Vek",
 
 	Tutorial_Webbed_Text = "Cette unité a été Entravée ! \nSurvolez les icônes d'état en bas à gauche pour voir ce que cela signifie.",
@@ -109,14 +109,14 @@ local Global_Texts = {
 	Tutorial_IslandNewGame_Text = "Vous pouvez aller sur les îles que vous avez débloquées dans n'importe quel ordre. \n\nLa difficulté des Veks variera en fonction du nombre d'îles que vous avez terminées.",
 	Tutorial_IslandNewGame_Title = "Îles Corporatives",
 
-	Tutorial_Spawning_Text = "Une unité ennemie apparaîtra à cet endroit au tour suivant ! \n\nVous pouvez bloquer temporairement l'apparition des ennemis mais cela endommagera l'unité placée sur la tuile.",
+	Tutorial_Spawning_Text = "Une unité ennemie apparaîtra à cet endroit au tour suivant ! \n\nVous pouvez bloquer temporairement l'apparition d'un ennemi mais cela endommagera l'unité placée sur cette tuile.",
 	Tutorial_Spawning_Title = "Apparition des Ennemis",
 
 	Tutorial_Forest_Text = "La FORÊT sur cette tuile à subit des dégâts, la transformant en FEU. \n\nSi une unité reste sur la tuile Feu, elle s'enflammera et subira des dégâts à chaque tour.",
 	Tutorial_Forest_Title = "Forêts En Feu",
 
 	Tutorial_Fire_Text = "Ce Mech est en feu ! Il prendra un point de dégât à chaque tour. \n\nLes Mechs peuvent se RÉPARER, mais ne pourront plus attaquer par la suite.",
-	Tutorial_Fire_Title = "Mechs En Feu",
+	Tutorial_Fire_Title = "Mech en Feu",
 
 	Tutorial_DamagedMech_Text = "Vos Mechs répareront automatiquement tous les dégâts après la bataille. \n\nSi un Mech est réduit à 0 points de vie, le Pilote meurt et le Mech est désactivé pour le restant de la bataille.",
 	Tutorial_DamagedMech_Title = "Mechs Endommagés",
@@ -152,10 +152,10 @@ local Global_Texts = {
 	Tutorial_BuildingDamage_Title = "Dégâts aux Bâtiments",
 
 	Tutorial_Combat_Title = "Simulation",
-	Tutorial_Combat_Text = "Une Simulation de Combat est disponible pour permettre aux nouveaux commandants de se familiariser avec les mécanismes de combats.\n\nSouhaiter-vous lancer la simulation ?",
+	Tutorial_Combat_Text = "Une Simulation de Combat est disponible pour permettre aux nouveaux commandants de se familiariser avec les mécanismes de combats.\n\nSouhaitez-vous lancer la simulation ?",
 
 	Tutorial_Money_Title = "Réputation Corporative",
-	Tutorial_Money_Text = "Au fur et à mesure que vous sécurisez les régions et complétez les objectifs de bonus, votre réputation auprès de la Corporation locale augmentera. \n\nVous pouvez dépenser la réputation en fournitures à la fin de l'Île.",
+	Tutorial_Money_Text = "Au fur et à mesure que vous sécurisez les régions et complétez les objectifs bonus, votre réputation auprès de la Corporation locale augmentera. \n\nVous pourrez dépenser cette réputation en fournitures et objets à la fin de l'Île.",
 
 	Tutorial_Cores_Title = "Noyaux Réacteur",
 	Tutorial_Cores_Text = "Vous avez maintenant un Noyau Réacteur ! Ouvrez l'Écran Amélioration d'un Mech et installez-le.",
@@ -192,10 +192,10 @@ local Global_Texts = {
 	Tutorial_ArtExtra = "L'arme du Mech Artillerie n'endommage que les unités de la tuile du CENTRE, tandis que les unités des tuiles ADJACENTES sont Poussées.",
 	
 	Tutorial_Rewards = "RÉCOMPENSES DE MISSION",
-	Tutorial_RewardsText = "Chaque mission ont différentes récompenses potentielles en complétant les objectifs bonus. \n    Vous ne serez pas en mesure de faire toutes les missions sur l'Île, alors choisissez soigneusement !",
-	Tutorial_Rewards_Cores = "NOYAUX D'ÉNERGIE : A Utiliser pour améliorer votre Mechs.",
-	Tutorial_Rewards_Power = "PUISSANCE RÉSEAU : restaure votre Réseau d'Énergie. \nSi votre Réseau d'Énergie atteint zéro, vous perdez la partie.",
-	Tutorial_Rewards_Reputation = "Réputation Corporative : Utilisé pour acheter des objets une fois l'Île sécurisée.",
+	Tutorial_RewardsText = "Chaque mission ont différentes récompenses potentielles en complétant les objectifs bonus. \n    Vous ne serez pas en mesure de faire toutes les missions sur chaque Île, choisissez-les soigneusement !",
+	Tutorial_Rewards_Cores = "NOYAU D'ÉNERGIE : À utiliser pour améliorer vos Mechs.",
+	Tutorial_Rewards_Power = "PUISSANCE RÉSEAU : Restaure votre PUISSANCE RÉSEAU. \nSi celle-ci atteint zéro, vous perdez la partie.",
+	Tutorial_Rewards_Reputation = "RÉPUTATION CORPORATIVE : À utiliser pour acheter des objets une fois l'Île sécurisée.",
 	Tutorial_Rewards_Difficulty = "AVERTISSEMENT : Les missions avec plus de récompenses seront potentiellement plus dangeureuses !",
 	Tutorial_RegionName = "Vallée Protégée",
 	
@@ -210,7 +210,7 @@ local Global_Texts = {
 	Tutorial_DeclineCombat = "Refuser",
 	Tutorial_DeclineAll = "Non, je sais ce que je fais (cacher TOUTES LES ASTUCES DE JEU)",
 	
-	Tutorial_Dismiss = "(Cliquer pour Rejeter)",
+	Tutorial_Dismiss = "(Cliquez pour Fermer)",
 	
 	--tooltips
 	TipTitle_FinalMission = "Mission Finale",
@@ -438,7 +438,7 @@ local Global_Texts = {
 	Skill_ClassAny = "Universelle",
 	Skill_ClassTechnoVek = "Cyborg",
 	Skill_ClassPassive = "Passif",
-	Skill_ClassPrime = "Principal",
+	Skill_ClassPrime = "Principale",
 	Skill_ClassDeath = "Destructice",
 	Skill_ClassBrute = "Brute",
 	Skill_ClassRanged = "À distance",

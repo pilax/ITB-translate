@@ -10,9 +10,9 @@ local PopEvent = {
 	
 	Closing_Bad = { "Merci... Je suppose.", "Ils ont fait plus de mal que de bien...", "Ma famille... partie...", "Tellement de pertes...", "Sont-ils enfin partis ?", "Est-ce fini ?", "Il est temps de reconstruire..."},
 	
-	Threatened = { "Il nous attaque !", "Uh-oh.", "Oh non !", "Accrochez-vous tout le monde !", "Éloignez-vous des fenêtres !", "Quelle est cette ombre ?", "Ca ne présage rien de bon...", "À l'aide !", "Nous sommes condamnés !", "Notre chance s'est fait la malle...", "Il nous prend pour cible !", "Aidez-moi ! Quelqu'un, aidez-moi !", "Aidez-nous, #squad !", "#squad, à l'aide !", "Nous sommes faits pour ca.", "Sauvez-nous !", "Ça vient vers nous !", "Le bâtiment tiendra-t-il ?", "Aidez-nous !", "Sauvez-nous !", Odds = 50 },
+	Threatened = { "Il nous attaque !", "Uh-oh.", "Oh non !", "Accrochez-vous tout le monde !", "Éloignez-vous des fenêtres !", "Quelle est cette ombre ?", "Ca ne présage rien de bon...", "À l'aide !", "Nous sommes condamnés !", "Notre chance s'est fait la malle...", "Il nous prend pour cible !", "Aidez-moi ! Quelqu'un, aidez-moi !", "Aidez-nous, #squad !", "#squad, à l'aide !", "Nous sommes perdus !", "Sauvez-nous !", "Ça vient vers nous !", "Le bâtiment tiendra-t-il ?", "Aidez-nous !", "Sauvez-nous !", Odds = 50 },
 	
-	Killed = {"Whoa.", "Yeah !", "Mange ça, Vek !", "Je ne peux pas le croire !", "Il est tombé !", "Ils l'ont détruit !", "Et reste pour mort !", "Ils l'ont tué !", "Il est mort !", "T'as vu ça ?!", "Excellent !", "Oui !", "Ça c'est bon !", "Wow !", Odds = 50 },
+	Killed = {"Whoa.", "Yeah !", "Mange ça, Vek !", "Je n'arrive pas à y croire !", "Il s'est écroulé !", "Ils l'ont détruit !", "Et reste pour mort !", "Ils l'ont tué !", "Il est mort !", "T'as vu ça ?!", "Excellent !", "Oui !", "Ça c'est bon !", "Wouah !", Odds = 50 },
 	
 	Shielded = { "Nous sommes en sécurité !", "Est-ce que cela va tenir ?", "Ça devrait les arrêter !", "Un Bouclier !", "Nous avons un bouclier !", "Bouge-toi !", "En sécurité, enfin !", "Protection !", Odds = 50 },
 	
