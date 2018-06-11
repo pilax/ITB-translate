@@ -36,7 +36,7 @@
 
 ""Notre île était autrefois l'une des centaines de sites de décharge de Détritus. Puis les Veks sont venus. Avec votre arrivée, Détritus a regagné de l'espoir."",
 
-""Quand les Veks sont venus, Détritus a accepté autant de réfugiés que nous pouvions. Ce qui nous manque, c'est votre expertise militaire, Commandant."","
+""Quand les Veks sont venus, Detritus a accueilli autant de réfugiés que possible. Ce qui nous manque cruellement, c'est votre expertise militaire, Commandant."","
 ,,,,,,
 ,Mission_ExtremeDamage,"If *any* mission results in extreme structure damage (4+ buildings?), these comments will trigger instead of standard mission comments","""Les mers montantes ont détruit la majeure partie de notre monde, mais il semble que ce soit les Veks qui nous finissent. Tant de vies ont été perdues pendant cette mission - nous ne pouvons pas laisser cela se reproduire !"", 
 
@@ -219,7 +219,7 @@ Generic Objectives,,"Some missions use generic objectives, so the CEO can pull f
 
 ""Ces Veks ont détruit trois routines d'I.A. en gestation dans l'un de nos Vestiges. Nous devons les empêcher d'assassiner d'autres de mes enfants.""","""La présence Vek doit être réduite à 0% sinon ils se regrouperont et attaqueront à nouveau."",
 
-""Selon nos projections, nous devons exterminer tous les Veks dans ce secteur - aucun ne peut rester en vie, et aucun ne doit s'échapper."","
+""Commandant, nous devons exterminer tous les Veks dans ce secteur - aucun ne peut rester en vie, et aucun ne doit s'échapper."","
 ,Mission_KillAll_Success,All Vek Dead,"""Ces Veks ne nous causeront plus de problèmes ! Bien joué, à tous !"",
 
 ""Les Veks ont été anéantis ! Beau spectacle, #squad !"",","""Un essaim Vek de moins à s'inquiéter. J'ai lu les rapports de bataille - je suis impressionné. Vous et #squad avez été très minutieux dans l'extermination."",
