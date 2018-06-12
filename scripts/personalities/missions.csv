@@ -23,7 +23,7 @@
 
 ""Vous ne me trouverez pas aussi crédule que mes chefs de département. Quelque soit l'absurdité de votre histoire de 'Voyageur Temporel', c'est votre puissance de feu dont nous avons besoin."",
 
-""Nous pouvons reporter la discussion sur l'endroit où vous avez obtenu cet armement avancé du moment que vous l'utilisiez pour nous défendre."",
+""Reportons la discussion sur le où et comment vous avez obtenu cet armement du moment que vous l'utilisez pour nous défendre."",
 
 ""R.S.T. ne voulait pas vous demander de l'aide, cela était considéré comme une faiblesse. Mais le choix est simple : soit nous nous allions avec vous, soit nous perdons l'Île."",
 ","""J'espère que vous pourrez respecter les deux formes de vie sur cette île, organique et mécanique."",
@@ -48,7 +48,7 @@
 
 ""J'ai renvoyé mes conseillers après qu'ils se soient insurgés face aux dégâts collatéraux de cette mission. La guerre signifie que les gens meurent - c'est ça ou nous perdons la planète."", 
 
-""Beaucoup sont morts aujourd'hui - trop. Mais les fins justifient les moyens surtout lorsque vous voyez la fin venir pour vous."",
+""Il y a eu beaucoup de morts aujourd'hui - voire trop même. Mais les fins justifient les moyens surtout quand vous voyez la fin arriver vers vous."",
 
 ""Tant de pertes civiles durant la dernière bataille - c'est mieux que de perdre la planète. Nous devons tous faire des sacrifices."",
 
@@ -98,7 +98,7 @@ Generic Missions,Mission_Generic_Briefing,Missions without anything unique happe
 ""J'ai foi en vous et #squad, Commandant. Sachez que tout Détritus est avec vous."","
 ,Mission_Generic_Success,Missions that pull from the generic objectives have a small chance of using this set,"""Il y a beaucoup d'espace inutilisé dans les réserves naturelles de cette région. Nous allons commencer à déplacer les réfugiés ici, maintenant que les Veks sont partis."", 
 
-""Les Veks n'on pas été vaincu facilement, pourtant vous les avez mis à terre avec brio. Mes compliments aux pilotes."", 
+""Les Veks n'ont pas été vaincus facilement, pourtant vous les avez mis à terre avec brio. Mes compliments aux pilotes."", 
 
 ""Les troupes de l'Ancienne Terre auraient été fières ! Si seulement elles avaient été là pour voir ça..."", 
 
@@ -257,7 +257,7 @@ Generic Objectives,,"Some missions use generic objectives, so the CEO can pull f
 
 ""Nous pouvons maintenant occuper le secteur en toute sécurité, Commandant. Les Veks qui étaient sous terre ne sont plus."" "
 ,Mission_Block_Failure,"Did not block 3 Vek
-","""Nos réserves naturelles sur la surface ont été détruites pendant les combats - il en reste très peu de la région. Mais au moins les Veks sont partis maintenant."" ","""Les Veks qui ont creusé la terre pour remonter à la surface ont détruit nos récoltes. Mon peuple mourra - pas des Veks, mais de la famine.""","""Pour chaque milliseconde écoulée dans ce chaos, une vie s'éteint. Je redirige ma vue sur votre monitor pour vous puissiez contempler ce désastre..."",","""Les tentatives de Détritus pour détruire le souterrain Vek ont échoué - trop de Veks ont pu s'échapper. Nous devrons redoubler d'efforts."","
+","""Nos réserves naturelles sur la surface ont été détruites pendant les combats - il en reste très peu de la région. Mais au moins les Veks sont partis maintenant."" ","""Les Veks qui ont creusé la terre pour remonter à la surface ont détruit nos récoltes. Mon peuple mourra - pas des Veks, mais de la famine.""","""Une vie s'éteint pour chaque milliseconde écoulée dans ce chaos. Je redirige ma vue sur votre écran afin que vous puissiez contempler le désastre..."",","""Les tentatives de Détritus pour détruire le souterrain Vek ont échoué - trop de Veks ont pu s'échapper. Nous devrons redoubler d'efforts."","
 ,,,,,,
 Universal Missions,,Every corporation island could use these missions,,,not used on Pinnacle,
 ,Mission_Train_Briefing,This mission involves defending a train traveling across the map.,"""Ol'Horace, ici présent, est le seul train diesel qui reste sur cette planète - et qui n'est pas au fond de l'océan, d'ailleurs. Il reste toujours puissant, transportant des approvisionnements vitaux à travers l'île."", 
@@ -276,7 +276,7 @@ Universal Missions,,Every corporation island could use these missions,,,not used
 
 ""Un convoi acheminant des déchets pour leur élimination traverse ce secteur. Ses vibrations attirent les Veks, nous devons donc le protéger des attaques."","
 ,Mission_Train_Success,If the train remains undamaged and makes it to its destination... ,"""Les réfugiés seront reconnaissants pour le ravitaillement. Et je vous dois des remerciements personnels pour avoir sauvé Ol'Horace - nous avons tous les deux vécu beaucoup de choses ensemble."", 
-""Ol'Horace s'est rendu à sa destination sans une égratignure ! C'est un grand jour lorsque nous pouvons protéger notre histoire des Veks, surtout lorsque l'intégralité de notre passé a été submergée dans les mers !"",
+""Ol'Horace s'est rendu à sa destination sans une égratignure ! C'est un grand jour lorsque nous pouvons protéger notre histoire des Veks, surtout quand on sait que l'intégralité de notre passé a été engloutie par les eaux !"",
 ","""Les approvisionnements ont pu traverser sans encombre et sont en route pour nourrir mon peuple. Je vous remercie."",
 
 ""Excellent, le train a pu traverser. Nous pourrons combattre un jour supplémentaire."",
@@ -355,7 +355,7 @@ Universal Missions,,Every corporation island could use these missions,,,not used
 ,Mission_BossGeneric_Briefing,,"""Une sorte d'abomination Vek approche de notre quartier général ! Elle doit être stoppée !""","""Une monstruosité Vek attaque notre tour. Nous devons compter sur vous une dernière fois pour nous aider.""","""La Tour Pinnacle est attaquée. Mon processeur d'analyse n'est pas capable d'identifier les espèces Veks qui nous menacent. Soyez prudent."",","""Nos capteurs ont détecté un Vek que nous n'avions jamais rencontré auparavant... Je crains qu'il soit plus coriace que les autres."",
 
 ""Nous avons détecté un Vek inconnu s'approchant du hub Detritus. Nous rassemblons toutes les informations que nous pouvons, Commandant, mais nous avons besoin de #squad. "","
-,Mission_BossGeneric_Boss,,"""Avec l'abomination Vek encore en vie, les Vek restent une menace sérieuse pour la région. Je ne peux que vous souhaitez d'être plus efficace sur les autres îles.""","""Si vous êtes vraiment le dernier espoir de l'humanité, alors nous sommes perdus. Cette araignée Vek attaquera encore, je pense que vous ne serez plus là pour nous aider la prochaine fois.""","""Je vais assigner un drone pour suivre et analyser ce nouveau Vek. Nous devrions obtenir plus de données sur lui pour mieux le combattre."",","""Ce Vek monstrueux a survécu - et il nous attaquera probablement encore une fois. Si #squad ne peuvent pas le stopper, je crains que nos forces n'aient aucune chance."","
+,Mission_BossGeneric_Boss,,"""Avec l'abomination Vek encore en vie, les Vek restent une menace sérieuse pour la région. Je ne peux que vous souhaitez d'être plus efficace sur les autres îles.""","""Si vous êtes vraiment le dernier espoir de l'humanité, alors nous sommes perdus. Cette monstruosité Vek attaquera encore, je pense que vous ne serez plus là pour nous aider la prochaine fois.""","""Je vais assigner un drone pour suivre et analyser ce nouveau Vek. Nous devrions obtenir plus de données sur lui pour mieux le combattre."",","""Ce Vek monstrueux a survécu - et il nous attaquera probablement encore une fois. Si #squad ne peuvent pas le stopper, je crains que nos forces n'aient aucune chance."","
 ,Mission_BossGeneric_Tower,,"""Vous avez survécu, mais hélas, notre quartier général est détruit... Nous avons perdu tellement des vies face à ces créatures !""","""Vous avez laissé notre quartier général se faire détruire par ces créatures. Nous comptions sur vous... Enfin JE comptais sur vous.""","""Mes serveurs de données dans le Tour Pinnacle ont subi de graves dommages. Je dois supervision leurs réparations."",","""Notre quartier général a été détruit. Nous évacuons tous les survivants que nous pouvons, mais plus de 30% du personnel de Detritus occupait le QG quand il est tombé."","
 ,Mission_BossGeneric_Success,,"""Avec cette abomination Vek détruite, nous ne devrions plus voir l'apparition de nouvelles ruches sur notre île. Vous nous avez sauvé !""","""Je dois admettre que votre prestation était impressionnante. Nous sommes plus serein maintenant que nous savons que cette Montruosité Vek n'est plus.""","""Des milliers de vie ont été sauvées aujourd'hui. Je suis reconnaissant pour le temps que vous avez sacrifié pour nous aider."",","""L'abomination Vek est morte, et notre quartier général est intact. Vous et #squad avez nos remerciements. "","
 ,,,,,,
@@ -470,8 +470,8 @@ RST Missions,Mission_Force_Briefing,"This mission involves ""a display of force"
 ,Mission_Terraform_Failure,Terraformer is destroyed (and grassland thus failed to be transformed),,"""Le terraformer a été détruit - et nous avons déjà des rapports qui indiquent que des ruches Vek se sont construites dans la région. Une de nos meilleures armes dans la guerre est partie."",",,
 ,Mission_Terraform_Incomplete,"Terraformer survives, but the grassland remains",,"""Vous avez sécurisé le terraformer, mais il est trop tard pour arrêter les ruches - et cela signifie que les régions environnantes sont également en danger."",",,
 ,,,,,,
-,Mission_Cataclysm_Briefing,"The entire map is falling away, only half the map remains at the end of the battle",,"""La défaillance d'un terraformeur détruit la terre de cette région. Essayez de ne pas tomber dans les profondeurs.""",,
-,Mission_Cataclysm_Success,Generic success since there are no mission specific objectives,,"""Ce gouffre devrait s'avérer trop profond pour même les Veks. Peut-être que nous devrions commencer à couler plus de notre île...""",,
+,Mission_Cataclysm_Briefing,"The entire map is falling away, only half the map remains at the end of the battle",,"""La défaillance d'un terraformeur est en train de détruire le sous-sol de cette région. Essayez de ne pas tomber dans les profondeurs.""",,
+,Mission_Cataclysm_Success,Generic success since there are no mission specific objectives,,"""Ce gouffre s'avère trop profond pour même les Veks. Peut-être que nous devrions commencer à creuser des gouffres comme celui-ci un peu partout sur notre île...""",,
 ,,,,,,
 ,Mission_Crack_Briefing,Crack is spreading across the map from one edge to the other.,,"""Les Veks ont retiré le stabilisateur de sol de cette région. Nous ne savons pas quel sera le résultat... Faites attention.""",,
 ,Mission_Crack_Success,Generic success since there are no mission specific objectives,,"""Encore un jour où une partie de notre foyer a été détruite. Une fois que ces Veks auront disparus, nos terraformeurs auront du travail à faire.""",,
@@ -485,9 +485,9 @@ RST Missions,Mission_Force_Briefing,"This mission involves ""a display of force"
 ,Mission_Solar_Partial,,,"""Une seule ferme solaire est insuffisante. Alors que l'île subit des pannes de courant, je suis sûr que vous vous attendez à ce que vos Mechs reçoivent un traitement prioritaire.""",,
 ,Mission_Solar_Failure,,,"""Sans énergie, vos Mechs ne valent rien. Peut-être que la prochaine fois vous devriez considérer cela quand vous verrez l'ennemi détruire nos fermes solaires.""",,
 ,,,,,,
-*,Mission_Bomb_Briefing,Two prototype Renfield Bombs are on the map to be defended.,,"""Ce site contient deux ogives conçues par un physicien temporel, le Dr Renfield, utilisant votre technologie de 'brèche'. R.S.T. a été jugé l'endroit le plus sûr pour les tester.""",,
+*,Mission_Bomb_Briefing,Two prototype Renfield Bombs are on the map to be defended.,,"""Ce site contient deux ogives conçues par un physicien temporel, le Dr Renfield, utilisant votre technologie de ""faille temporelle"". R.S.T. a été jugé l'endroit le plus sûr pour les tester.""",,
 *,Mission_Bomb_Success,Both bombs defended,,"""Excellent, les deux prototypes sont intacts. Je peux ordonner à Renfield et à son équipe de passer à la deuxième étape.""",,
-*,Mission_Bomb_Partial,One bomb lost,,"""Alors que vous avez perdu l'un des prototypes de Renfield, au moins l'autre est intact. Mais votre manque de rigueur pourrait nous coûter la guerre.""",,
+*,Mission_Bomb_Partial,One bomb lost,,"""Vous avez perdu l'un des prototypes de Renfield, cependant, l'autre est intact. Votre manque de rigueur pourrait nous coûter la guerre.""",,
 *,Mission_Bomb_Failure,Both bombs lost,,"""Votre incompétence ne connaît pas de limites. Pas un, mais les deux prototypes de Renfield ont été détruits... vous nous avez fait perdre la guerre !""",,
 ,,,,,,
 Pinnacle Inc Missions,Mission_FreezeBots_Briefing,"Player is given a tank capable of freezing units in ice for this mission. They are tasked to Freeze 2 Hostile Robots that are present, and make sure they survive (frozen) till the end.",,,"""Ces machines ne sont pas actuellement elles-mêmes. Voyez-les comme des êtres vivants au-delà de leur agression dysfonctionnelle.""",

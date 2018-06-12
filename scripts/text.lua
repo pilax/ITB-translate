@@ -523,8 +523,8 @@ local Global_Texts = {
 	Upgrade_Weapons = "ARMES",
 	Button_Upgrade_Test = "TESTER MECH",
 	Button_Upgrade_Undo = "ANNULER",
-	Wrong_Cost = "Coûte un Point\n          supplémentaire par utilisation",
-	Wrong_Class = "Mauvaise Classe",
+	Wrong_Cost = "Coûte un Point supp.\n          par utilisation",
+	Wrong_Class = "Mauvaise\nClasse",
 	Upgrade_Page = "Page $1 à $2",
 	Upgrade_New = "NOUVEAU !",
 	

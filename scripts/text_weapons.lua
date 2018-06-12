@@ -174,7 +174,7 @@ Passive_Leech_Upgrade2 = "",
 Passive_Leech_A_UpgradeDescription = "Augmente le soin de 2.",
 Passive_Leech_B_UpgradeDescription = "",
 
-Passive_Defenses_Name = "Armure Interconnectée",
+Passive_Defenses_Name = "Armure Partagée",
 Passive_Defenses_Description = "Tous les Mechs gagnent +1 HP.", 
 Passive_Defenses_Upgrade1 = "+1 Santé",
 Passive_Defenses_Upgrade2 = "",

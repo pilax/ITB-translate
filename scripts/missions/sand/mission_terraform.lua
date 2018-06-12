@@ -62,7 +62,7 @@ end
 function Mission_Terraform:StartMission()
 	local terraformer = PAWN_FACTORY:CreatePawn("Terraformeur")
 	self.TerraformerId = terraformer:GetId()
-	Board:AddPawn(terraformer,"terraformer")
+	Board:AddPawn(terraformer,"Terraformeur")
 	Board:SetTerrain(terraformer:GetSpace(),TERRAIN_ROAD)--make sure it's not on sand or something weird
 end
 

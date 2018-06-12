@@ -9,11 +9,11 @@ function Mission_SnowStorm:StartMission()
 end
 
 Env_SnowStorm = Env_Attack:new{
-	Name = "Tempête de Glace",
-	Text = "Les tuiles marquées seront Gelées au début du tour ennemi.",
-	StratText = "TEMPÊTE DE GLACE",
+	Name = "Blizzard",
+	Text = "Les tuiles ciblées seront Gelées au début du tour ennemi.",
+	StratText = "BLIZZARD",
 	CombatIcon = "combat/tile_icon/tile_snowstorm.png",
-	CombatName = "TEMPÊTE\nDE\nGLACE",
+	CombatName = "BLIZZARD",
 	LastLoc = nil,
 	Options = nil,
 	Instant = true
