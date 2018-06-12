@@ -68,7 +68,7 @@ local Global_Texts = {
 	Warning_OldSave = "Attention : Ce fichier de sauvegarde a été créé avec une version précédente d'Into the Breach. \n\nPuisque le jeu est toujours en développement, je ne peux pas garantir une rétrocompatibilité complète pour chaque mise à jour et vous pourriez rencontrer des problèmes avec cette sauvegarde. \n\nCela dit, les chances sont bonnes pour que vous ne rencontriez aucun problème. Désolé pour les problèmes éventuels !",
 
 	Tutorial_PoweredPilot_Title = "Pilote Alimenté",
-	Tutorial_PoweredPilot_Text = "Ce pilote est une machine douée de raison et nécessite une Puissance Réacteur pour activer sa capacité spéciale.",
+	Tutorial_PoweredPilot_Text = "Ce pilote est une machine douée de conscience et nécessite une Puissance Réacteur pour activer sa capacité spéciale.",
 
 	Tutorial_Acid_Title = "A.C.I.D.",
 	Tutorial_Acid_Text = "Cette unité est affectée par de l'A.C.I.D. Ses défenses étant corrodées, les Dégâts d'Armes subits seront doublés. \n\nLes autres types de dégâts (Pousser, Feu, Bloquer, etc...) restent inchangés.",
@@ -864,7 +864,7 @@ local Global_Texts = {
 	Alert_Passive = "BONUS PASSIF",
 	Alert_Resisted = "A RÉSISTÉ",
 	Alert_Power = "PERTE DE PUISSANCE",
-	Alert_Casualties = "VICTIMES",
+	Alert_Casualties = "Victimes",
 	Alert_Unused = "PUISSANCE DISPONIBLE",
 	Alert_NoWeapon = "ARME NON ALIMENTÉE",
 	Alert_Open = "OUVRIR",
@@ -873,7 +873,7 @@ local Global_Texts = {
 	Alert_Secured = "RÉGION SÉCURISÉE",
 	Alert_Cores = "NOYAUX DISPONIBLES",
 	Alert_PilotCores = "PILOTE & PUISSANCE DISPONIBLE",
-	Alert_Overflow = "DÉFENSE PRÊTE !",
+	Alert_Overflow = "DÉFENSE AMÉLIORÉE !",
 	Alert_FullOverflow = "PUISSANCE MAX !",
 	Alert_Smoke = "BLOQUÉ PAR LE BROUILLARD !",
 	Alert_Water = "MECH IMMERGÉ !",

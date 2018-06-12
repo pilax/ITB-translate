@@ -145,7 +145,7 @@ Generic Missions,Mission_Generic_Briefing,Missions without anything unique happe
 ""Sachez que la Corporation Archive pleure la perte de vos pilotes. Nous savons que vous vous mettez en danger pour nous."",","""Cette bataille n'est pas déterminante dans notre guerre - mais d'autres comme celle-ci, pourraient l'être. Nous ne pouvons pas nous permettre d'en perdre d'autres."",
 
 ""La bataille est perdue mais pas la guerre - cependant nous ne pouvons pas continuer à perdre du terrain. Vous devez vous concentrer."",
-","""Vos pilotes sont le c?ur de votre machine de guerre. Sans eux, vous n'avez aucune chance.""","""J'ai demandé que les noms de vos pilotes tombés au combat soient ajoutés à notre mur commémoratif. Leur sacrifice ne sera pas oublié."",
+","""Vos pilotes sont le coeur de votre machine de guerre. Sans eux, vous n'avez aucune chance.""","""J'ai demandé que les noms de vos pilotes tombés au combat soient ajoutés à notre mur commémoratif. Leur sacrifice ne sera pas oublié."",
 
 ""Les Mechs de #squad sont puissants, mais je crains qu'ils ne soient pas assez nombreux pour les piloter."","
 ,,,,,,
@@ -499,7 +499,7 @@ Pinnacle Inc Missions,Mission_FreezeBots_Briefing,"Player is given a tank capabl
 ,Mission_BotDefense_Briefing,"There are two neutral robots laying mines on the map, ignoring both players and enemies. The Player needs to defend them both to the end.",,,"""Nos robots poseurs de mine ont perdu leurs E/S et tentent de faire tourner de vieux programmes. Protégez ces créatures aveugles sans défense."",",
 ,Mission_BotDefense_Success,,,,"""Avec les Veks détruits, nous pouvons tenter en toute sécurité les réparations sur nos machines. Je vous remercie."",",
 ,Mission_BotDefense_Partial,1 bot died,,,"""Je sais que je vous ai contraint. Mais au moins une des machines a survécu, et ses Soeurs qui sont également des serveurs de données vous seront reconnaissantes."",",
-,Mission_BotDefense_Failure,Both bots dead,,,"""Je sais que je vous ai contraint. Mais je dois pleure la perte de vies..."",",
+,Mission_BotDefense_Failure,Both bots dead,,,"""Je sais que je vous ai contraint. Mais je dois pleurer la perte de tant de vies... <Connexion Perdue>"",",
 ,,,,,,
 ,Mission_Factory_Briefing,"Two Robotic Factories are spawning hostile robots throughout the mission, but the player must defend the factories -- Robots are fair game, though for lore reasons probably still discouraged
 
@@ -516,7 +516,7 @@ The factories are 'too valuable' to lose and perhaps contain 'innocent sentient 
 Comments like ""it's too bad you'll have to kill these bots"" would be appropriate.",,,"""Je ne peux pas vous laisser de tuer les machines hostiles de cette région, mais je reconnais que leur menace est trop grande pour être ignorée."",",
 ,Mission_SnowBattle_Success,(Generic success),,,"""Cela ne ressemble pas à une victoire quand la bataille est menée contre des individus malades issus de votre propre population."",",
 ,,,,,,
-,Mission_Stasis_Briefing,"Generic battle, but the map has 2 FROZEN abnormally dangerous robots on it. Player should be encouraged to avoid freeing the robots, though they are not penalized so it shouldn't sound like an objective.",,,"""Diagnostique de la Menace : Je vous recommande de les éviter.""",
+,Mission_Stasis_Briefing,"Generic battle, but the map has 2 FROZEN abnormally dangerous robots on it. Player should be encouraged to avoid freeing the robots, though they are not penalized so it shouldn't sound like an objective.",,,"""Diagnostique de la Menace : <Machines : En Hibernation. Type de Menace : Très haute.> je vous recommande de les éviter.""",
 ,Mission_Stasis_Success,(Generic success),,,"""Les Veks sont déjà assez puissant pour menacer notre survie à tous. Je suis désolé que mes semblables malades vous fournissent des complications supplémentaires."",",
 ,,,,,,
 ,Mission_FreezeMines_Briefing,"Generic battle, but the map is full of mines that freeze the enemy.",,,"""Je calcule qu'il y a encore trois cent soixante-treize cryo-mines dans cette zone destinées à la pacification de machines hostiles. Gardez vos capteurs en alerte maximale."",",

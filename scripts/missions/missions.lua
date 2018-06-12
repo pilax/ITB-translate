@@ -594,9 +594,9 @@ function Mission:BaseObjectives()
 		elseif obj == BONUS_MECHS then
 			Game:AddObjective("Subir moins de 4 pts de dégâts".."\n(Actuel : "..Board:GetMechDamage()..")", status)
 		elseif obj == BONUS_BLOCK then
-			local base = "Bloquer l'Apparition de Veks\n3 fois\n"
+			local base = "Bloquer 3 fois l'apparition de Veks"
 			if IsLargeFont() then
-				base = "Bloquer l'Apparition de Veks\n3 fois "
+				base = "Bloquer 3 fois l'apparition de Veks"
 			end
 			Game:AddObjective(base.."(Actuel : "..self.BlockedSpawns..")",status)
 		elseif obj == BONUS_KILL_FIVE then
@@ -633,7 +633,7 @@ function Mission:GetBonusObjective(objective)
 	elseif objective == BONUS_MECHS then
 		return Objective("Subir moins de 4 points de dégâts",1)
 	elseif objective == BONUS_BLOCK then
-		return Objective("Bloquer l'Apparition de Veks\n3 fois",1)
+		return Objective("Bloquer 3 fois l'apparition de Veks",1)
 	elseif objective == BONUS_KILL_FIVE then
 		return Objective("Tuer au moins "..self:GetKillBonus().." Ennemis", 1)
 	elseif objective == BONUS_ASSET then
