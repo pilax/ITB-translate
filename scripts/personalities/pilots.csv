@@ -1932,7 +1932,7 @@ Damage Done,,"Damage commentary comes in three flavors:
 ""Ce bâtiment comptait d'innombrables machines vivantes en stockage."",","""Ces citoyens... Je parlerai moi-même à leurs familles."",
 ""Detritus savait qu'elle subirait des pertes mais... ces pauvres gens."""
 ,Bldg_Resisted,"Building resists damage, currently anyone can comment but I can change this to _Obs/_Self/_Vek if we think it's worth it.","""Évaluation : Structure intacte"",
-""Évaluation : Aucune interruption de la grille""","""On dirait que le bâtiment a été construit pour résister !"",
+""Évaluation : Aucune interruption de la grille""","""On dirait que le bâtiment a été construit pour résister à tout !"",
 ""Le bâtiment a été chanceux cette fois."",
 ""Ce bâtiment ne peut pas prendre un autre coup.""","""Ce bâtiment a encaissé le coup !"",
 ""Ce bâtiment est plus solide qu'il en a l'air.""","""[ La structure est indemne ]"",
@@ -2412,7 +2412,7 @@ This will obey the same rules as other barks, where something like a pilot death
 ""[ Ferme Solaire déconnectée ]""","""Ferme détruite - il n'y a rien à récupérer malheureusement."",
 ""Chaque ferme solaire perdue nous coûte plus de puissance dans le futur..."",
 ""Kern ne sera pas heureuse quand elle saura pour la ferme solaire..."",",,"""Ferme solaire en pièces !"",
-""Kern va voulloir nos fesses pour cette ferme solaire...""","""Non ! Nous avons perdu la ferme solaire !"",
+""Kern va nous faire la peau pour la perte de cette ferme...""","""Non ! Nous avons perdu la ferme solaire !"",
 ""La ferme solaire... Elle est détruite ! Les gens..."",","""Le réseau solaire n'est plus."",
 ""Le réseau solaire est endommagé. Concentrez vous sur les Veks."",","""Quel gâchis ! Tous ces panneaux solaires... en pièces."",
 ""Quel gaspillage. Même les panneaux de la ferme ne semblent pas récupérables.""","""Ferme solaire recyclée."",
