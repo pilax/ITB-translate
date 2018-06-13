@@ -1521,7 +1521,7 @@ Damage Done,,"Damage commentary comes in three flavors:
 ""Voyons si vous ne pouvez pas faire mieux."",
 ""Mort confirmée."",
 ""Ne soyez pas complaisants... il y en a des milliers d'autres."",
-""Pat yourself on the back after the mission's done.""","""Chaque Vek tué sauve d'autres vies humaines."",
+""Vous vous féliciterez après la mission, pour l'instant concentrez-vous sur les Veks.""","""Chaque Vek tué sauve d'autres vies humaines."",
 ""Efficacement mené."",
 ""Bien joué"",","""Nos capteurs détecte un Vek en moins."",
 ""Mort Vek confirmée - bon travail, Pilote #main_second."""
@@ -1529,7 +1529,7 @@ Damage Done,,"Damage commentary comes in three flavors:
 ""Efficacité Tactique Vek: Sous-Optimale""","""Une fois engagés, les Veks ne semblent pas pouvoir arrêter leur attaque."",
 ""Regardez moi ces simples d'esprits."",
 ""Les Veks se frappent les uns les autres."",
-""Les Veks nous éclairent.""","""Dîtes moi encore, pourquoi est-ce que nous perdons contre ces choses ?"",
+""Les Veks nettoient la place.""","""Dîtes moi encore, pourquoi est-ce que nous perdons contre ces choses ?"",
 ""Ça nous évite de nous en occuper..."",
 ""Vek abattu par un autre Vek, Commandant.""","""[ Vek supprimé. Cause de suppression : Vek rival ]"",
 ""[ Menace Vek supprimée. Raison de la suppression : Vek rival ]"",
