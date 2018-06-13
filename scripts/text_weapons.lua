@@ -210,7 +210,7 @@ Passive_Psions_A_UpgradeDescription = "",
 Passive_Psions_B_UpgradeDescription = "",
 
 Passive_Boosters_Name = "Propulseurs",
-Passive_Boosters_Description = "Les Mechs gagnent +1 de Déplacement s'ils commencent leur tour l'un à côté de l'autre.", 
+Passive_Boosters_Description = "Les Mechs gagnent +1 Déplacement s'ils commencent leur tour les uns à côté des autres.", 
 Passive_Boosters_Upgrade1 = "+1 Déplacement",
 Passive_Boosters_Upgrade2 = "",
 Passive_Boosters_A_UpgradeDescription = "Bonus de Déplacement augmenté de 1.",

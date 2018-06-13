@@ -7,14 +7,14 @@ Skill = +1 XP par tué","Id = ""Pilot_Genius"",
 Skill = Commencez les batailles avec un bouclier","Id = ""Pilot_Assassin"",
 Skill = Déploie n'importe où sur la carte, infligeant des dégâts adj.","Id = ""Pilot_Repairman"",
 Skill = Le feu soigne au lieu des dégâts. (CHANGE TBD?)","Id = ""Pilot_Recycler"",
-Skill = 1 Puissance - Mech volant","Id = ""Pilot_Youth"",
-Skill = +3 de déplacement au premier tour","Id = ""Pilot_Leader"",
-Skill = 1 tuile de déplacement après avoir attaqué","Id = ""Pilot_Hotshot"",
+Skill = +1 Puissance - Mech volant","Id = ""Pilot_Youth"",
+Skill = +3 tuiles de déplacement au premier tour","Id = ""Pilot_Leader"",
+Skill = +1 tuile de déplacement après avoir attaqué","Id = ""Pilot_Hotshot"",
 Skill = Marche au travers des unités ennemis","Id = ""Pilot_Soldier"",
 Skill = Immunisé contre Entravé et Brouillard","Id = ""Pilot_Warrior"",
-Skill = 1 puisance - Armure","Id = ""Pilot_Medic"", (medic doesnt makes sense anymore...)
+Skill = +1 puisance - Armure","Id = ""Pilot_Medic"", (medic doesnt makes sense anymore...)
 Skill = Ajoute le vol","Id = ""Pilot Miner"",
-Skill = 2 puissance - Attaque deux fois s'ils ne bougent pas.","Id = ""Pilot_Aquatic""
+Skill = +2 puissance - Attaque deux fois s'ils ne bougent pas.","Id = ""Pilot_Aquatic""
 Skill = Attaquer ne consomme pas l'action de déplacement.","Id = ""Pilot_Mantis""
 Skill = Impossible à réparer. En revanche, il inflige 2 dégâts de mêlée.","Id = ""Pilot_Zoltan""
 Skill = +1 Noyaux Réacteur. Santé Mech réduite de 1. Obtient Bouclier à chaque tour.","Id = ""Pilot_Rock""

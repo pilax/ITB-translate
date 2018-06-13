@@ -163,7 +163,7 @@ Achievement_Texts = {
 	Ach_Archive_B_1_Progress = "Progression : $1 Dégât(s) Bloqué(s)",
 	
 	Ach_Archive_B_2_Title = "Alliés Involontaires",
-	Ach_Archive_B_2_Text = "Avoir 4 ennemis mourant de tirs ennemis en une seule bataille",
+	Ach_Archive_B_2_Text = "Avoir 4 ennemis tués par des tirs ennemis en une seule bataille",
 	Ach_Archive_B_2_Progress = "Progression : $1 tué(s)",
 	
 	Ach_Archive_B_3_Title = "Déplacement de Masse",

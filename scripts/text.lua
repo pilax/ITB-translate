@@ -474,7 +474,7 @@ local Global_Texts = {
 	
 	Pilot_MoveName = "Bonus Déplacement",
 	Pilot_MoveShort = "+1 Déplacement Mech",
-	Pilot_MoveDesc = "Le mouvement du Mech piloté est augmenté de 1.",
+	Pilot_MoveDesc = "Le déplacement du Mech piloté est augmenté de 1.",
 	
 	Pilot_GridName = "Bonus de Puissance Défensive",
 	Pilot_GridShort = "+3 pts de Puiss. DEF",

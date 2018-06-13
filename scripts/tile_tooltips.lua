@@ -19,8 +19,8 @@ TILE_TOOLTIPS = {
 	chasm = {"Tuile Gouffre", "Les unités terrestres poussées dedans seront \ndétruites."},
 	ground = { "Tuile Sol", "Aucun effet spécifique." },
 	sand = { "Tuile Sable", "Se transforme en Brouillard si endommagée. \nAucune action n'est possible dans le Brouillard." },
-	mountain = { "Tuile Montagne", "Bloque les mouvements et les projectiles. Deux coup la détruira." },
-	damaged_mountain = { "Montagne Endommagée", "Bloque les mouvements et les projectiles. Un seul coup la détruira." },
+	mountain = { "Tuile Montagne", "Bloque les déplacements et les projectiles. Deux coup la détruira." },
+	damaged_mountain = { "Montagne Endommagée", "Bloque les déplacements et les projectiles. Un seul coup la détruira." },
 	water = { "Tuile Eau", "Les unités ne peuvent pas attaquer dans l'Eau. La plupart des ennemis Non-Volants meurent dans l'Eau."},
 	acid_water = { "Tuile A.C.I.D.", "Se comporte comme de l'Eau, mais inflige de l'A.C.I.D. aux unités survivantes."},
 	lava  = {"Tuile Lave", "Se comporte comme de l'Eau, mais inflige du Feu aux unités survivantes."},
@@ -85,9 +85,9 @@ local STATUS_TOOLTIPS = {
 	shield = {"Bouclier", "Le Bouclier bloquera les prochain dégâts subit qu'une seul fois et sera détruit."},
 	guard = {"Stable", "Ne peut être déplacé par aucun effet d'Arme (Pousser, Téléporter, etc...)."},
 	frozen = {"Gelé", "Invincible mais incapable de bouger ou d'attaquer. Tout dégâts libérera l'unité."},
-	powerup = {"Propulseurs", "+2 de Mouvement à ce tour"},
-	shifty = {"Sournois", "Cette unité a gagné un mouvement bonus après avoir attaqué"},
-	youthful = {"Énergie juvénile", "+3 Mouvement au premier tour de combat."},
+	powerup = {"Propulseurs", "+2 Déplacements à ce tour"},
+	shifty = {"Sournois", "Cette unité a gagné +1 Déplacement bonus après avoir attaqué"},
+	youthful = {"Énergie juvénile", "+3 Déplacements au premier tour de combat."},
 }
 
 function GetTileTooltip(id)
