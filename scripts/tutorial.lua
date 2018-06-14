@@ -42,7 +42,7 @@ Tutorial_Acid = {
 }
 
 Tutorial_Frozen = {
-	Text = "Cette unité est Gelée. Elle ne peut pas bouger ou attaquer et restera Gelée jusqu'à ce qu'elle subisse des dégâts.",
+	Text = "Cette unité est Gelée. Elle ne peut ni bouger ni attaquer et restera Gelée jusqu'à ce qu'elle subisse des dégâts.",
 	Title = "Unité Gelée",
 }
 

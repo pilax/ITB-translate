@@ -60,9 +60,9 @@ function Mission_Terraform:GetCompletedStatus()
 end
 
 function Mission_Terraform:StartMission()
-	local terraformer = PAWN_FACTORY:CreatePawn("Terraformeur")
+	local terraformer = PAWN_FACTORY:CreatePawn("Terraformer")
 	self.TerraformerId = terraformer:GetId()
-	Board:AddPawn(terraformer,"Terraformeur")
+	Board:AddPawn(terraformer,"Terraformer")
 	Board:SetTerrain(terraformer:GetSpace(),TERRAIN_ROAD)--make sure it's not on sand or something weird
 end
 
@@ -101,7 +101,7 @@ Terraformer =
 	Corporate = true,
 	PilotDesc = "RST Corp \nTerraformer",
 }
-AddPawn("Terraformeur") 
+AddPawn("Terraformer") 
 
 Terraformer_Attack = Skill:new{  
 	Range = 1,
@@ -118,7 +118,7 @@ Terraformer_Attack = Skill:new{
 		Forest = Point(1,1),
 		Forest2 = Point(3,1),
 		Forest3 = Point(2,2),
-		CustomPawn = "Terraformeur"
+		CustomPawn = "Terraformer"
 	}
 }
 				

@@ -73,7 +73,7 @@ local Global_Texts = {
 	Tutorial_Acid_Title = "A.C.I.D.",
 	Tutorial_Acid_Text = "Cette unité est affectée par de l'A.C.I.D. Ses défenses étant corrodées, les Dégâts d'Armes subits seront doublés. \n\nLes autres types de dégâts (Pousser, Feu, Bloquer, etc...) restent inchangés.",
 
-	Tutorial_Frozen_Text = "Cette unité est GELÉE. Elle ne peut pas bouger ou attaquer et restera Gelée jusqu'à ce qu'elle subisse des dégâts.",
+	Tutorial_Frozen_Text = "Cette unité est GELÉE. Elle ne peut ni bouger ni attaquer et restera Gelée jusqu'à ce qu'elle subisse des dégâts.",
 	Tutorial_Frozen_Title = "Unité Gelée",
 
 	Tutorial_Frozen_Mech_Text = "Ce Mech peut utiliser sa Compétence Réparation pour se libérer de la glace, mais ne pourra pas attaquer ou se déplacer par la suite.",
@@ -546,7 +546,7 @@ local Global_Texts = {
 	Store_Cost = "Coût:  $1",
 	Store_Equipped = "Équipé",
 	Store_Purchase = "Acheter de l'équipement pour        Réputation", -- star image goes in here
-	Store_Sell = "Donner armes et pilotes pour        Réputation", --star image goes in here
+	Store_Sell = "  Donner armes ou pilotes pour        Réputation", --star image goes in here
 	Store_SellTitle = "DONNER",
 	Store_BuyTitle = "ACQUÉRIR",
 	Store_Weapons = "Armes",
