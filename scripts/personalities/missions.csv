@@ -523,7 +523,7 @@ Comments like ""it's too bad you'll have to kill these bots"" would be appropria
 ,Mission_FreezeMines_Success,(Generic success),,,"""Laissez tout ce que les cryo-mines ont gelé à mes droïdes de nettoyage. Je vais consacrer le temps qu'il faudra pour m'assurer à ce que tout cela soit en toute sécurité."",",
 ,,,,,,
 ,Mission_FreezeBldg_Briefing,Every building is frozen in ice at mission start. Player is tasked to free at least 5 buildings from the ice.,,,"""Un de mes processus environnementaux est défaillant, et le résultat a été qu'une ville entière a été enfermée dans la glace. Les vies à l'intérieur sont toujours fonctionnelles - mais elles mourront si elles ne sont pas libérées à temps."",",
-,Mission_FreezeBldg_Success,,,,"""Les occupants ne devraient pas avoir de séquelles. Et mon moniteur environnemental fonctionne normalement à nouveau."",",
+,Mission_FreezeBldg_Success,,,,"""Les occupants ne devraient pas avoir de séquelles. Et mon moniteur environnemental fonctionne à nouveau normalement."",",
 ,Mission_FreezeBldg_Failure,"Too many buildings still in ice
 ",,,"""Ces bâtiments sont maintenant des tombes glacées à la fois pour la vie mécanique et biologique. Nous les libérerons après la guerre et nous les enterrerons avec respect."",",
 ,,,,,,
