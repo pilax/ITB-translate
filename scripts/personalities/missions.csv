@@ -14,7 +14,7 @@
  
 ""Si vous venez du futur, sachez que notre île est beaucoup plus ancienne qu'elle n'en a l'air. S'il n'y avait pas eu l'invasion Vek, j'aurais aimé vous montrer les reliques de l'Ancienne Terre."",
 
-""Vous avez montré que vous étiez dans l'air du temps ! Les Veks envahissent Archive. Les reliques de l'Ancienne Terre s'y trouvant sont encore opérationnelles et pourraient bien nous être utiles."",
+""Vous arrivez juste à temps ! Les Veks envahissent Archive. Les reliques de l'Ancienne Terre s'y trouvant sont encore opérationnelles et pourraient bien nous être utiles."",
 
 ""Les civilisations du passé avaient une force militaire qui dépassait largement la nôtre. Heureusement que nous avons conservé certaines de leurs vieilles machines de guerre !"",
 ","""Mes conseillers insistent sur le fait que nous perdons le combat. Ils insistent également pour que je vous fasse confiance. Et puisque ces lâches insistent rarement pour que je fasse quelque chose, je vous donne une chance de faire vos preuves."",
@@ -412,7 +412,7 @@ Archive Inc Missions,Mission_Airstrike_Briefing,,"""Cette région possédait un an
 ""Il y a des centaines d'années, beaucoup de mines de proximité de l'ancienne Terre ont été ensevelies dans cette région. Nous les désarmions petit à petit - mais nous nous sommes dit : pourquoi ne pas les utiliser contre les Veks ?"",
 
 ""Nous menions des fouilles dans cette région lorsque les Veks ont utilisé des mines de proximité de l'Ancienne Terre. Vous pourrez peut-être les utiliser contre les Veks !"",",,,
-,Mission_Mines_Success,,"""Regarder ces mines exploser les Veks était un vrai régal ! Et cela a l'autre avantage de déminer les environs pour que nos forces puissent se déplacer sereinement dans la région."",
+,Mission_Mines_Success,,"""Regarder les Veks exploser sur ces mines était un vrai régal ! Et cela a l'autre avantage de déminer les environs pour que nos forces puissent se déplacer sereinement dans la région."",
 
 ""Avec le départ des Veks et le déminage de certaines mines de proximité, nous pouvons maintenant établir une présence militaire permanente dans la région !"",",,,
 ,,,,,,
@@ -548,7 +548,7 @@ Detritus Missions,Mission_Barrels_Briefing,Large Vats of A.C.I.D. need to be des
 
 ""Le lanceur est toujours actif, mais les ruches dans les montagnes ont survécu. Les capteurs indiquent que les Vek envahissent la région - nous devons nous retirer."","
 ,Mission_Disposal_Disposal,Disposal Unit dead,,,,"""Le lanceur d'A.C.I.D.a été détruit avec son équipage - mais leur sacrifice n'a pas été vain. Les ruches Vek ont été éradiquées."""
-,Mission_Disposal_Success,"Disposal Unit Survives, Mountains destroyed",,,,"""Votre mission a été un succès, commandant - Le lanceur d'A.C.I.D.est intact et les Veks ont été désintégrés."","
+,Mission_Disposal_Success,"Disposal Unit Survives, Mountains destroyed",,,,"""Votre mission a été un succès, commandant - Le lanceur d'A.C.I.D. est intact et les Veks ont été désintégrés."","
 ,,,,,,
 ,Mission_AcidTank_Briefing,Player controls an A.C.I.D. tank (needs name?) for the mission. It applies A.C.I.D. to units. Mission is to destroy Vek that have the A.C.I.D. applied (so the A.C.I.D. has a chance to recycle the corpses?),,,,"""Detritus a déployé un tank A.C.I.D. dans ce secteur pour #squad - utilisez-le pour étudier les effets de A.C.I.D. sur les Veks."",
 

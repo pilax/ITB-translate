@@ -422,7 +422,7 @@ local Global_Texts = {
 	Button_UndoTurn = "RÉINITIALISATION",
 	Button_UndoTurnUsed = "INDISPONIBLE",
 	
-	Active_Units = "Unités actives : ",
+	Active_Units = "Unité(s) active(s) : ",
 	
 	Objective_EnemyRetreat = "Victoire dans",
 	Objective_EnemyRetreat2 = "tours",
@@ -701,8 +701,8 @@ local Global_Texts = {
 	Hangar_Randomized = "Escouade Aléatoire",
 	Hangar_Custom = "Escouade Personnalisée",
 	Hangar_Complete = "Complétez plus d'Îles pour déverrouiller !",
-	Hangar_Achievements = "Gagner plus de Pièces !",
-	Hangar_Buy = "Cliquer pour Acheter !",
+	Hangar_Achievements = "Gagnez plus de Pièces !",
+	Hangar_Buy = "Cliquez pour Acheter !",
 	Button_Hangar_Squad = "Autre Escouade",
 	Button_Hangar_Pilot = "Changer Voyageur Temporel",
 	Button_Hangar_Random_Pilot = "Aléatoire",
@@ -920,7 +920,7 @@ local Global_Texts = {
 	Achievement_Completed = "Achevé en difficulté $1",
 	Achievement_Header = "Succès !",
 	Achievement_Header_Pilot = "Pilote Trouvé !",
-	Achievement_Text_Pilot = "Hangar Déverrouillé",
+	Achievement_Text_Pilot = "Disponible au Hangar",
 	
 	-----hotkeys
 	Mute_Title = "Couper Volume",
