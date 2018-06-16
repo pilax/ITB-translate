@@ -59,7 +59,7 @@ end
 
 Archive_Tank = 
 {
-	Name = "Tank d'Archive Corp",
+	Name = "Tank d'Archive",
 	Health = 1,
 	MoveSpeed = 4,
 	Neutral = true,

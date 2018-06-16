@@ -107,11 +107,11 @@ Generic Missions,Mission_Generic_Briefing,Missions without anything unique happe
 
 ""Excellent, vous avez gagné du terrain - nous le conserverons à présent, vous et votre escouade, continuez d'avancer."",
 
-""Nous ne pensions pas être capable de repousser les Veks - d'où que vous veniez, j'espère qu'il y en à d'autre comme vous qui sont en route."",
+""Nous ne pensions pas être capable de repousser les Veks - d'où que vous veniez, j'espère que d'autres comme vous viendront nous aider rapidement."",
 
 ""J'ai lu les rapports sur les pertes, et j'ai le plaisir d'annoncer que les Veks sont dans le percentile supérieur."",
 
-""La région est sécurisée. Déployez des troupes pour maintenir la zone avant que les conditions météorologiques ne changent."",
+""La région est sécurisée. Nous déployons des troupes pour maintenir la zone avant que les conditions météorologiques ne changent."",
 ","""Vous et #squad avez repoussé les Veks. Nos chances de survie ont augmenté grâce à cette bataille."",
 
 ""Des victoires supplémentaires de ce type augmenteront considérablement nos chances de survie."",
@@ -354,7 +354,7 @@ Universal Missions,,Every corporation island could use these missions,,,not used
 ,,,,,,
 ,Mission_BossGeneric_Briefing,,"""Une sorte d'abomination Vek approche de notre quartier général ! Elle doit être stoppée !""","""Une monstruosité Vek attaque notre tour. Nous devons compter sur vous une dernière fois pour nous aider.""","""La Tour Pinnacle est attaquée. Mon processeur d'analyse n'est pas capable d'identifier les espèces Veks qui nous menacent. Soyez prudent."",","""Nos capteurs ont détecté un Vek que nous n'avions jamais rencontré auparavant... Je crains qu'il soit plus coriace que les autres."",
 
-""Nous avons détecté un Vek inconnu s'approchant du hub Detritus. Nous rassemblons toutes les informations que nous pouvons, Commandant, mais nous avons besoin de #squad. "","
+""Nous avons détecté un Vek inconnu s'approchant du Quartier Général de Detritus. Nous rassemblons toutes les informations que nous pouvons, Commandant, mais nous avons besoin de #squad. "","
 ,Mission_BossGeneric_Boss,,"""Avec l'abomination Vek encore en vie, les Vek restent une menace sérieuse pour la région. Je ne peux que vous souhaitez d'être plus efficace sur les autres îles.""","""Si vous êtes vraiment le dernier espoir de l'humanité, alors nous sommes perdus. Cette monstruosité Vek attaquera encore, je pense que vous ne serez plus là pour nous aider la prochaine fois.""","""Je vais assigner un drone pour suivre et analyser ce nouveau Vek. Nous devrions obtenir plus de données sur lui pour mieux le combattre."",","""Ce Vek monstrueux a survécu - et il nous attaquera probablement encore une fois. Si #squad ne peuvent pas le stopper, je crains que nos forces n'aient aucune chance."","
 ,Mission_BossGeneric_Tower,,"""Vous avez survécu, mais hélas, notre quartier général est détruit... Nous avons perdu tellement des vies face à ces créatures !""","""Vous avez laissé notre quartier général se faire détruire par ces créatures. Nous comptions sur vous... Enfin JE comptais sur vous.""","""Mes serveurs de données dans le Tour Pinnacle ont subi de graves dommages. Je dois supervision leurs réparations."",","""Notre quartier général a été détruit. Nous évacuons tous les survivants que nous pouvons, mais plus de 30% du personnel de Detritus occupait le QG quand il est tombé."","
 ,Mission_BossGeneric_Success,,"""Avec cette abomination Vek détruite, nous ne devrions plus voir l'apparition de nouvelles ruches sur notre île. Vous nous avez sauvé !""","""Je dois admettre que votre prestation était impressionnante. Nous sommes plus sereins maintenant que nous savons que cette Montruosité Vek n'est plus.""","""Des milliers de vie ont été sauvées aujourd'hui. Je suis reconnaissant pour le temps que vous avez sacrifié pour nous aider."",","""L'abomination Vek est morte, et notre quartier général est intact. Vous et #squad avez nos remerciements. "","
@@ -436,7 +436,7 @@ RST Missions,Mission_Force_Briefing,"This mission involves ""a display of force"
 ""Nous devons repousser les Veks - tuez tout ce que vous pouvez, puis détruisez les chaînes de montagnes avant qu'elles ne deviennent des ruches."",",,
 ,Mission_Force_Success,Both objectives complete,,"""Bien joué. Normalement, j'aurais été ravi d'avoir une terre enfin stable dans n'importe quelle partie de R.S.T. - mais pas si celle-ci profite aux Veks."",",,
 ,Mission_Force_Failure,Both objectives failed,,"""Pas assez de Veks ont été tués... et les rapports indiquent qu'il reste assez de terre stable pour construire une ruche. Cette mission a été un échec complet."",",,
-,Mission_Force_MountainsAlive,"Mountains left standing (optional, we could just have generic ""Failed"" messages and not bother with these.",,"""Il y a eu juste assez de Veks tués, mais la terre stable restante peut être pour construire d'autres ruches pour reconstituer leur nombre."",",,
+,Mission_Force_MountainsAlive,"Mountains left standing (optional, we could just have generic ""Failed"" messages and not bother with these.",,"""Il y a eu juste assez de Veks tués, mais la terre stable restante pourra être utilisée pour construire d'autres ruches et ainsi reconstituer leur nombre."",",,
 ,Mission_Force_VekAlive,"Vek left standing (optional, we could just have generic ""Failed"" messages and not bother with these.",,"""Des Veks sont encore présents dans la région. Mais au moins avec les terres stables détruites, nous n'aurons pas de ruches à nettoyer si nous les frappons à nouveau."",",,
 ,,,,,,
 ,Mission_Holes_Briefing,"Similar to 'generic' missions, but this one has Hornet Vek arriving out of massive holes in the groundinstead of Vek coming up from under the standard tiles. Where these holes came from has no explanation currently, so the text can address that.",,"""Nous détectons une étrange activité Vek - des Veks volants sortent de ruches souterraines situées sous l'île à travers des points d'érosion."",
@@ -559,7 +559,7 @@ Detritus Missions,Mission_Barrels_Briefing,Large Vats of A.C.I.D. need to be des
 ,Mission_Acid_Briefing,"Normal battle, but Vek are jumping out of the ACID pools to attack. They have ACID pre-applied to them as a game effect. (They're adapting? They can live surprisingly long with it?)",,,,"""Ces mares d'A.C.I.D. ont été touchées par les Veks, mais les Vek semblent... s'adapter aux produits chimiques. Nous devons arrêter les Veks avant qu'ils soient immunisés."",
 
 ""Ce secteur comporte plusieurs lacs d'A.C.I.D. Les Veks semblent les utiliser comme des routes pour atteindre la surface."","
-,Mission_Acid_Success,(Generic success),,,,"""Vous devez être félicité #squad - les capteurs confirment que les Veks ont été repoussés. Le secteur est à nouveau le nôtre."","
+,Mission_Acid_Success,(Generic success),,,,"""Félicitations, #squad - les capteurs confirment que les Veks ont été repoussés. Le secteur est à nouveau le nôtre."","
 ,,,,,,
 ,Mission_Power_Briefing,Power plants need to be defended (two on the map),,,,"""Ce secteur a deux installations d'alimentation en Énergie qui alimentent de nombreuses usines de Detritus. Ces installations sont essentielles aux défenses de Detritus."",
 
