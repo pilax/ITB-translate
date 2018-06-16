@@ -87,7 +87,7 @@ end
 -- SUPPORT UNIT DESCRIPTION
 
 SpiderlingEgg1 ={
-	Name = "?uf Jeune Araignée",
+	Name = "Oeuf d'Araignée",
 	Health = 1,
 	MoveSpeed = 0,
 	Image = "spiderling_egg1",

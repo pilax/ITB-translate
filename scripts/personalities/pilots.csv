@@ -570,7 +570,7 @@ Mid- Battle,MissionStart,Generic mission start,"""Armes : Fonctionnelles"",
 
 ""Detritus vous suivra du mieux possible, Commandant - #squad, Bonne chance."","
 *,Mission_ResetTurn,Triggers after a turn reset,"""Mise à Jour : Création d'une faille terminée""","""Nnnnh... Prendre des failles temporelles me fait tourner la tête."",
-""On est de retour ? Où devrions-nous être?"",
+""On est de retour ? Où est-ce que nous en étions ?"",
 ""Sommes-nous arrivés où et quand nous devrions être ?"",
 ""Création d'une faille réussie... Tous les systèmes sont fonctionnels."",
 ""Et maintenant le Deuxième Round !""","""Voici donc à quoi ressemblait l'époque de la terraformation..."",

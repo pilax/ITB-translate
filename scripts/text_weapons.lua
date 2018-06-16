@@ -84,15 +84,15 @@ BlobAtk2_Name = "Intestins Explosifs",
 BlobAtk2_Description = "Explose, se tue et endommage les tuiles adjacentes. Tuez-le le premier pour l'arrêter.", 
 
 SpiderAtk1_Name = "Petite Progéniture",
-SpiderAtk1_Description = "Projette un ?uf collant qui éclot en Jeune Araignée.", 
+SpiderAtk1_Description = "Projette un oeuf collant qui éclot en Jeune Araignée.", 
 
 SpiderAtk2_Name = "Grande Progéniture",
-SpiderAtk2_Description = "Projette un ?uf collant qui éclot en Jeune Araignée.", 
+SpiderAtk2_Description = "Projette un oeuf collant qui éclot en Jeune Araignée.", 
 
-SpiderlingHatch1_Name = "?uf Jeune Araignée",
+SpiderlingHatch1_Name = "Oeuf d'Araignée",
 SpiderlingHatch1_Description = "Éclot en Jeune Araignée.", 
 
-WebeggHatch1_Name = "?uf Jeune Araignée",
+WebeggHatch1_Name = "Oeuf d'Araignée",
 WebeggHatch1_Description = "Éclot en Jeune Araignée.", 
 
 Jelly_Health_Tooltip_Name = "Spores Vivifiantes",
@@ -142,7 +142,7 @@ ScorpionAtkB_Name = "Sécrétion Massive",
 ScorpionAtkB_Description = "Entrave toutes les cibles, se préparant à infliger des dégâts massifs aux tuiles adjacentes.",
 
 SpiderBoss_Tooltip_Name = "Progéniture Abondante",
-SpiderBoss_Tooltip_Description = "Projette 2-3 ?ufs d'Araignées.",
+SpiderBoss_Tooltip_Description = "Projette 2-3 oeufs d'Araignées.",
 
 Jelly_Boss_Tooltip_Name = "Surcharge",
 Jelly_Boss_Tooltip_Description = "Tous les autres Veks gagnent +1 HP, Régénération, et explosent en mourrant.",

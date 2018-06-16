@@ -824,8 +824,8 @@ local Global_Texts = {
 	
 	--End of Island
 	Button_Select_Mission_Leave = "QUITTER L'ILE",
-	Button_Select_Mission_Store = "DÉPENSER RÉPUTATION",
-	Button_Select_Mission_Reward = "RÉCOMPENSE RÉPUTATION !",
+	Button_Select_Mission_Store = "VENDRE RÉPUTATION",
+	Button_Select_Mission_Reward = "RÉCOMPENSE!",
 	
 	--Island Stuff
 	Island_Environment = "ENVIRONNEMENT",

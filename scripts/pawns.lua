@@ -1111,7 +1111,7 @@ AddPawn("Spider2")
 -------------------------
 
 WebbEgg1 ={
-	Name = "?uf Jeune Araignée",
+	Name = "Oeuf d'Araignée",
 	Health = 1,
 	MoveSpeed = 0,
 	Image = "webling_egg1",
