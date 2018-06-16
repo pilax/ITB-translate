@@ -1,7 +1,7 @@
 
 Mission_Terraform = Mission_Infinite:new{ 
 	MapTags = { "terraformer" },
-	Objectives = { Objective("Défendre le Terraformeur",1), Objective("Terraformer la prairie en désert", 1),  }, 
+	Objectives = { Objective("Défendre le Terraformeur",1), Objective("Terraformer la terre fertile en sable", 1),  }, 
 	TerraformerId = -1,
 	TerraformComplete = false,
 	SpawnMod = 1,
@@ -45,7 +45,7 @@ function Mission_Terraform:UpdateObjectives()
 	--end
 	
 	Game:AddObjective("Défendre le Terraformeur", terraformAlive)	
-	Game:AddObjective("Terraformer la prairie en désert", terraformStatus)	
+	Game:AddObjective("Terraformer la terre fertile en sable", terraformStatus)	
 end
 
 --used for briefing messages
@@ -62,7 +62,7 @@ end
 function Mission_Terraform:StartMission()
 	local terraformer = PAWN_FACTORY:CreatePawn("Terraformer")
 	self.TerraformerId = terraformer:GetId()
-	Board:AddPawn(terraformer,"Terraformer")
+	Board:AddPawn(terraformer,"terraformer")
 	Board:SetTerrain(terraformer:GetSpace(),TERRAIN_ROAD)--make sure it's not on sand or something weird
 end
 
@@ -89,7 +89,7 @@ end
 
 Terraformer = 
 {
-	Name = "Terraformeur",
+	Name = "Terraformer",
 	Image = "terraformer3",
 	Health = 2,
 	MoveSpeed = 0,
