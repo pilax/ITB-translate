@@ -89,7 +89,7 @@ end
 
 Terraformer = 
 {
-	Name = "Terraformer",
+	Name = "Terraformeur",
 	Image = "terraformer3",
 	Health = 2,
 	MoveSpeed = 0,
