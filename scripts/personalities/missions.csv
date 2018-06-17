@@ -275,7 +275,7 @@ Universal Missions,,Every corporation island could use these missions,,,not used
 ""Nos trains semblent provoquer les Veks - nous n'en connaissons pas la raison, mais les Veks les attaquent à vue."",
 
 ""Un convoi acheminant des déchets pour leur élimination traverse ce secteur. Ses vibrations attirent les Veks, nous devons donc le protéger des attaques."","
-,Mission_Train_Success,If the train remains undamaged and makes it to its destination... ,"""Les réfugiés seront reconnaissants pour le ravitaillement. Et je vous dois des remerciements personnels pour avoir sauvé Ol'Horace - nous avons tous les deux vécu beaucoup de choses ensemble."", 
+,Mission_Train_Success,If the train remains undamaged and makes it to its destination... ,"""Les réfugiés vous seront reconnaissants pour ce ravitaillement. Et je vous dois des remerciements personnels pour avoir sauvé Ol'Horace - nous avons tous les deux vécu beaucoup de choses ensemble."", 
 ""Ol'Horace s'est rendu à sa destination sans une égratignure ! C'est un grand jour lorsque nous pouvons protéger notre histoire des Veks, surtout quand on sait que l'intégralité de notre passé a été engloutie par les eaux !"",
 ","""Les approvisionnements ont pu traverser sans encombre et sont en route pour nourrir mon peuple. Je vous remercie."",
 
@@ -476,7 +476,7 @@ RST Missions,Mission_Force_Briefing,"This mission involves ""a display of force"
 ,Mission_Crack_Briefing,Crack is spreading across the map from one edge to the other.,,"""Les Veks ont retiré le stabilisateur de sol de cette région. Nous ne savons pas quel sera le résultat... Faites attention.""",,
 ,Mission_Crack_Success,Generic success since there are no mission specific objectives,,"""Encore un jour où une partie de notre foyer a été détruite. Une fois que ces Veks auront disparus, nos terraformeurs auront du travail à faire.""",,
 ,,,,,,
-,Mission_Filler_Briefing,"An ""Earth Mover"" is filling in a chasm in the earth. Player must defend it.",,"""Un de nos Remueurs Terrestres remplit un gouffre créé par des stabilisateurs défectueux. Assurez-vous qu'il reste en une seule pièce.""",,
+,Mission_Filler_Briefing,"An ""Earth Mover"" is filling in a chasm in the earth. Player must defend it.",,"""Un de nos Remueurs Terrestres remplit un gouffre créé par des stabilisateurs défectueux. Assurez-vous à qu'il reste en une seule pièce.""",,
 ,Mission_Filler_Success,"""Earth Mover"" survives and the ground is filled in",,"""Nous commencerons à construire des défenses souterraines sur cette nouvelle terre avant que le Vek puisse s'y enfouir.""",,
 ,Mission_Filler_Failure,"""Earth Mover"" dies -- ground still might be filled in, so don't address that.",,"""La terre stable est une aubaine sur cette île - nous avions besoin de ce Remueur Terrestre pour créer les fondations pour de nouveaux abris et de nouvelles routes !""",,
 ,,,,,,

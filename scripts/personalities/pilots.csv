@@ -923,7 +923,7 @@ Only needs 1 line per Pilot","""Mise à Jour : Anomalie détectée sous la glace"",
 ""En-encore plus de Veks sont en train de creuser vers la surface !"",
 ""Encore p-plus de Veks à la surface !""","""Les activités sismiques indiquent que les Veks approchent de notre position."",
 ""Les Veks sont en train de creuser des tunnels non autorisés dans la région.""","""Les Veks sont en train de faire leur chemin vers la surface."",
-""Les Veks sont en train d'émerger. Ils sont vraisemblablement hostile et essaieront de nous tuer."",","""Kc'cht ! Vk?""","""\\ ::..:: //""",""":: ?nnNNN-nhr... ::""",,"""Les relevés sismiques indiquent que d'autres Veks se dirigent vers vous !""","""Les activités sismiques sont de plus en plus importantes. D'autres Veks seront sur vous très bientôt."",
+""Les Veks sont en train d'émerger. Ils sont vraisemblablement hostiles et essaieront de nous tuer."",","""Kc'cht ! Vk?""","""\\ ::..:: //""",""":: ?nnNNN-nhr... ::""",,"""Les relevés sismiques indiquent que d'autres Veks se dirigent vers vous !""","""Les activités sismiques sont de plus en plus importantes. D'autres Veks seront sur vous très bientôt."",
 ""Attention au sol, nous détectons des activités souterraines Vek.""","""Les Veks creusent leur chemin vers vous. Ils arriveront très bientôt.""","""#squad... Nous avons détecté plusieurs points d'émergence potentiels de Veks . Soyez prêt."""
 ,Emerge_Success,Vek Emerges,"""Alerte : Veks à la surface""","""J'ai un visuel sur les Veks qui émergent."",
 ""Vek en approche. Anéantissons-les !""","""Écrasons ces Veks et renvoyons les d'où ils viennent."",
