@@ -1,10 +1,10 @@
 ,,Notes,PDG Archive,PDG Rust,PDG Snow,PDG Detritus
 ,Script ID,,CEO_Grass,CEO_Sand,CEO_Snow,CEO_Acid
-,Region_Names,,"""Apparts d'Archive"", ""Comté Historique"", ""Vallée Protégée"", ""Collines Oubliées"", ""Musées du Centre"", ""District Martial"", ""Vieille Ville"", ""Chambres Fortes"", ""Archives Secondaires"", ""Point du Souvenir"", ""Parc Colonial"", ""OhmVille"", ""Parc de l'Ancienne Terre"", ""Bibliothèque"", ""Expositions d'Archive"", ""Entrepôt d'Accord"", ""Hall de l'Histoire"", ""Parc de la Retrospection"", ""Reliques Préservées"", ""Pâturage"", ""Fermes Préservées"", ""Centre de Restoration"", ""Centre de Recherches"", ""Stockages des Artéfacts"", ""Complexe de Renovation"", ""Hall de l'Archiviste"", ""Antiquité"", ""Site d'Excavation""","""Roche Noire"", ""Parc du Phoénix"", ""Lone Mesa"", ""District Rouillé"", ""Schiste Argileux"", ""Comté Purifiée"", ""Plateau du Renard"",""Crête Mercury"", ""Sables Rouges"", ""Crête du Jugement Dernier"", ""Point de l'Apocalypse"", ""Champs du Tonerre"", ""Parc des Detonations"", ""Terrains Découverts"",""Apparts d'Érosion"", ""Site Tectonique 3.1"", ""Sierra Quadrant"", ""Site d'Essai Delta"",""Site d'Essai Echo"", ""Division QA"", ""Attrape-Lumière"", ""Terre Brûlée"", ""Côte du Rasoir"", ""Baie du Rasoir"", ""Baie du Cratère"", ""Bunker Soufflant"", ""Zone Beta"",""Baie des Detonations"",""Terre Nouvelle"",""Vallée Poussiéreuse"",""Dunes Rouillées"", ""Site d'Essai D-CM"",""Point Rustique"",""Folie de Kern"",""Cicatrice"", ""Tranchée Gamma"",""Station Géothermale"",""Zone Restreinte"",""Cluster de Turbines"",""Bunkers Maglev"",""Point Lumineux"",""Champs Tesla"",""Apparts de Désintegration"",""Coin de Paradis"",""Jardin Soufflant"",""Zone d'Entrainement R.S.T."", ""Périmètre R.S.T."", ""Clôture Sismique R.S.T."", ""Puits de Turbines"", ""Moulin à Vent"",""La Brume"",""Plage Rouillée"",""Station de Mesure Météo"",""Sommet des Tempêtes"", ""Fendu"", ""La Faille"", ""Champ Dead Bird"", ""Parc à Ferrailles"",","""Plaines Glacées"", ""Forêt Glacée"", ""Processeur Central"", ""Stockage Glacé"", ""Réparations Robotiques"", ""Refroidissement Secondaire"", ""Bassin Sans Vie"", ""Zone d'Entrainement des I.A."", ""Laboratoires Cryogéniques"", ""Plaines de Silicates"", ""La Toundra"", ""Rayon Sub-Zero"", ""Centrale Cryogénique"", ""Caveau Blindé"", ""District Z-1001"", ""District Z-1101"", ""Jardin de Pinnacle"", ""Falaise Glacière"", ""Champ Venteux"", ""Amortisseurs Thermiques"",","""Les Terres Désolées"", ""Centre Ville"", ""Zone de Récupération"", ""Retraitement"", ""Tas de Ferrailles"", ""Centre Venteux"", ""Centre de Teleportation"", ""Champs Venteux"", ""Chambres de Déchets"", ""Chambres d'Évacuation"", ""Champs Chimiques A"", ""Site d'Évacuation C"", ""La Décharge"", ""Le Tas"", ""Nano-Silos"", ""Fermes de Nanites"", ""Zone de Confinement D"", ""Zone de Confinement J"", ""Station de Pompage"","
+,Region_Names,,"""Logements de l'Île"", ""Comté Historique"", ""Vallée Protégée"", ""Collines Oubliées"", ""Musées du Centre"", ""District Militaire"", ""Vieille Ville"", ""Chambres Fortes"", ""Archives Secondaires"", ""Point du Souvenir"", ""Parc Colonial"", ""OhmVille"", ""Ancien Parc"", ""Bibliothèque"", ""Expositions de l'Île"", ""Depôt de la Paix"", ""Hall de l'Histoire"", ""Parc de l'Analepse"", ""Reliques Protégées"", ""Pâturage"", ""Fermes Préservées"", ""Centre de Restoration"", ""Centre de Recherches"", ""Dépôts d'Artéfacts"", ""Centre de Renovation"", ""Hall de l'Archiviste"", ""Antiquité"", ""Site d'Excavation""","""Roche Noire"", ""Parc du Phoénix"", ""Lone Mesa"", ""District Rouillé"", ""Schiste Argileux"", ""Comté Purifiée"", ""Plateau du Renard"",""Crête Mercury"", ""Sables Rouges"", ""Crête du Jugement Dernier"", ""Point de l'Apocalypse"", ""Champs du Tonerre"", ""Parc des Detonations"", ""Terrains Découverts"",""Apparts d'Érosion"", ""Site Tectonique 3.1"", ""Sierra Quadrant"", ""Site d'Essai Delta"",""Site d'Essai Echo"", ""Division QA"", ""Attrape-Lumière"", ""Terre Brûlée"", ""Côte du Rasoir"", ""Baie du Rasoir"", ""Baie du Cratère"", ""Bunker Soufflant"", ""Zone Beta"",""Baie des Detonations"",""Terre Nouvelle"",""Vallée Poussiéreuse"",""Dunes Rouillées"", ""Site d'Essai D-CM"",""Point Rustique"",""Folie de Kern"",""Cicatrice"", ""Tranchée Gamma"",""Station Géothermale"",""Zone Restreinte"",""Cluster de Turbines"",""Bunkers Maglev"",""Point Lumineux"",""Champs Tesla"",""Apparts de Désintegration"",""Coin de Paradis"",""Jardin Soufflant"",""Zone d'Entrainement R.S.T."", ""Périmètre R.S.T."", ""Clôture Sismique R.S.T."", ""Puits de Turbines"", ""Moulin à Vent"",""La Brume"",""Plage Rouillée"",""Station de Mesure Météo"",""Sommet des Tempêtes"", ""Fendu"", ""La Faille"", ""Champ Dead Bird"", ""Parc à Ferrailles"",","""Plaines Glacées"", ""Forêt Glacée"", ""Processeur Central"", ""Stockage Glacé"", ""Réparations Robotiques"", ""Refroidissement Secondaire"", ""Bassin Sans Vie"", ""Zone d'Entrainement des I.A."", ""Laboratoires Cryogéniques"", ""Plaines de Silicates"", ""La Toundra"", ""Rayon Sub-Zero"", ""Centrale Cryogénique"", ""Caveau Blindé"", ""District Z-1001"", ""District Z-1101"", ""Jardin de Pinnacle"", ""Falaise Glacière"", ""Champ Venteux"", ""Amortisseurs Thermiques"",","""Les Terres Désolées"", ""Centre Ville"", ""Zone de Récupération"", ""Retraitement"", ""Tas de Ferrailles"", ""Centre Venteux"", ""Centre de Teleportation"", ""Champs Venteux"", ""Chambres de Déchets"", ""Chambres d'Évacuation"", ""Champs Chimiques A"", ""Site d'Évacuation C"", ""La Décharge"", ""Le Tas"", ""Nano-Silos"", ""Fermes de Nanites"", ""Zone de Confinement D"", ""Zone de Confinement J"", ""Station de Pompage"","
 ,Island_Perfect,"Used when the player does not fail a single objective on the island. They get a free reward
-","""Vous avez accompli toutes les missions pour Archive, un accomplissement impressionnant ! Acceptez, vous et #squad, tous nos remerciements."",","""Vous avez terminé chaque mission pour R.S.T. malgré nos maigres chances. Vous avez gagné mon respect, #squad - et voici tout ce que nous pouvons offrir."",","""Vous avez sauvé Pinnacle, accomplissant chaque objectif sans faute. Permettez-moi de vous fournir une aide supplémentaire."",","""#squad, j'ai le plaisir de vous informer que votre taux de réussite est de 100%. Le règlement intérieur Détritus dicte que vous avez gagné un bonus."", 
+","""Vous avez accompli toutes les missions pour Archive, un accomplissement impressionnant ! Acceptez, vous et les #squad, tous nos remerciements."",","""Vous avez terminé chaque mission pour R.S.T. malgré nos maigres chances. Vous avez gagné mon respect, les #squad - et voici tout ce que nous pouvons offrir."",","""Vous avez sauvé Pinnacle, accomplissant chaque objectif sans faute. Permettez-moi de vous fournir une aide supplémentaire."",","""J'ai le plaisir de vous informer, #squad, que votre taux de réussite est de 100%. Le règlement intérieur Détritus dicte que vous avez gagné un bonus."", 
 
-""Détritus a un plan bonus agressif pour l'excellence dans la performance, Commandant. Vous et #squad le méritent."", 
+""Détritus a un plan bonus agressif pour l'excellence dans la performance, Commandant. Vous et les #squad le méritent."", 
 
 ""Grâce à vos efforts, Commandant, notre ratio succès/échec s'est inversé. Permettez à Détritus de partager les fruits de ce succès avec vous."","
 ,Welcome_Message,"Used upon arrival to the island.
@@ -19,9 +19,9 @@
 ""Les civilisations du passé avaient une force militaire qui dépassait largement la nôtre. Heureusement que nous avons conservé certaines de leurs vieilles machines de guerre !"",
 ","""Mes conseillers insistent sur le fait que nous perdons le combat. Ils insistent également pour que je vous fasse confiance. Et puisque ces lâches insistent rarement pour que je fasse quelque chose, je vous donne une chance de faire vos preuves."",
 
-""Ne pensez pas un instant que je vous crois avec avec vos histoires de 'Voyageur Temporel', mais vos Mechs - sont indéniablement impressionnants."",
+""Ne pensez pas un instant que je vous crois avec avec vos histoires de 'Voyageurs Temporels', mais vos Mechs - sont indéniablement impressionnants."",
 
-""Vous ne me trouverez pas aussi crédule que mes chefs de département. Peu importe vos histoires absurdes de 'Voyage dans le Temps', c'est de votre puissance de feu dont nous avons besoin."",
+""Vous ne me trouverez pas aussi crédule que mes chefs de département. Peu importe vos histoires absurdes de 'Voyage dans le Temps', mais c'est de votre puissance de feu dont nous avons besoin."",
 
 ""Reportons la discussion sur le où et comment vous avez obtenu cet armement du moment que vous l'utilisez pour nous défendre."",
 
@@ -30,9 +30,9 @@
 
 ""Les humains employés chez Pinnacle sont tout aussi importants que nos machines douées de conscience. Nous devons arrêter les Veks pour sauver tous les types de vies."",
 
-""Au nom de Pinnacle, je vous souhaite la bienvenue. Le climat sur notre île n'est pas idéal pour les humains, mais les basses températures sont vitales pour que les machines prospèrent."",","""J'ai entendu parler de vos victoires contre les Veks, Commandant. Nous espérons que vous et #squad pourrez nous aider dans notre combat."", 
+""Au nom de Pinnacle, je vous souhaite la bienvenue. Le climat sur notre île n'est pas idéal pour les humains, mais les basses températures sont vitales pour que les machines prospèrent."",","""J'ai entendu parler de vos victoires contre les Veks, Commandant. Nous espérons que vous et les #squad pourrez nous aider dans notre combat."", 
 
-""Nos logements sont spartiates, Commandant, mais vous et #squad sont les bienvenus ici. Pour citer notre devise, 'Détritus est à votre disposition'."",
+""Nos logements sont spartiates, Commandant, mais vous et les #squad sont les bienvenus ici. Pour citer notre devise, 'Détritus est à votre disposition'."",
 
 ""Notre île était autrefois l'une des centaines de sites de décharge de Détritus. Puis les Veks sont venus. Avec votre arrivée, Détritus a regagné de l'espoir."",
 
@@ -66,7 +66,7 @@
 
 ""Je sais que vous en faites beaucoup, mais je vous demanderais de ne pas faire payer notre peuple à la place des Veks."",
 
-""Détritus n'est rien sans son peuple, Commandant. Je vous exhorte, ainsi que #squad, de donner la priorité aux citoyens."",
+""Détritus n'est rien sans son peuple, Commandant. Je vous exhorte, vous ainsi que les #squad, de donner la priorité aux citoyens."",
 
 ""Les dégâts dans la région étaient... considérables. Je sais que mes... sentiments pourraient nous coûter la guerre mais je vous supplie de faire ce que vous pouvez pour sauver notre peuple."","
 ,,,,,,
@@ -93,9 +93,9 @@ Generic Missions,Mission_Generic_Briefing,Missions without anything unique happe
 
 ""Faites comme vous pouvez, Commandant - les Veks doivent être repoussés et notre peuple protégé."",
 
-""Sachez que vous et #squad êtes notre dernier rempart contre les Veks, Commandant. Nous avons foi en vous"",
+""Sachez que vous, et les #squad, êtes notre dernier rempart contre les Veks, Commandant. Nous avons foi en vous"",
 
-""J'ai foi en vous et #squad, Commandant. Sachez que tout Détritus est avec vous."","
+""J'ai foi en vous et les #squad, Commandant. Sachez que tout Détritus est avec vous."","
 ,Mission_Generic_Success,Missions that pull from the generic objectives have a small chance of using this set,"""Il y a beaucoup d'espace inutilisé dans les réserves naturelles de cette région. Nous allons commencer à déplacer les réfugiés ici, maintenant que les Veks sont partis."", 
 
 ""Les Veks n'ont pas été vaincus facilement, pourtant vous les avez mis à terre avec brio. Mes compliments aux pilotes."", 
@@ -103,7 +103,7 @@ Generic Missions,Mission_Generic_Briefing,Missions without anything unique happe
 ""Les troupes de l'Ancienne Terre auraient été fières ! Si seulement elles avaient été là pour voir ça..."", 
 
 ""La région étant sécurisée, nous pouvons ouvrir tranquillement les coffres. Voyons quelle autre relique de l'Ancienne Terre nous pourrons utiliser contre les Veks !"",
-","""C'est l'esprit qu'il faut si nous voulons gagner ce combat. Bon travail, à la fois vous et l'escoude... #squad."",
+","""C'est l'esprit qu'il faut si nous voulons gagner ce combat. Bon travail, à la fois vous et à l'escoude des #squad."",
 
 ""Excellent, vous avez gagné du terrain - nous le conserverons à présent, vous et votre escouade, continuez d'avancer."",
 
@@ -112,7 +112,7 @@ Generic Missions,Mission_Generic_Briefing,Missions without anything unique happe
 ""J'ai lu les rapports sur les pertes, et j'ai le plaisir d'annoncer que les Veks sont dans le percentile supérieur."",
 
 ""La région est sécurisée. Nous déployons des troupes pour maintenir la zone avant que les conditions météorologiques ne changent."",
-","""Vous et #squad avez repoussé les Veks. Nos chances de survie ont augmenté grâce à cette bataille."",
+","""Vous et les #squad avez repoussé les Veks. Nos chances de survie ont augmenté grâce à cette bataille."",
 
 ""Des victoires supplémentaires de ce type augmenteront considérablement nos chances de survie."",
 
@@ -120,11 +120,11 @@ Generic Missions,Mission_Generic_Briefing,Missions without anything unique happe
 
 ""Vous les avez repoussés, Commandant ! Cela nous a donné plus de temps pour renforcer les défenses de Détritus."",
 
-""Je suis conscient que mes remerciements sont une bien maigre récompense, mais tout Détritus est reconnaissant pour ce que vous et #squad avez fait ici aujourd'hui."",
+""Je suis conscient que mes remerciements sont une bien maigre récompense, mais tout Détritus est reconnaissant pour ce que vous et les #squad avez fait ici aujourd'hui."",
 
 ""Ma foi en vous n'était pas déplacée, Commandant. Vous avez la gratitude de Détritus."",
 
-""Avec le succès de l'escouade #squad sur le terrain, j'ai pu concentrer mes efforts sur les usines et sur les Veks partout ailleurs sur Détritus !"","
+""Avec le succès de l'escouade des #squad sur le terrain, j'ai pu concentrer mes efforts sur les usines et sur les Veks partout ailleurs sur Détritus !"","
 ,Mission_Generic_Failure,Are we going to use these? They aren't currently used,"""Eh bien maintenant, hmmm... cela aurait pu mieux se passer pour tout le monde. Espérons que la prochaine bataille aura plus de succès."",
 
 ""Sans votre aide, l'humanité rejoindra l'Ancienne Terre et sera qu'une chose du passé. Mais nous ne pouvons pas laisser cette mission être la norme, nous devons faire mieux !"",","
@@ -147,7 +147,7 @@ Generic Missions,Mission_Generic_Briefing,Missions without anything unique happe
 ""La bataille est perdue mais pas la guerre - cependant nous ne pouvons pas continuer à perdre du terrain. Vous devez vous concentrer."",
 ","""Vos pilotes sont le coeur de votre machine de guerre. Sans eux, vous n'avez aucune chance.""","""J'ai demandé que les noms de vos pilotes tombés au combat soient ajoutés à notre mur commémoratif. Leur sacrifice ne sera pas oublié."",
 
-""Les Mechs de #squad sont puissants, mais je crains qu'ils ne soient pas assez nombreux pour les piloter."","
+""Les Mechs des #squad sont puissants, mais je crains qu'il ne reste pas assez de pilotes pour les piloter et aujourd'hui encore moins qu'hier."","
 ,,,,,,
 Generic Objectives,,"Some missions use generic objectives, so the CEO can pull from these lists to address those objectives ",,,,
 ,Mission_MechHealth_Briefing,This bonus objective is for limiting damage to the Mechs themselves.,"""Notre équipement et les ressources pour réparer votre Mechs sont limités - essayez d'encaisser un minimum de dégâts."",
@@ -155,26 +155,26 @@ Generic Objectives,,"Some missions use generic objectives, so the CEO can pull f
 
 ""Ce n'est pas Pinnacle ici - nous n'avons pas assez d'équipes d'ingénieurs pour réparer vos Mechs s'ils subissent des dégâts importants."",","""Il y aura peu de temps entre les escarmouches et nous avons besoin de vous et vos Mechs pleinement opérationnels. Faites preuve de prudence."",
 
-""Nos équipes de réparation robotisées sont hors service. Il sera difficile de vous assister pour la réparation de vos Mechs avant le prochain combat. Essayez de gardez ça en tête."",","""Malheureusement, la majeure partie de notre division d'ingénierie est occupée. Si #squad subissent trop de dégâts, nous ne pourrons peut-être pas les réparer."",
+""Nos équipes de réparation robotisées sont hors service. Il sera difficile de vous assister pour la réparation de vos Mechs avant le prochain combat. Essayez de gardez ça en tête."",","""Malheureusement, la majeure partie de notre division d'ingénierie est occupée. Si les #squad subissent trop de dégâts, nous ne pourrons peut-être pas les réparer."",
 
 ""Nous n'avons aucun personnel pour réparer vos Mechs s'ils sont endommagés. S'il vous plaît, faites ce que vous pouvez pour encaisser un minimum de dégâts."","
 ,Mission_MechHealth_Success,< 4 damage to mechs,"""Vos Mechs semblent presque intacts ! C'est un soulagement... cela nous permettra d'affecter nos équipes de réparation pour renforcer les abris des réfugiés."",
 
-""Vos Mechs sont à peine égratignés ! Cela nous permettra d'affecter nos équipes de réparation aux urgences dans d'autres régions."",","""Je vois que vous et #squad ont survécu au pire et réussi à subsister. Excellent."",
+""Vos Mechs sont à peine égratignés ! Cela nous permettra d'affecter nos équipes de réparation aux urgences dans d'autres régions."",","""Je vois que vous et les #squad avez survécu au pire. Excellent."",
 
 ""Les équipes de réparation me rapportent que vos Mechs ont à peine quelques égratignures - bien négocié. Nous pouvons réaffecter les équipes de contrôle des dommages à la sécurité civile et à la protection de la ville."",
 
 ""Vos Mechs n'ont presque pas subi de dégâts. Cela signifie que nous pouvons allouer des ressources supplémentaires et des équipes de réparation pour aider les centres de réfugiés ailleurs sur R.S.T."",
 ","""Votre capacité à vaincre les Veks avec un minimum de dégâts sur les Mechs est admirable. Si seulement tous les humains pouvaient montrer une telle préoccupation pour leurs homologues artificiels."",","""Un Succès - et seulement des dégâts mineurs sur vos Mechs, Commandant, enfin... des dégâts réparables par Détritus."",
 
-""Vos Mechs n'ont subi que des dégâts mineurs, mes ingénieurs sont certains qu'ils peuvent remettre #squad rapidement sur le terrain."","
+""Vos Mechs n'ont subi que des dégâts mineurs, mes ingénieurs sont certains qu'ils peuvent remettre les #squad rapidement sur le terrain."","
 ,Mission_MechHealth_Failure,>= 4 damage to mechs,"""On me dit que nous devrons réassigner trois équipes d'ingénieurs pour réparer vos Mechs. Je vous avais déjà dit que nos équipes d'ingénieurs avaient déjà assez de travail comme ça..."",","""Vos Mechs sont lourdement endommagés, plusieurs équipes d'ingénieurs ont été réassignées pour les réparer en ce moment même, même les équipes dédiées à la sécurité civile."",
 
 ""Les dégâts causés à vos Mechs sont importants - nous devrons appeler les équipes de réparation des centres villes si nous voulons rester affutés. Et nous le devons impérativement."",
 
 ""Vos Mechs sont tellement déchiquetés qu'ils sont prêts pour la casse. Il faudra que nos équipes de réparation travaillent deux fois plus dur pour les remettre en état de combattre !"",
 
-""Nous avons dû rappeler des ingénieurs des centres de réfugiés pour réparer les dégâts causés à #squad. Ne laissez pas cela se reproduire."",
+""Nous avons dû rappeler des ingénieurs des centres de réfugiés pour réparer les dégâts causés aux #squad. Ne laissez pas cela se reproduire."",
 
 ","""Ne laissez pas la coque renforcée de votre Mech vous conduire à de l'auto-satisfaction. Réparer son exosquelette est un processus lourd en matériaux avec un coût considérable."",
 
@@ -182,15 +182,15 @@ Generic Objectives,,"Some missions use generic objectives, so the CEO can pull f
 
 ""Nos équipes de réparation rapportent - ah, je cite... 'il y a plus de métal déchiqueté que de Mech' et concluent avec un rapport plutôt pessimiste des chances de réparation."",
 
-""Nos pilotes rapportent que #squad sont tellement endommagés qu'ils ne rentrent quasiment pas dans les baies d'amarrage. Nous devrons affecter du personnel supplémentaire pour les réparations."","
+""Nos pilotes rapportent que les #squad sont tellement endommagés qu'ils ne rentrent quasiment pas dans les baies d'amarrage. Nous devrons affecter du personnel supplémentaire pour les réparations."","
 ,,,,,,
 ,Mission_GridHealth_Briefing,Bonus objective for keeping power grid damage to a minimum,"""Les anciennes centrales électriques de cette île peuvent à peine répondre aux besoins de vos Mechs. S'il vous plaît essayez d'éviter tout dommage sur le Réseau !"",","""Le Réseau ici peut à peine alimenter vos Mechs. Combattez efficacement, ou vous serez dans le rouge plus vite que vous ne le pensez."",","""Nos noyaux de réacteurs sont gelés comme tout le reste. Nous ne pouvons pas économiser de l'énergie supplémentaire. Faites de la protection du Réseau une priorité."",
 
 
-""Ma puissance de sortie dans cette région est... <Connection Perdue>... <Puissance Réseau Faible>"",","""Le Réseau ici ne peut fournir qu'une puissance limitée. S'il subit des dégâts, vous et #squad n'auront peut-être pas assez de puissance pour combattre."",
+""Ma puissance de sortie dans cette région est... <Connexion Perdue>... <Puissance Réseau Faible>"",","""Le Réseau ici ne peut fournir qu'une puissance limitée. S'il subit des dégâts, vous et les #squad n'aurez peut-être pas assez de puissance pour combattre."",
 
 ""Le Réseau ici n'a jamais été destiné à alimenter du matériels comme vos Mechs. Nous avons, néanmoins, réussi à le faire fonctionner, mais à peine - minimisez les dégâts sur le Réseau tant que vous le pouvez."","
-,Mission_GridHealth_Success,< 3 grid damage,,"""On dirait que le Réseau a tenu - grâce à votre gestion habile du combat. Nous avons besoin de tout le pouvoir dont nous disposons pour la guerre."",","""Tout fonctionne à un rendement optimal. Je vous remercie."",","""Le Réseau maintenu, Commandant. Le secteur a toujours le pouvoir. Détritus vous remercie vous et #squad."",
+,Mission_GridHealth_Success,< 3 grid damage,,"""On dirait que le Réseau a tenu - grâce à votre gestion habile du combat. Nous avons besoin de tout le pouvoir dont nous disposons pour la guerre."",","""Tout fonctionne à un rendement optimal. Je vous remercie."",","""Le Réseau maintenu, Commandant. Le secteur a toujours le pouvoir. Détritus vous remercie vous et les #squad."",
 
 ""L'alimentation du Réseau a été ininterrompue. Vous avez combattu de façon conservatrice et efficace, louable."","
 ,Mission_GridHealth_Failure,>= 3 grid damage,"""Les Veks sont partis, mais les rapports sur les pertes arrivent toujours. Et nous n'avons même pas commencé à évaluer les dommages causés à l'infrastructure de l'île."", 
@@ -222,14 +222,14 @@ Generic Objectives,,"Some missions use generic objectives, so the CEO can pull f
 ""Commandant, nous devons exterminer tous les Veks dans ce secteur - aucun ne peut rester en vie, et aucun ne doit s'échapper."","
 ,Mission_KillAll_Success,All Vek Dead,"""Ces Veks ne nous causeront plus de problèmes ! Bien joué, à tous !"",
 
-""Les Veks ont été anéantis ! Beau spectacle, #squad !"",","""Un essaim Vek de moins à s'inquiéter. J'ai lu les rapports de bataille - je suis impressionné. Vous et #squad avez été très minutieux dans l'extermination."",
+""Les Veks ont été anéantis ! Beau spectacle, #squad !"",","""Un essaim Vek de moins à s'inquiéter. J'ai lu les rapports de bataille - je suis impressionné. Vous et les #squad avez été très minutieux dans l'extermination des Veks."",
 
 ""Votre rigueur dans l'assainissement sur le champ de bataille est appréciée. Les équipes de nettoyage signalent qu'aucun Vek n'a survécu."",
 
 ""Premièrement, nous brûlons les Veks à la surface, puis nous creuserons et nous les exterminerons comme vous l'avez fait ici."",
-","""Mes capteurs souterrains ne signalent aucun signe de vie. Les Veks sont tous morts. Vous avez rendu le secteur à nouveau sûr."",","""Les rapports indiquent que la présence de Vek dans votre secteur est à 0% et le succès de la mission à 100%. Vous et #squad avez nos remerciements."",
+","""Mes capteurs souterrains ne signalent aucun signe de vie. Les Veks sont tous morts. Vous avez rendu le secteur à nouveau sûr."",","""Les rapports indiquent que la présence de Vek dans votre secteur est à 0% et le succès de la mission à 100%. Vous et les #squad avez nos remerciements."",
 
-""Les Veks ne sont plus, et un autre secteur a été récupéré. Nous vous remercions, Commandant - vous et #squad."",
+""Les Veks ne sont plus, et un autre secteur a été récupéré. Nous vous remercions, Commandant - vous et les #squad."",
 
 ""Votre intervention a été couronnée de succès à 100%, Commandant. Les capteurs enregistrent aucune activité Vek dans le secteur."","
 ,Mission_KillAll_Failure,Some Vek survive,"""Vous avez laissé quelques Veks revenir à leurs ruches souterraines. Malheureusement, ils réapparaîtront bientôt et attaqueront une autre région."", 
@@ -253,7 +253,7 @@ Generic Objectives,,"Some missions use generic objectives, so the CEO can pull f
 ""L'A.C.I.D. peut détruire des ruches sous ce secteur - mais nous avons besoin que vous empêchiez les Veks de faire surface, le temps que l'A.C.I.D. fasse son travail."",
 
 ""Nous avons essayé de forer dans les ruches Veks dans cette région, mais ils remontent à la surface pour s'échapper. Gardez les autant que possible piégés sous terre."","
-,Mission_Block_Success,3 Vek Blocked,"""Tant que les Veks restent piégés sous terre, nos reliques de l'Ancienne Terre et les gens sont en sécurité. Merci, #squad."",","""La façon dont vous avez empêché les Veks de remonter à la surface était impressionnante. Et je ne suis pas facilement impressionné. Vous et #squad avez mon respect."",","""Merci d'avoir minimisé votre impact sur la surface. Je reçois encore des Pings positifs de la majorité des micro-robots de la région."", ","""#squad a réussi, Commandant ! Vous avez contenu l'invasion Vek - le secteur est à nous !"",
+,Mission_Block_Success,3 Vek Blocked,"""Tant que les Veks restent piégés sous terre, nos reliques de l'Ancienne Terre et les gens sont en sécurité. Merci, #squad."",","""La façon dont vous avez empêché les Veks de remonter à la surface était impressionnante. Et je ne suis pas facilement impressionnée. Vous et les #squad avez mon respect."",","""Merci d'avoir minimisé votre impact sur la surface. Je reçois encore des Pings positifs de la majorité des micro-robots de la région."", ","""Les #squad ont réussi, Commandant ! Vous avez contenu l'invasion Vek - le secteur est à nous !"",
 
 ""Nous pouvons maintenant occuper le secteur en toute sécurité, Commandant. Les Veks qui étaient sous terre ne sont plus."" "
 ,Mission_Block_Failure,"Did not block 3 Vek
@@ -300,7 +300,7 @@ Universal Missions,,Every corporation island could use these missions,,,not used
 ""Il en faudra aux Veks pour stopper Ol' Horace. Nous le mettrons de nouveau sur pieds en un rien de temps!"",","""Pourquoi ligne ferroviaire a t-elle été interrompu ? Le train aurait pu être détruit... mes ingénieurs pensent que ses dégâts sont mineurs, mais nous ne pouvons pas nous permettre de fermer la ligne le temps pour des réparations."",
 
 ""Nous envoyons immédiatement des équipes en direction du train - leur priorité étant de le faire fonctionner."",
-",,"""Le train a été endommagé, mais #squad a sauvé l'équipage. Vous avez notre gratitude, Commandant."",
+",,"""Le train a été endommagé, mais les #squad ont sauvé l'équipage. Vous avez notre gratitude, Commandant."",
 
 ""Le train a été endommagé, mais pas irréparable - grâce à vous, nos ingénieurs peuvent le remettre en marche."","
 ,,,,,,
@@ -340,12 +340,12 @@ Universal Missions,,Every corporation island could use these missions,,,not used
 ,Mission_BlobBoss_Briefing,,"""Une sorte de... masse gélatineuse s'approche de notre quartier général ! Nous n'avons jamais rien vu de tel - vous devez l'arrêter !""","""Les capteurs ont détecté un Vek inconnu... une sorte de créature gélatineuse massive. Quoi qu'il en soit, ne la laissez pas atteindre la tour !""",,
 ,Mission_BlobBoss_Failure,,"""Nos scientifiques croient que le Vek Suintant a conservé assez de sa biomasse pour rester une menace pour la région. Regrettable.""
 ","""Vous avez échoué à la mission. La créature conserve encore assez de masse pour se reformer et attaquer à nouveau.""",,
-,Mission_BlobBoss_Success,,"""Ha ! Cela devrait chasser le Vek de notre Île Archive pour de bon ! Merci pour vos efforts afin de préserver notre passé, #squad.""","""Je ne sais pas comment vous avez réussi, mais la créature a été détruite - elle ne constitue plus une menace. Je vous remercie - vous et #squad.""",,
+,Mission_BlobBoss_Success,,"""Ha ! Cela devrait chasser le Vek de notre Île Archive pour de bon ! Merci pour vos efforts afin de préserver notre passé, #squad.""","""Je ne sais pas comment vous avez réussi, mais la créature a été détruite - elle ne constitue plus une menace. Je vous remercie - vous et les #squad.""",,
 ,,,,,,
 ,Mission_SpiderBoss_Briefing,,"""Une abominations Vek, une sorte de monstruosité ressemblant à une araignée, approche de notre quartier général. Lui et ses rejetons doivent être arrêtés !""","""Une abomination Vek a été aperçue - elle engendre une horde d'araignées Vek et attaque la Tour R.S.T. . Nous avons besoin de vos Mechs maintenant.""",,
 ,Mission_SpiderBoss_Failure,,"""Hélas, avec cette abomination Vek encore vivante, les Veks restent une menace sérieuse dans la région. Je ne peux que vous souhaiter d'être plus efficace sur les autres îles."" 
 ","""Si vous êtes vraiment le dernier espoir de l'humanité, alors nous sommes perdus. Cette araignée Vek attaquera encore, je pense que vous ne serez plus là pour nous aider la prochaine fois.""",,
-,Mission_SpiderBoss_Success,,"""Avec cette abomination Vek détruite, nous ne devrions plus voir l'apparition de nouvelles ruches sur notre île. Merci à vous et #squad, vous nous avez sauvé !""","""Je dois admettre que votre prestation était impressionnante. Nous pouvons souffler maintenant sachant que l'abomination Vek et ses rejetons sont morts""",,
+,Mission_SpiderBoss_Success,,"""Avec cette abomination Vek détruite, nous ne devrions plus voir l'apparition de nouvelles ruches sur notre île. Merci à vous et les #squad, vous nous avez sauvé !""","""Je dois admettre que votre prestation était impressionnante. Nous pouvons souffler maintenant sachant que l'abomination Vek et ses rejetons sont morts""",,
 ,,,,,,
 ,Mission_BotBoss_Briefing,,,,"""Une de nos machines a pris le contrôle d'une ruche Vek et lance une attaque contre la Tour Pinnacle ! Vous devez la stopper !""",
 ,Mission_BotBoss_Boss,,,,"""Je trouverai une façon d'éteindre cette machine. Elle est devenue trop dangereuse pour continuer d'exister. """,
@@ -354,10 +354,10 @@ Universal Missions,,Every corporation island could use these missions,,,not used
 ,,,,,,
 ,Mission_BossGeneric_Briefing,,"""Une sorte d'abomination Vek approche de notre quartier général ! Elle doit être stoppée !""","""Une monstruosité Vek attaque notre tour. Nous devons compter sur vous une dernière fois pour nous aider.""","""La Tour Pinnacle est attaquée. Mon processeur d'analyse n'est pas capable d'identifier les espèces Veks qui nous menacent. Soyez prudent."",","""Nos capteurs ont détecté un Vek que nous n'avions jamais rencontré auparavant... Je crains qu'il soit plus coriace que les autres."",
 
-""Nous avons détecté un Vek inconnu s'approchant du Quartier Général de Detritus. Nous rassemblons toutes les informations que nous pouvons, Commandant, mais nous avons besoin de #squad. "","
-,Mission_BossGeneric_Boss,,"""Avec l'abomination Vek encore en vie, les Vek restent une menace sérieuse pour la région. Je ne peux que vous souhaitez d'être plus efficace sur les autres îles.""","""Si vous êtes vraiment le dernier espoir de l'humanité, alors nous sommes perdus. Cette monstruosité Vek attaquera encore, je pense que vous ne serez plus là pour nous aider la prochaine fois.""","""Je vais assigner un drone pour suivre et analyser ce nouveau Vek. Nous devrions obtenir plus de données sur lui pour mieux le combattre."",","""Ce Vek monstrueux a survécu - et il nous attaquera probablement encore une fois. Si #squad ne peuvent pas le stopper, je crains que nos forces n'aient aucune chance."","
+""Nous avons détecté un Vek inconnu s'approchant du Quartier Général de Detritus. Nous rassemblons toutes les informations que nous pouvons, Commandant, mais nous avons besoin des #squad. "","
+,Mission_BossGeneric_Boss,,"""Avec l'abomination Vek encore en vie, les Vek restent une menace sérieuse pour la région. Je ne peux que vous souhaitez d'être plus efficace sur les autres îles.""","""Si vous êtes vraiment le dernier espoir de l'humanité, alors nous sommes perdus. Cette monstruosité Vek attaquera encore, je pense que vous ne serez plus là pour nous aider la prochaine fois.""","""Je vais assigner un drone pour suivre et analyser ce nouveau Vek. Nous devrions obtenir plus de données sur lui pour mieux le combattre."",","""Ce Vek monstrueux a survécu - et il nous attaquera probablement encore une fois. Si les #squad ne peuvent pas le stopper, je crains que nos forces n'aient aucune chance."","
 ,Mission_BossGeneric_Tower,,"""Vous avez survécu, mais hélas, notre quartier général est détruit... Nous avons perdu tellement des vies face à ces créatures !""","""Vous avez laissé notre quartier général se faire détruire par ces créatures. Nous comptions sur vous... Enfin JE comptais sur vous.""","""Mes serveurs de données dans le Tour Pinnacle ont subi de graves dommages. Je dois supervision leurs réparations."",","""Notre quartier général a été détruit. Nous évacuons tous les survivants que nous pouvons, mais plus de 30% du personnel de Detritus occupait le QG quand il est tombé."","
-,Mission_BossGeneric_Success,,"""Avec cette abomination Vek détruite, nous ne devrions plus voir l'apparition de nouvelles ruches sur notre île. Vous nous avez sauvé !""","""Je dois admettre que votre prestation était impressionnante. Nous sommes plus sereins maintenant que nous savons que cette Montruosité Vek n'est plus.""","""Des milliers de vie ont été sauvées aujourd'hui. Je suis reconnaissant pour le temps que vous avez sacrifié pour nous aider."",","""L'abomination Vek est morte, et notre quartier général est intact. Vous et #squad avez nos remerciements. "","
+,Mission_BossGeneric_Success,,"""Avec cette abomination Vek détruite, nous ne devrions plus voir l'apparition de nouvelles ruches sur notre île. Vous nous avez sauvé !""","""Je dois admettre que votre prestation était impressionnante. Nous sommes plus sereins maintenant que nous savons que cette Montruosité Vek n'est plus.""","""Des milliers de vie ont été sauvées aujourd'hui. Je suis reconnaissant pour le temps que vous avez sacrifié pour nous aider."",","""L'abomination Vek est morte, et notre quartier général est intact. Vous et les #squad avez nos remerciements. "","
 ,,,,,,
 Archive Inc Missions,Mission_Airstrike_Briefing,,"""Cette région possédait un ancien aérodrome qui peut vous fournir un support aérien. Nous ne connaissons pas encore les engins nouvellement découverts mais nous ferons de notre mieux."", 
 
@@ -389,7 +389,7 @@ Archive Inc Missions,Mission_Airstrike_Briefing,,"""Cette région possédait un an
 ",,,
 ,Mission_Satellite_Success,,"""Nous récupérons déjà des données des satellites en orbite. Excellent travail, dorénavant, nous serons en mesure de prévoir et contrer les attaques Veks !"", 
 
-""J'ai rêvé de lancer ces satellites dans l'espace toute ma vie ! C'est incroyable de voir que la technologie de l'Ancienne Terre en action et continuant de remplir son objectif."", 
+""J'ai rêvé de lancer ces satellites dans l'espace toute ma vie ! C'est incroyable de voir que la technologie de l'Ancienne Terre en action et qu'elle peut continuer de remplir ses objectifs."", 
 
 ""De mon point de vue personnel, j'étais toujours triste de voir ces satellites exposés ainsi et prenant la poussière. Maintenant qu'ils sont dans l'espace, ils aident l'humanité et c'est pour ça qu'ils ont été créés !"",
 ",,,
@@ -540,7 +540,7 @@ Detritus Missions,Mission_Barrels_Briefing,Large Vats of A.C.I.D. need to be des
 ,,,,,,
 ,Mission_Disposal_Briefing,Play uses Disposal Unit (needs a name) -- It launches a A.C.I.D. projectile that immediately desolves a large area. The player must use it to melt all mountains on the map. (For the resources? Because Vek are in them?),,,,"""Les ruches Vek infestent les montagnes dans ce secteur. Un lanceur d'A.C.I.D.est stationné dans la région - défendez-le pendant qu'il détruit la chaîne de montagnes."",
 
-""Nous avons besoin de #squad pour défendre ce lanceur d'A.C.I.D. pendant qu'il dissout les ruches Vek infestant les montagnes."","
+""Nous avons besoin des #squad pour défendre ce lanceur d'A.C.I.D. pendant qu'il dissout les ruches Vek infestant les montagnes."","
 ,Mission_Disposal_Failure,Disposal unit destroyed + Mountains remain,,,,"""Décevant - le lanceur et son équipage sont morts, tandis que les ruches Veks ont survécu. Nous devrons abandonner le secteur."",
 
 ""Le lanceur d'A.C.I.D. a été détruit, avec son équipage. Je vais informer les familles personnellement, et mettre le secteur en quarantaine."","
@@ -550,7 +550,7 @@ Detritus Missions,Mission_Barrels_Briefing,Large Vats of A.C.I.D. need to be des
 ,Mission_Disposal_Disposal,Disposal Unit dead,,,,"""Le lanceur d'A.C.I.D.a été détruit avec son équipage - mais leur sacrifice n'a pas été vain. Les ruches Vek ont été éradiquées."""
 ,Mission_Disposal_Success,"Disposal Unit Survives, Mountains destroyed",,,,"""Votre mission a été un succès, commandant - Le lanceur d'A.C.I.D. est intact et les Veks ont été désintégrés."","
 ,,,,,,
-,Mission_AcidTank_Briefing,Player controls an A.C.I.D. tank (needs name?) for the mission. It applies A.C.I.D. to units. Mission is to destroy Vek that have the A.C.I.D. applied (so the A.C.I.D. has a chance to recycle the corpses?),,,,"""Detritus a déployé un tank A.C.I.D. dans ce secteur pour #squad - utilisez-le pour étudier les effets de A.C.I.D. sur les Veks."",
+,Mission_AcidTank_Briefing,Player controls an A.C.I.D. tank (needs name?) for the mission. It applies A.C.I.D. to units. Mission is to destroy Vek that have the A.C.I.D. applied (so the A.C.I.D. has a chance to recycle the corpses?),,,,"""Detritus a déployé un tank A.C.I.D. dans ce secteur pour les #squad - utilisez-le pour étudier les effets de A.C.I.D. sur les Veks."",
 
 ""Un tank A.C.I.D. a été déployé dans ce secteur. Tuez tous les Veks touchés par ce tank, puis sécurisez le secteur pour pouvoir étudier les cadavres Vek."","
 ,Mission_AcidTank_Failure,Not enough units with acid killed,,,,"""Trop de Vek ont échappé aux tests à l'A.C.I.D. - nous n'avons pas assez de cadavres Vek pour effectuer une analyse correcte."""
@@ -568,7 +568,7 @@ Detritus Missions,Mission_Barrels_Briefing,Large Vats of A.C.I.D. need to be des
 ,Mission_Power_Partial,One Power Plant destroyed,,,,"""Un des deux centrales a été détruite, et il n'y a pas eu de perturbation dans le Réseau d'Énergie. Vous et vos pilotes avez notre gratitude, commandant."","
 ,Mission_Power_Failure,Both Power Plants destroyed,,,,"""La perte des deux centrales a non seulement mis hors courant nos installations mais également des centres de réfugiés. Je dois relocaliser ces gens immédiatement."","
 ,,,,,,
-,Mission_Belt_Briefing,"Normal battle, but the map has massive conveyor belts that push the units around. (Normally used for transporting waste and recycling? Used for transportation of civilians?)",,,,"""Normalement, nous utilisons ces convoyeurs à bande pour transporter les cuves de rebut - mais vous et #squad pouvez les utiliser contre le Veks."","
+,Mission_Belt_Briefing,"Normal battle, but the map has massive conveyor belts that push the units around. (Normally used for transporting waste and recycling? Used for transportation of civilians?)",,,,"""Normalement, nous utilisons ces convoyeurs à bande pour transporter les cuves de rebut - mais vous et les #squad pouvez les utiliser contre le Veks."","
 ,Mission_Belt_Success,(Generic success),,,,"La chaine de transport est sécurisée. Merci, commandant - nous n'avions pas pensé à utiliser les convoyeurs à bande à titre militaire."","
 ,,,,,,
 ,Mission_Teleporter_Briefing,"Normal battle, but the map has teleporter spaces that can warp units between different spaces on the map. (Again, why? Transport of waste/people/tech/etc?)",,,,"""C'est l'un de nos sites téléporteurs - il transporte les déchets en démontant et en réassemblant la matière. Vous pourriez être en mesure d'utiliser ces téléporteurs contre les Veks."", 

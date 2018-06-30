@@ -592,7 +592,7 @@ function Mission:BaseObjectives()
 		elseif obj == BONUS_GRID then
 			Game:AddObjective("Perdre moins de 3 bâtiments du Réseau d'Énergie\n".."(Bâtiment(s) Perdu(s) : "..self:GetDamage()..")", status)
 		elseif obj == BONUS_MECHS then
-			Game:AddObjective("Subir moins de 4 pts de dégâts".."\n(Actuel : "..Board:GetMechDamage()..")", status)
+			Game:AddObjective("Subir moins de 4 pts de dégâts".."\n (Actuel : "..Board:GetMechDamage()..")", status)
 		elseif obj == BONUS_BLOCK then
 			local base = "Bloquer 3 fois l'apparition de Veks"
 			if IsLargeFont() then
@@ -600,7 +600,7 @@ function Mission:BaseObjectives()
 			end
 			Game:AddObjective(base.."(Actuel : "..self.BlockedSpawns..")",status)
 		elseif obj == BONUS_KILL_FIVE then
-			Game:AddObjective("Tuer au moins "..self:GetKillBonus().." Ennemis \n".."(Actuel : "..self.KilledVek..")",status)
+			Game:AddObjective("Tuer au moins "..self:GetKillBonus().." Ennemis \n".." (Actuel : "..self.KilledVek..")",status)
 		elseif obj == BONUS_ASSET then
 			local asset = _G[self.AssetId]
 			Game:AddObjective("Protéger "..asset.Name, status, asset.Reward, 1)

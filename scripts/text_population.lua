@@ -1,12 +1,12 @@
 
 local PopEvent = {
-	Opening = { "Nous sommes sauvés !", "J'savais qu'ils viendraient !", "#squad !", "C'est #squad !", "Maintenant les Veks n'ont qu'à bien s'tenir !", "Les Veks vont le regretter maintenant !", "Prends mes lunettes !\nJe veux voir !", "Poussez-vous de la fenêtre !", "Que se passe-t-il ?", "Les Mechs ont atterri !", "#corp a envoyé des Mechs !", "Quel est ce bruit ?", "Tu as entendu quelque chose ?", "C'est bien eux ?", "Ils sont là !", "'Man, regarde !", "Les Mechs !", "'Pa, regarde !", "Nous sommes sauvés !", "Enfin !", "Les secours sont là !", "Ils sont venus !", "Les Mechs sont là !", "Ils vont nous protéger !", },
+	Opening = { "Nous sommes sauvés !", "J'savais qu'ils viendraient !", "Les #squad !", "Ce sont les #squad !", "Maintenant les Veks n'ont qu'à bien s'tenir !", "Les Veks vont le regretter maintenant !", "Prends mes lunettes !\nJe veux voir !", "Poussez-vous de la fenêtre !", "Que se passe-t-il ?", "Les Mechs ont atterri !", "#corp a envoyé des Mechs !", "Quel est ce bruit ?", "Tu as entendu quelque chose ?", "C'est bien eux ?", "Ils sont là !", "'Man, regarde !", "Les Mechs !", "'Pa, regarde !", "Nous sommes sauvés !", "Enfin !", "Les secours sont là !", "Ils sont venus !", "Les Mechs sont là !", "Ils vont nous protéger !", },
 	
 	Closing = { "Merci !", "Ils sont en fuite !", "Les Veks s'enfuient !", "Nous sommes sauvés !", "C'était impressionnant !", "Incroyable !", "Ils l'ont fait !", "C'est fini !", "Nous avons gagné !", "Nous avons survécu !", "Victoire !", "Ils sont partis !", "Ils fuient !", "Vous les avez effrayés !", },
 	
-	Closing_Dead = { "Merci !", "Je ne peux pas le croire !", "Mort ? Tous ?", "Ils les ont tous tués ?", "Ils sont tous morts !", "Nous sommes sauvés !", "Vous les avez éliminés !", "#squad les a battus !", "Les Mechs les ont anéantis !", "Ils sont partis !", "Plus de Vek !", "Incroyable !", "Vous avez gagné !", "Nous avons survécu !",},
+	Closing_Dead = { "Merci !", "Je ne peux pas le croire !", "Mort ? Tous ?", "Ils les ont tous tués ?", "Ils sont tous morts !", "Nous sommes sauvés !", "Vous les avez éliminés !", "Les #squad les ont battus !", "Les Mechs les ont anéantis !", "Ils sont partis !", "Plus de Vek !", "Incroyable !", "Vous avez gagné !", "Nous avons survécu !",},
 	
-	Closing_Perfect = { "Merci !", "Nous allons tous bien !", "Tout le monde va bien ?", "#squad nous a sauvé !", "Trois hourras pour #squad !", "#corp est sauvée !", "Rien n'a été endommagé !", "#squad sont des héros !", "Victoire parfaite !", "Victoire !" , "As-tu vu ça ?", "Je ne peux pas le croire !" },
+	Closing_Perfect = { "Merci !", "Nous allons tous bien !", "Tout le monde va bien ?", "Les #squad nous ont sauvés !", "Trois hourras pour les #squad !", "#corp est sauvée !", "Rien n'a été endommagé !", "Les #squad sont des héros !", "Victoire parfaite !", "Victoire !" , "As-tu vu ça ?", "Je ne peux pas le croire !" },
 	
 	Closing_Bad = { "Merci... Je suppose.", "Ils ont fait plus de mal que de bien...", "Ma famille... partie...", "Tellement de pertes...", "Sont-ils enfin partis ?", "Est-ce fini ?", "Il est temps de reconstruire..."},
 	

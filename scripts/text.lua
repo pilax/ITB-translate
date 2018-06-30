@@ -881,30 +881,30 @@ local Global_Texts = {
 	
 	Status_Full = "Certains effets ne sont pas listés en raison d'un manque d'espace",
 	
-	SquadName_Filler = "Voyageurs Temporel",
+	SquadName_Filler = "Voyageurs Temporels",
 	
-	TipTitle_Archive_A = "Les marcheurs de la Faille",
+	TipTitle_Archive_A = "Marcheurs de la Faille",
 	TipText_Archive_A = "Ils furent les tous premiers Mechs à combattre les Veks. Ils sont efficaces et fiables.",
 	
-	TipTitle_Archive_B = "Steel Judoka",
+	TipTitle_Archive_B = "Judokas d'Acier",
 	TipText_Archive_B = "Ces Mechs sont spécialisés dans des techniques de manipulation d'attaques de l'adversaire, forçant les Veks à s'attaquer entre eux.",
 	
-	TipTitle_Rust_A = "Les Vieilles Epaves",
+	TipTitle_Rust_A = "Carcasses Rouillées",
 	TipText_Rust_A = "Les manipulateurs de conditions climatiques de la Corporation R.S.T permettent à ces Mechs de profiter pleinement des brouillards électriques.",
 	
-	TipTitle_Rust_B = "Les Géants de la Flamme",
+	TipTitle_Rust_B = "Béhémoths Ardents",
 	TipText_Rust_B = "Ne craignant pas les flammes, ces Mechs brûleront tout sur leur passage.",
 	
-	TipTitle_Pinnacle_A = "La Garde de Zenith",
+	TipTitle_Pinnacle_A = "Gardiens de Zénith",
 	TipText_Pinnacle_A = "Ces Mechs sont le fruit de la combinaison des technologies offensives Detritus et des technologies défensives Pinnacle. Le meilleur des deux mondes !",
 	
-	TipTitle_Pinnacle_B = "Les Titans de Glace",
+	TipTitle_Pinnacle_B = "Titans Polaires",
 	TipText_Pinnacle_B = "Ces Titans s'appuient sur le Lanceur Cryo, une arme puissante qui nécessite un Pilote expérimenté pour la maîtriser.",
 	
-	TipTitle_Detritus_A = "Blitzkrieg",
+	TipTitle_Detritus_A = "Géants Foudroyants",
 	TipText_Detritus_A = "Les ingénieurs de chez R.S.T. se sont basés sur les capacités de destruction massive de la foudre pour concevoir cette Escouade.",
 	
-	TipTitle_Detritus_B = "Les Mechstructeurs",
+	TipTitle_Detritus_B = "Mechstructeurs",
 	TipText_Detritus_B = "Ces Mechs produisent des dégâts spectaculaires mais doivent s'appuyer sur des Nano-Robots mangeurs de cadavres Vek pour rester en vie.",
 	
 	TipTitle_Random = "Escouade Aléatoire",

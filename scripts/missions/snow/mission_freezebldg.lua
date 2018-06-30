@@ -35,7 +35,7 @@ function Mission_FreezeBldg:UpdateObjectives()
 	local count = math.max(0,5 - self:CountThawed())
 	local status1 = count  == 0 and OBJ_COMPLETE or OBJ_STANDARD
 	local buildings = count == 1 and "building" or "buildings"
-	local base = "Libérer 5 bâtiments de la glace \n(Actuel : "
+	local base = "Libérer 5 bâtiments de la glace \n (Actuel : "
 	if IsLargeFont() then
 		base = "Libérer 5 bâtiments\nde la glace (Actuel : "
 	end

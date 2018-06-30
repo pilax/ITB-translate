@@ -6,28 +6,28 @@ function getStartingSquad(choice)
 
 	if choice == SQUAD_ARCHIVE_A then
 		pawns = {"PunchMech", "TankMech", "ArtiMech"} 
-		name = "Les marcheurs de la Faille"
+		name = "Marcheurs de la Faille"
 	elseif choice == SQUAD_RUST_A then
 		pawns = {"JetMech", "RocketMech",  "PulseMech"}
-		name = "Les Vieilles Epaves"
+		name = "Carcasses Rouillées"
 	elseif choice == SQUAD_PINNACLE_A then
 		pawns = {"LaserMech", "ChargeMech", "ScienceMech"}
-		name = "La Garde de Zenith"
+		name = "Gardiens de Zenith"
 	elseif choice == SQUAD_DETRITUS_A then
 		pawns = {"ElectricMech", "WallMech", "RockartMech"}
-		name = "Blitzkrieg"
+		name = "Géants Foudroyants"
 	elseif choice == SQUAD_ARCHIVE_B then
 		pawns = {"JudoMech", "DStrikeMech", "GravMech" }
-		name = "Steel Judoka"
+		name = "Judokas d'Acier"
 	elseif choice == SQUAD_RUST_B then
 		pawns = {"FlameMech", "IgniteMech", "TeleMech"}
-		name = "Les Géants de la Flamme"
+		name = "Béhémoths Ardents"
 	elseif choice == SQUAD_PINNACLE_B then
 		pawns = {"GuardMech", "MirrorMech", "IceMech" }  
-		name = "Les Titans de Glace"
+		name = "Titans Polaires"
 	elseif choice == SQUAD_DETRITUS_B then
 		pawns = {"LeapMech", "UnstableTank", "NanoMech"}
-		name = "Les Mechstructeurs"
+		name = "Mechstructeurs"
 	elseif choice == SQUAD_SECRET then
 		pawns = {"BeetleMech","HornetMech","ScarabMech"}
 		name = "Escouade Secrète"

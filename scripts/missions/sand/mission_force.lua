@@ -74,5 +74,5 @@ function Mission_Force:UpdateObjectives()
 	local mountainStatus = (self.Mountains >= self.MountainsGoal) and OBJ_COMPLETE or OBJ_STANDARD
 --	local enemyStatus = (self.Enemies >= self.EnemiesGoal) and OBJ_COMPLETE or OBJ_STANDARD
 	--Game:AddObjective("Kill "..math.max(0,(self.EnemiesGoal - self.Enemies)).." Ennemis", enemyStatus)
-	Game:AddObjective("Détruire 2 montagnes \n(Actuel : "..self.Mountains..")", mountainStatus)
+	Game:AddObjective("Détruire 2 montagnes \n (Actuel : "..self.Mountains..")", mountainStatus)
 end
