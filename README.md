@@ -37,6 +37,7 @@ Par défaut sur Steam : Steam\steamapps\common\Into the Breach\
 Il reste encore quelques incohérence de traduction ou certaines petites choses à pauffiner.
 Si vous repérez des coquilles, fautes, incohérence ou autres, n'hésitez pas à utiliser l'onglet "Issues" afin de nous le signaler pour que nous puissions corriger et mettre à jour le pack.
 
+https://github.com/pilax/ITB-translate/issues
 
 # Rermerciements
 
