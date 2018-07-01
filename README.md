@@ -22,7 +22,7 @@ https://github.com/pilax/ITB-translate/raw/master/package/FR-Pack.rar
 
 # Installation
 
-¤ Avant d'installer le pack, il vous est conseillé de sauvegarder les fichiers et répertoires du jeu suivant que vous trouverez par défaut dans \Steam\steamapps\common\Into the Breach
+¤ Avant d'installer le pack, il vous est conseillé de sauvegarder les fichiers et répertoires du jeu suivant, que vous trouverez par défaut dans \Steam\steamapps\common\Into the Breach
 - Breach.exe : Le fichier executable du jeu
 - \Ressources\Ressource.dat : Le fichier ressource.dat contenant les images et fonts modifiées.
 - \Script\ : Sauvegardez tout ce répertoire, il contient la majoritée de la traduction du jeu.
