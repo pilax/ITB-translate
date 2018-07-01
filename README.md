@@ -39,7 +39,7 @@ Si vous repérez des coquilles, fautes, incohérence ou autres, n'hésitez pas �
 
 https://github.com/pilax/ITB-translate/issues
 
-# Rermerciements
+# Remerciements
 
 Merci à Subset Games pour ce jeu fantastique !
 
