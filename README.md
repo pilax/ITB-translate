@@ -15,7 +15,7 @@ Le developpeur principal ayant quitté le projet, Mengpo1 et Pilax ont décidé 
 
 Vous pourrez trouver le projet posté sur le forum officiel de Subset Games ici :
 
-https://www.subsetgames.com/forum/viewforum.php?f=25
+https://www.subsetgames.com/forum/viewtopic.php?f=25&t=33355&sid=f5a5b85ab9f0cbb981d020b879475fc1
 
 
 # Téléchargement
