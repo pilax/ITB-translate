@@ -1,6 +1,6 @@
 # A propos du Projet
 
-Bienvenu sur la traduction du Jeu Into The Breach de Subset Gamesen Français.
+Bienvenu sur la traduction du Jeu Into The Breach de Subset Games en Français.
 
 Fiche info du jeu : https://subsetgames.com/itb.html
 
@@ -11,6 +11,10 @@ Projet initial : https://github.com/brainfoolong/IntoTheBreachTranslations
 
 
 Mais le developpeur principal s'étends retiré du projet, Mengpo1 et Pilax ont décidé de continuer le projet, de façon plus empirique afin de finir la traduction du jeu, modifier les images le nécessitant ainsi que la Font (où il subsiste encore quelques imperfections).
+
+
+Vous pourrez trouver le projet posté sur le forum officiel de Subset Games ici :
+http://
 
 
 # Téléchargement
