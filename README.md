@@ -17,7 +17,7 @@ Mais le developpeur principal s'étends retiré du projet, Mengpo1 et Pilax ont 
 
 La traduction est à présent terminée et vous pouvez la télécharger en suivant le lien ci-dessous :
 
-https://github.com/pilax/ITB-translate/blob/master/package/FR-Pack.rar
+https://github.com/pilax/ITB-translate/raw/master/package/FR-Pack.rar
 
 
 # Installation
