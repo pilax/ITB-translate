@@ -36,9 +36,6 @@ https://github.com/pilax/ITB-translate/raw/master/package/FR-Pack.rar
 ¤ Une fois la sauvegarde du jeu effectuée, vous pouvez extraire directement FR-Pack.rar dans le répertoire où vous avez installé Into The Breach.
 
 
-¤ NB : À noter que l'EXE modifié et fourni dans le pack n'est pas celui de Steam mais celui de HumbleBundle.
-
-
 # Défauts et Contributions
 
 Il reste encore quelques incohérences de traduction ou certaines petites choses à paufiner (notamment les noms des escouades et certains noms de régions qui ne rentrent pas dans les cadres etc.)
