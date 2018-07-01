@@ -4,9 +4,11 @@ Bienvenu sur la traduction du Jeu Into The Breach de Subset Gamesen Français.
 
 Fiche info du jeu : https://subsetgames.com/itb.html
 
+
 Le projet initial à débuté avec Brainfoolong ayant mis différents outils à disposition pour traduire ITB dans tout les langues, pour ceux souhaintant intégrer le projet.
 
 Projet initial : https://github.com/brainfoolong/IntoTheBreachTranslations
+
 
 Mais le developpeur principal s'étends retiré du projet, Mengpo1 et Pilax ont décidé de continuer le projet, de façon plus empirique afin de finir la traduction du jeu, modifier les images le nécessitant ainsi que la Font (où il subsiste encore quelques imperfections).
 
@@ -23,6 +25,7 @@ https://github.com/pilax/ITB-translate/blob/master/package/FR-Pack.rar
 - Breach.exe : Le fichier executable du jeu
 - \Ressources\Ressource.dat : Le fichier ressource.dat contenant les images et fonts modifiées.
 - \Script\ : Sauvegardez tout ce répertoire, il contient la majoritée de la traduction du jeu.
+
 
 ¤ Une fois la sauvegarde du jeu effectuée, vous pouvez extraire directement FR-Pack.rar dans le répertoire où vous avez installé Into The Breach.
 Par défaut sur Steam : Steam\steamapps\common\Into the Breach\
