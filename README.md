@@ -48,7 +48,7 @@ https://github.com/pilax/ITB-translate/issues
 
 Merci à Subset Games pour ce jeu fantastique !
 
-Merci également à Brainfoolong pour le projet initial qui nous à permis de faire cette traduction.
+Merci également à Brainfoolong pour le projet initial qui nous a permis de faire cette traduction.
 
 Merci Mengpo1 pour ton aide si précieuse ! Sans toi ce projet n'aurait jamais vu le jour !
 
