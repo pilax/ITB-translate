@@ -89,7 +89,7 @@ Game States,Gamestart,This happens at the start of a new game,,"""Je suis de ret
 ""Bonjour...? Est-ce que j'ai réussi ? Oh... Je capte des signaux des îles maintenant. Bonjour, là-bas !"",
 ""Îles ! C'est #self_full... Je sais que cela peut sembler étrange, mais je vous connais tous déjà, et c'est super de vous revoir !""","""Faites-moi savoir ce dont vous attendez de moi, commandant. Je peux aider à organiser les îles en une force de combat unie contre les Vek, il suffit de dire un mot."",
 ""Nous n'avons pas beaucoup de temps. Chaque seconde gaspillées en débat inutile donne du terrain au Vek."",
-""Commander, it's good to see you again... you may not remember me, but... I'm here to do whatever I can against the Vek.""","""Citoyens des îles - n'ayez pas peur ! Je, #self_full suis venu détruire les Veks !"", 
+""Commandant, content de vous revoir... vous ne vous souvenez peut-être pas de moi mais... Je suis ici pour faire le nécessaire contre les Veks.""","""Citoyens des îles - n'ayez pas peur ! Moi, #self_full, je suis venu détruire les Veks !"", 
 ""Peuples des îles, je suis là - du futur ! Je suis venu pour vous aider pour... Il y a quelqu'un ? Ce truc est en marche ?"",
 ""Une autre ligne temporelle, une autre opportunité pour #self_full d'être sous les feux des projecteurs !"",
 ""S'il vous plaît, s'il vous plait - d'abord, je viens à votre secours, ENSUITE je signe les autographes.""","""D'accord, écoutez. Notre objectif principal est de protéger ces îles. Si nous y arrivons, nous pourrions avoir une chance de gagner cette guerre."",
