@@ -659,7 +659,7 @@ Mid- Battle,MissionStart,Generic mission start,"""Armes : Fonctionnelles"",
 ""Je vous suis vraiment reconnaissante pour votre aide, beaucoup de vies ont été sauvées ici."",","""Les capteurs de Detritus ne détectent plus aucun signe Vek."",
 ""Vous avez nettoyé complètement le secteur ! Merci, Commandant !"""
 ,MissionEnd_Retreat,Generic mission end when enemies retreat,"""Mise à Jour : Retraite ennemie""","""Nous avons remballé les Veks... j'espère qu'ils ne reviendront pas."",
-""Nous les aurons tous la prochaine fois. Le reste des Veks n'iront pas bien loin."",","""Nous avons remballés les Veks, Commandant."",
+""Nous les aurons tous la prochaine fois. Le reste des Veks n'ira pas bien loin."",","""Nous avons remballés les Veks, Commandant."",
 ""La prochaine fois, nous ne devons pas laisser les Veks s'enfuir - ils vont se regrouper pour revenir en nombre."",
 ""La retraite Vek ne peut pas être considérée comme une victoire mais on s'en contentera pour l'instant.""","""[ Les Veks quittent la zone ]"",
 ""[ Les Veks reculent de la zone de conflit à pleine vitesse ]"",
