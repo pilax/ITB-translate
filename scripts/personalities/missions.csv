@@ -316,7 +316,7 @@ Universal Missions,,Every corporation island could use these missions,,,not used
 ""Interceptez les Veks dans ce secteur, mais ne faites pas de mal au Vek Explosif - éloignez-le sans le tuer ou les dégâts seront catastrophiques."",
 
 ""Nous avons identifié un Vek Explosif dans ce secteur, Commandant - 'encouragez'-le à se retirer - sans le tuer."","
-,Mission_Volatile_Success,Volatile Monster survives... ,"""Je suis sûr que ce Vek explosif sera de retour, mais au moins rien n'a été endommagé. Hmm... Nous devrions doubler la protection contre les explosions des Vestiges avant qu'il ne revienne..."", 
+,Mission_Volatile_Success,Volatile Monster survives... ,"""Je suis sûr que ce Vek explosif sera de retour, mais au moins rien n'a été endommagé. Hmm... Nous devrions doubler la protection de nos coffres contre les explosions avant qu'il ne revienne..."", 
 
 ""Si nous avions les ressources, nous pourrions capturer cette monstruosité volante et l'étudier. Au moins elle est partie maintenant, c'est un soulagement !"",
 ","""Excellent. Nous devrions être en mesure de suivre ce Vek Explosif et lui placer une Bombe de type Terra lorsqu'il frappera une région abandonnée."",
@@ -389,7 +389,7 @@ Archive Inc Missions,Mission_Airstrike_Briefing,,"""Cette région possédait un an
 ",,,
 ,Mission_Satellite_Success,,"""Nous récupérons déjà des données des satellites en orbite. Excellent travail, dorénavant, nous serons en mesure de prévoir et contrer les attaques Veks !"", 
 
-""J'ai rêvé de lancer ces satellites dans l'espace toute ma vie ! C'est incroyable de voir que la technologie de l'Ancienne Terre en action et qu'elle peut continuer de remplir ses objectifs."", 
+""J'ai rêvé de lancer ces satellites dans l'espace toute ma vie ! C'est incroyable de voir la technologie de l'Ancienne Terre fonctionner et en même temps remplir ses objectifs."", 
 
 ""De mon point de vue personnel, j'étais toujours triste de voir ces satellites exposés ainsi et prenant la poussière. Maintenant qu'ils sont dans l'espace, ils aident l'humanité et c'est pour ça qu'ils ont été créés !"",
 ",,,
