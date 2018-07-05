@@ -239,7 +239,7 @@ Use #main to say the dying unit's name.","""Statut du pilote #main_second : Décé
 ""Nous ferons payer aux Veks le sacrifice de ce pilote.""","""Il n'y a plus aucun signe de vie de #main_second. Sa perte est ressentie par tous."",
 ""Encore une vie que les Veks paieront.""","""Nous pleurons la perte de votre pilote, Commandant."", 
 ""Aucun sacrifice ne sera vain."", 
-""Pilot #main_second restera dans nos mémoires."""
+""#main_second restera dans nos mémoires."""
 ,Death_Response_AI,If another Mech dies but it doesn't have a pilot to die.,"""#main_mech : Détruit\nEfficacité Tactique : Compromise""","""Voir de la bonne techno mourir m'horripile..."",
 ""Je commençais juste à aimer l' I.A. sur ce Mech, aussi.""","""Ce mech et son pilote ont été réduits en miettes - Continuez à vous battre !""","""[ Att : Zénith. #main_reverse, transmission numéro de désignation et Ligne Temporelle Mortelle vers les archives Pinnacle ]""","""It's beyond repair; Detritus will see that it's disposed of safely."",
 ""Ce n'est pas une perte vaine - Detritus peut encore recycler l'épave"",",,"""Nous avions besoin de ce Mech, mais heureusement qu'il était piloté par une intelligence artificielle - Continuez à vous battre !"",
