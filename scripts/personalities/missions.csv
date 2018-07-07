@@ -497,7 +497,7 @@ Pinnacle Inc Missions,Mission_FreezeBots_Briefing,"Player is given a tank capabl
 ,Mission_FreezeBots_Failure,Both bots are dead,,,"""Je sais que je vous ai contraint. Mais je dois pleure la perte de vies..."",",
 ,,,,,,
 ,Mission_BotDefense_Briefing,"There are two neutral robots laying mines on the map, ignoring both players and enemies. The Player needs to defend them both to the end.",,,"""Nos robots poseurs de mine ont perdu leurs E/S et tentent de faire tourner de vieux programmes. Protégez ces créatures aveugles sans défense."",",
-,Mission_BotDefense_Success,,,,"""Avec les Veks détruits, nous pouvons tenter en toute sécurité les réparations sur nos machines. Je vous remercie."",",
+,Mission_BotDefense_Success,,,,"""Avec les Veks détruits, nous pouvons tenter en toute sécurité des réparations sur nos machines. Je vous remercie."",",
 ,Mission_BotDefense_Partial,1 bot died,,,"""Je sais que je vous ai contraint. Mais au moins une des machines a survécu, et ses Soeurs qui sont également des serveurs de données vous seront reconnaissantes."",",
 ,Mission_BotDefense_Failure,Both bots dead,,,"""Je sais que je vous ai contraint. Mais je dois pleurer la perte de tant de vies... <Connexion Perdue>"",",
 ,,,,,,

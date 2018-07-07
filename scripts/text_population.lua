@@ -4,7 +4,7 @@ local PopEvent = {
 	
 	Closing = { "Merci !", "Ils sont en fuite !", "Les Veks s'enfuient !", "Nous sommes sauvés !", "C'était impressionnant !", "Incroyable !", "Ils l'ont fait !", "C'est fini !", "Nous avons gagné !", "Nous avons survécu !", "Victoire !", "Ils sont partis !", "Ils fuient !", "Vous les avez effrayés !", },
 	
-	Closing_Dead = { "Merci !", "Je ne peux pas le croire !", "Mort ? Tous ?", "Ils les ont tous tués ?", "Ils sont tous morts !", "Nous sommes sauvés !", "Vous les avez éliminés !", "Les #squad les ont battus !", "Les Mechs les ont anéantis !", "Ils sont partis !", "Plus de Vek !", "Incroyable !", "Vous avez gagné !", "Nous avons survécu !",},
+	Closing_Dead = { "Merci !", "Je ne peux pas le croire !", "Tous morts ?", "Ils les ont tous tués ?", "Ils sont tous morts !", "Nous sommes sauvés !", "Vous les avez éliminés !", "Les #squad les ont battus !", "Les Mechs les ont anéantis !", "Ils sont partis !", "Plus de Vek !", "Incroyable !", "Vous avez gagné !", "Nous avons survécu !",},
 	
 	Closing_Perfect = { "Merci !", "Nous allons tous bien !", "Tout le monde va bien ?", "Les #squad nous ont sauvés !", "Trois hourras pour les #squad !", "#corp est sauvée !", "Rien n'a été endommagé !", "Les #squad sont des héros !", "Victoire parfaite !", "Victoire !" , "As-tu vu ça ?", "Je ne peux pas le croire !" },
 	
