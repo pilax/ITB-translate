@@ -17,7 +17,7 @@ AddPawn("Freeze_Tank")
 Pinnacle_FreezeTank = TankDefault:new{
 	Name = "Canon Glaçant",
 	Class = "",
-	Description = "Tir un projectile qui Gèle les cibles",
+	Description = "Tire un projectile qui Gèle les cibles",
 	Icon = "weapons/mission_tankice.png",
 	ProjectileArt = "effects/shot_tankice",
 	LaunchSound = "/support/civilian_tank/fire",
