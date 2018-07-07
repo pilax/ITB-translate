@@ -100,7 +100,7 @@ Generic Missions,Mission_Generic_Briefing,Missions without anything unique happe
 
 ""Les Veks sont de très bons combattants, et pourtant vous les avez vaincu avec brio. Mes compliments aux pilotes."", 
 
-""Les troupes de l'Ancienne Terre auraient été fières ! Si seulement elles avaient été là pour voir ça..."", 
+""Les troupes de l'Ancienne Terre auraient été fières ! Si seulement elles étaient là pour voir ça..."", 
 
 ""La région étant sécurisée, nous pouvons ouvrir tranquillement les coffres que nous avons découverts provenant de l'Ancienne Terre. Voyons quelle autre relique de l'Ancienne Terre nous pourrons utiliser contre les Veks !"",
 ","""C'est l'esprit qu'il faut si nous voulons gagner ce combat. Bon travail, à la fois vous et à l'escoude des #squad."",
@@ -352,7 +352,7 @@ Universal Missions,,Every corporation island could use these missions,,,not used
 ,Mission_BotBoss_Tower,,,,"""Mes serveurs de données dans le Tour Pinnacle ont subi de graves dommages. Je dois supervision leurs réparations."",",
 ,Mission_BotBoss_Success,,,,"""Si seulement nous savions comment la machine contrôle les Veks, nous pourrions gagner cette guerre. """,
 ,,,,,,
-,Mission_BossGeneric_Briefing,,"""Un Vek monstrueux approche de notre quartier général ! Elle doit être stoppée !""","""Une monstruosité Vek attaque notre tour. Nous devons compter sur vous une dernière fois pour nous aider.""","""La Tour Pinnacle est attaquée. Mon processeur d'analyse n'est pas capable d'identifier les espèces Veks qui nous menacent. Soyez prudent."",","""Nos capteurs ont détecté un Vek que nous n'avions jamais rencontré auparavant... Je crains qu'il soit plus coriace que les autres."",
+,Mission_BossGeneric_Briefing,,"""Un Vek monstrueux approche de notre quartier général ! Il doit être stoppé !""","""Une monstruosité Vek attaque notre tour. Nous devons compter sur vous une dernière fois pour nous aider.""","""La Tour Pinnacle est attaquée. Mon processeur d'analyse n'est pas capable d'identifier les espèces Veks qui nous menacent. Soyez prudent."",","""Nos capteurs ont détecté un Vek que nous n'avions jamais rencontré auparavant... Je crains qu'il soit plus coriace que les autres."",
 
 ""Nous avons détecté un Vek inconnu s'approchant du Quartier Général de Detritus. Nous rassemblons toutes les informations que nous pouvons, Commandant, mais nous avons besoin des #squad. "","
 ,Mission_BossGeneric_Boss,,"""Avec l'abomination Vek encore en vie, les Vek restent une menace sérieuse pour la région. Je ne peux que vous souhaitez d'être plus efficace sur les autres îles.""","""Si vous êtes vraiment le dernier espoir de l'humanité, alors nous sommes perdus. Cette monstruosité Vek attaquera encore, je pense que vous ne serez plus là pour nous aider la prochaine fois.""","""Je vais assigner un drone pour suivre et analyser ce nouveau Vek. Nous devrions obtenir plus de données sur lui pour mieux le combattre."",","""Ce Vek monstrueux a survécu - et il nous attaquera probablement encore une fois. Si les #squad ne peuvent pas le stopper, je crains que nos forces n'aient aucune chance."","
