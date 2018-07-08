@@ -4,7 +4,7 @@ Mission_BeetleBoss = Mission_Boss:new{
 --	Name = "Beetle Boss",
 	BossPawn = "BeetleBoss",
 	GlobalSpawnMod = -1,
-	BossText = "Détruire le Chef de Coléoptère"
+	BossText = "Détruire le Chef des Coléoptères"
 }
 
 -------- BOSS DESCRIPTION

@@ -4,7 +4,7 @@ Mission_FireflyBoss = Mission_Boss:new{
 --	Name = "Firefly Boss",
 	BossPawn = "FireflyBoss",
 	GlobalSpawnMod = -1,
-	BossText = "Détruire le Chef de Luciole"
+	BossText = "Détruire le Chef Luciole"
 }
 
 -------- BOSS DESCRIPTION
