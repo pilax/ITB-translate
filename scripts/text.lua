@@ -477,7 +477,7 @@ local Global_Texts = {
 	Pilot_MoveDesc = "Le déplacement du Mech piloté est augmenté de 1.",
 	
 	Pilot_GridName = "Bonus de Puissance Défensive",
-	Pilot_GridShort = "+3 pts de Puiss. DEF",
+	Pilot_GridShort = "+3 Puiss. DEF",
 	Pilot_GridDesc = "La Puissance Défensive augmentée de 3. Les bâtiments auront plus de chances de résister aux dégâts.",
 	
 	Pilot_ReactorName = "Bonus Réacteur",

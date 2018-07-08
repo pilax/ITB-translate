@@ -328,7 +328,7 @@ Prime_Flamethrower_A_UpgradeDescription = "Augmente la portée du lance-flammes d
 Prime_Flamethrower_B_UpgradeDescription = "Augmente la portée du lance-flammes de 1 tuile.",
 
 Prime_Areablast_Name = "Vents Explosifs",
-Prime_Areablast_Description = "Repousse toutes les tuiles adjacentes.", 
+Prime_Areablast_Description = "Pousse toutes les tuiles adjacentes.", 
 Prime_Areablast_Upgrade1 = "+1 Dégât",
 Prime_Areablast_Upgrade2 = "+1 Dégât",
 Prime_Areablast_A_UpgradeDescription = "Augmente les dégâts de 1.",
@@ -356,7 +356,7 @@ Prime_SpinFist_A_UpgradeDescription = "Réduit les dégâts que le Mech subit en ut
 Prime_SpinFist_B_UpgradeDescription = "Augmente les dégâts infligés aux cibles de 1.",
 
 Prime_Sword_Name = "Lame Titanite",
-Prime_Sword_Description = "Balance une épée massive infligeant des dégâts et pousse sur 3 tuiles.", 
+Prime_Sword_Description = "Balance une épée massive infligeant des dégâts et poussant sur 3 tuiles.", 
 Prime_Sword_Upgrade1 = "+1 Utilisation",
 Prime_Sword_Upgrade2 = "+2 de Dégâts",
 Prime_Sword_A_UpgradeDescription = "Augmente les Utilisations par bataille de 1.",
@@ -364,7 +364,7 @@ Prime_Sword_B_UpgradeDescription = "Augmente de 2 les dégâts sur chaque tuile af
 
 
 Prime_Smash_Name = "Poing Mercure",
-Prime_Smash_Description = "Frappe le sol, inflige d'énormes dégâts et pousse les tuiles adjacentes.", 
+Prime_Smash_Description = "Frappe le sol, infligeant d'énormes dégâts et poussant les tuiles adjacentes.", 
 Prime_Smash_Upgrade1 = "+1 Utilisation",
 Prime_Smash_Upgrade2 = "+1 Dégât",
 Prime_Smash_A_UpgradeDescription = "Augmente les Utilisations par bataille de 1.",
@@ -383,7 +383,7 @@ Brute_Tankmech_A_UpgradeDescription = "Augmente les dégâts de 1.",
 Brute_Tankmech_B_UpgradeDescription = "Augmente les dégâts de 1.",
 
 Brute_Jetmech_Name = "Bombardement",
-Brute_Jetmech_Description = "Survol une cible en lâchant une bombe fumigène explosive.", 
+Brute_Jetmech_Description = "Bombarde une cible avec une bombe fumigène explosive.", 
 Brute_Jetmech_Upgrade1 = "+1 Dégât",
 Brute_Jetmech_Upgrade2 = "+1 Distance",
 Brute_Jetmech_A_UpgradeDescription = "Augmente les dégâts de 1.",
@@ -432,7 +432,7 @@ Brute_Shockblast_A_UpgradeDescription = "Augmente les dégâts de 1.",
 Brute_Shockblast_B_UpgradeDescription = "Augmente les dégâts de 1.",
 
 Brute_Beetle_Name = "Moteur Fracassant",
-Brute_Beetle_Description = "Vole sur une ligne et s'écrase sur la cible, en le poussant et en vous blessant.", 
+Brute_Beetle_Description = "Fonce et s'écrase sur la cible, en la poussant et en vous blessant par la même occasion.", 
 Brute_Beetle_Upgrade1 = "+1 Dégât Chacun",
 Brute_Beetle_Upgrade2 = "+1 Dégât",
 Brute_Beetle_A_UpgradeDescription = "Augmente de 1 les dégâts ainsi qu'à la cible.",
@@ -460,14 +460,14 @@ Brute_Splitshot_A_UpgradeDescription = "Augmente les Utilisations par bataille d
 Brute_Splitshot_B_UpgradeDescription = "Augmente les dégâts de 1.",
 
 Brute_Bombrun_Name = "Bombes Astrales",
-Brute_Bombrun_Description = "Bondi sur n'importe quelle distance laissant tomber une bombe sur chaque tuile survolée.", 
+Brute_Bombrun_Description = "Bondi sur n'importe quelle distance bombardant chaque tuile survolée.", 
 Brute_Bombrun_Upgrade1 = "+1 Utilisation",
 Brute_Bombrun_Upgrade2 = "+2 de Dégâts",
 Brute_Bombrun_A_UpgradeDescription = "Augmente les Utilisations par bataille de 1.",
 Brute_Bombrun_B_UpgradeDescription = "Augmente de 2 les dégâts infligés à toutes les tuiles.",
 
 Brute_Sonic_Name = "Moteurs Hermès",
-Brute_Sonic_Description = "Se Rue sur une ligne, poussant les tuiles adjacentes sur son passage.", 
+Brute_Sonic_Description = "Fonce tout droit, poussant toutes les tuiles sur son passage.", 
 Brute_Sonic_Upgrade1 = "",
 Brute_Sonic_Upgrade2 = "",
 Brute_Sonic_A_UpgradeDescription = "",
