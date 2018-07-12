@@ -287,7 +287,7 @@ Prime_Lasermech_B_UpgradeDescription = "Augmente les dégâts de départ de 1.",
 
 Prime_ShieldBash_Name = "Bouclier Spartiate",
 Prime_ShieldBash_Description = "Cogne l'ennemi, inversant sa direction d'attaque.", 
-Prime_ShieldBash_Upgrade1 = "Bouclier Gagné",
+Prime_ShieldBash_Upgrade1 = "Bouclier",
 Prime_ShieldBash_Upgrade2 = "+1 Dégât",
 Prime_ShieldBash_A_UpgradeDescription = "Gagne un Bouclier lorsque vous Cognez.",
 Prime_ShieldBash_B_UpgradeDescription = "Augmente les dégâts de 1.",
@@ -907,7 +907,7 @@ Vek_Scarab_Name = "Goo Explosive",
 Vek_Scarab_Description = "Effectue une attaque d'Artillerie qui endommage une Tuile et qui pousse les tuiles adjacentes.", 
 Vek_Scarab_Upgrade1 = "+1 Tuile",
 Vek_Scarab_Upgrade2 = "+2 de Dégâts",
-Vek_Scarab_A_UpgradeDescription = "Augmente l'aire de dommage de 1.",
+Vek_Scarab_A_UpgradeDescription = "Augmente la zone de dommage de 1.",
 Vek_Scarab_B_UpgradeDescription = "Augmente les dégâts de 2.",
 ----------------------------------------------------------------------------------------------------------------------------
 ------------------- MISSION WEAPONS -------------------------------------------------------------------------------------
